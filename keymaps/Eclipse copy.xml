@@ -2,6 +2,11 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
@@ -25,6 +30,8 @@
     <mouse-shortcut keystroke="control button143" />
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
+  <action id="EditorNextWordWithSelection" />
+  <action id="EditorPreviousWordWithSelection" />
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
@@ -41,10 +48,28 @@
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
   <action id="IpnbAddCellBelowAction" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl f6" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
   </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift ctrl f6" />
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
   <action id="RecentChangedFiles" />
+  <action id="ResizeToolWindowLeft" />
+  <action id="ResizeToolWindowRight" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
