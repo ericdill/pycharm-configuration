@@ -22,6 +22,12 @@
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f12" />
   </action>
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
   <action id="EditorDecreaseFontSize">
     <mouse-shortcut keystroke="control button142" />
     <keyboard-shortcut first-keystroke="ctrl minus" />
@@ -71,18 +77,14 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="ctrl up" />
   </action>
-  <action id="NextSplitter">
-    <keyboard-shortcut first-keystroke="shift ctrl right" />
-  </action>
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl f6" />
     <keyboard-shortcut first-keystroke="ctrl page_down" />
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="OptimizeImports" />
-  <action id="PrevSplitter">
-    <keyboard-shortcut first-keystroke="shift ctrl left" />
-  </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift ctrl f6" />
     <keyboard-shortcut first-keystroke="ctrl page_up" />
@@ -96,6 +98,7 @@
   <action id="RenameElement" />
   <action id="ResizeToolWindowLeft" />
   <action id="ResizeToolWindowRight" />
+  <action id="ShowContent" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
