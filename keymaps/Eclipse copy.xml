@@ -38,6 +38,18 @@
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift ctrl alt n" />
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+  </action>
   <action id="Graph.Faces.OpenSelectedPages">
     <keyboard-shortcut first-keystroke="f12" />
   </action>
@@ -47,6 +59,7 @@
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
+  <action id="IntroduceConstant" />
   <action id="IpnbAddCellBelowAction" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="shift ctrl right" />
@@ -56,9 +69,7 @@
     <keyboard-shortcut first-keystroke="ctrl page_down" />
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
-  <action id="OptimizeImports">
-    <keyboard-shortcut first-keystroke="ctrl alt o" />
-  </action>
+  <action id="OptimizeImports" />
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="shift ctrl left" />
   </action>
@@ -68,6 +79,11 @@
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="RecentChangedFiles" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt t" />
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="RenameElement" />
   <action id="ResizeToolWindowLeft" />
   <action id="ResizeToolWindowRight" />
   <action id="ShowSettings">
