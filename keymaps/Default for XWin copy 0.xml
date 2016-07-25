@@ -1,0 +1,20 @@
+<keymap version="1" name="Default for XWin copy 0" parent="Default for XWin">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="MoveLineDown" />
+  <action id="MoveLineUp" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="SwitchDown" />
+  <action id="SwitchUp" />
+</keymap>
