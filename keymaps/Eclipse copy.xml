@@ -41,8 +41,6 @@
   </action>
   <action id="EditorLookupDown" />
   <action id="EditorLookupUp" />
-  <action id="EditorNextWordWithSelection" />
-  <action id="EditorPreviousWordWithSelection" />
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
   <action id="ExpandAll">
@@ -75,6 +73,8 @@
   <action id="IntroduceConstant" />
   <action id="IpnbAddCellBelowAction" />
   <action id="IpnbCodeCellAction" />
+  <action id="MethodDown" />
+  <action id="MethodUp" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="ctrl down" />
   </action>
