@@ -3,6 +3,7 @@
     <option name="SDK_TO_PYTEST">
       <map>
         <entry key="$USER_HOME$/miniconda/bin/python" value="false" />
+        <entry key="$USER_HOME$/miniconda/bin/python3.5" value="false" />
         <entry key="$USER_HOME$/miniconda/envs/masloco/bin/python" value="true" />
       </map>
     </option>
