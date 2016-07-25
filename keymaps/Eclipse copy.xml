@@ -2,6 +2,9 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="ChangeSplitOrientation">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
   <action id="CloseActiveTab" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
@@ -22,6 +25,12 @@
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f12" />
   </action>
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
   <action id="EditorDecreaseFontSize">
     <mouse-shortcut keystroke="control button142" />
     <keyboard-shortcut first-keystroke="ctrl minus" />
@@ -30,13 +39,27 @@
     <mouse-shortcut keystroke="control button143" />
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
-  <action id="EditorNextWordWithSelection" />
-  <action id="EditorPreviousWordWithSelection" />
+  <action id="EditorLookupDown" />
+  <action id="EditorLookupUp" />
+  <action id="EditorScrollDown" />
+  <action id="EditorScrollUp" />
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift ctrl alt n" />
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
   <action id="Graph.Faces.OpenSelectedPages">
     <keyboard-shortcut first-keystroke="f12" />
@@ -47,29 +70,39 @@
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
+  <action id="IntroduceConstant" />
   <action id="IpnbAddCellBelowAction" />
-  <action id="NextSplitter">
-    <keyboard-shortcut first-keystroke="shift ctrl right" />
+  <action id="IpnbCodeCellAction" />
+  <action id="MethodDown" />
+  <action id="MethodUp" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="ctrl down" />
   </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl f6" />
     <keyboard-shortcut first-keystroke="ctrl page_down" />
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
-  <action id="OptimizeImports">
-    <keyboard-shortcut first-keystroke="ctrl alt o" />
-  </action>
-  <action id="PrevSplitter">
-    <keyboard-shortcut first-keystroke="shift ctrl left" />
-  </action>
+  <action id="OptimizeImports" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift ctrl f6" />
     <keyboard-shortcut first-keystroke="ctrl page_up" />
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="RecentChangedFiles" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt t" />
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="RenameElement" />
   <action id="ResizeToolWindowLeft" />
   <action id="ResizeToolWindowRight" />
+  <action id="ShowContent" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
