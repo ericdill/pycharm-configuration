@@ -54,6 +54,7 @@
     <option name="SDK_TO_PYTEST">
       <map>
         <entry key="$USER_HOME$/miniconda/envs/masloco/bin/python" value="true" />
+        <entry key="C:\Users\edill\AppData\Local\Continuum\Miniconda3\python.exe" value="true" />
       </map>
     </option>
     <option name="SDK_TO_NOSETEST">
