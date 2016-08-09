@@ -55,6 +55,7 @@
       <map>
         <entry key="$USER_HOME$/miniconda/bin/python" value="true" />
         <entry key="$USER_HOME$/miniconda/envs/masloco/bin/python" value="true" />
+        <entry key="C:\Users\edill\AppData\Local\Continuum\Miniconda3\envs\depfinder\python.exe" value="true" />
         <entry key="C:\Users\edill\AppData\Local\Continuum\Miniconda3\python.exe" value="true" />
       </map>
     </option>
@@ -62,12 +63,14 @@
       <map>
         <entry key="$USER_HOME$/miniconda/bin/python" value="false" />
         <entry key="$USER_HOME$/miniconda/envs/masloco/bin/python" value="true" />
+        <entry key="C:\Users\edill\AppData\Local\Continuum\Miniconda3\envs\depfinder\python.exe" value="false" />
       </map>
     </option>
     <option name="SDK_TO_ATTEST">
       <map>
         <entry key="$USER_HOME$/miniconda/bin/python" value="false" />
         <entry key="$USER_HOME$/miniconda/envs/masloco/bin/python" value="false" />
+        <entry key="C:\Users\edill\AppData\Local\Continuum\Miniconda3\envs\depfinder\python.exe" value="false" />
       </map>
     </option>
   </component>
