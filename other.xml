@@ -35,7 +35,7 @@
         <option name="PATH_TO_PPK" value="" />
       </value>
     </option>
-    <option name="PATH_TO_PASSWORD_FILE" />
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
     <option name="TIMEOUT" value="10" />
     <option name="MAKE_CHECKED_OUT_FILES_READONLY" value="false" />
     <option name="CHECKOUT_PRUNE_EMPTY_DIRECTORIES" value="true" />
@@ -53,6 +53,7 @@
   <component name="PyTestFrameworkService">
     <option name="SDK_TO_PYTEST">
       <map>
+        <entry key="$USER_HOME$/miniconda/bin/python" value="true" />
         <entry key="$USER_HOME$/miniconda/envs/masloco/bin/python" value="true" />
         <entry key="C:\Users\edill\AppData\Local\Continuum\Miniconda3\envs\depfinder\python.exe" value="true" />
         <entry key="C:\Users\edill\AppData\Local\Continuum\Miniconda3\python.exe" value="true" />
@@ -60,12 +61,14 @@
     </option>
     <option name="SDK_TO_NOSETEST">
       <map>
+        <entry key="$USER_HOME$/miniconda/bin/python" value="false" />
         <entry key="$USER_HOME$/miniconda/envs/masloco/bin/python" value="true" />
         <entry key="C:\Users\edill\AppData\Local\Continuum\Miniconda3\envs\depfinder\python.exe" value="false" />
       </map>
     </option>
     <option name="SDK_TO_ATTEST">
       <map>
+        <entry key="$USER_HOME$/miniconda/bin/python" value="false" />
         <entry key="$USER_HOME$/miniconda/envs/masloco/bin/python" value="false" />
         <entry key="C:\Users\edill\AppData\Local\Continuum\Miniconda3\envs\depfinder\python.exe" value="false" />
       </map>
