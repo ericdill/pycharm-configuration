@@ -1,0 +1,117 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/dev/conda/build.py" timestamp="1474573095475" />
+      <file name="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" timestamp="1474572958366">
+        <mark key="'" line="99" column="51" />
+        <mark key="[" line="136" column="8" />
+        <mark key="]" line="136" column="12" />
+        <mark key="^" line="136" column="12" />
+        <mark key="." line="136" column="12" />
+      </file>
+      <file name="/a.dummy" timestamp="1474572938616">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/conda/buildmatrix/setup.py" timestamp="1474573102805">
+        <mark key="[" line="15" column="65" />
+        <mark key="]" line="15" column="65" />
+        <mark key="." line="15" column="65" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="87" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="130" column="38" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="677" column="15" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="678" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="683" column="57" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="729" column="24" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="88" column="49" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="94" column="6" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="95" column="16" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="101" column="51" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>]</text>
+      </register>
+      <register name="-" type="4">
+        <text>]</text>
+      </register>
+      <register name="/" type="4">
+        <text>channel</text>
+      </register>
+      <register name="0" type="4">
+        <text>'buildmatrix = buildmatrix.cli:cli']</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnYm0gPSBidWlsZG1hdHJpeC5jbGk6Y2xpJ11dfSwKKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGVudHJ5X3BvaW50cz17ImNvbnNvbGVfc2NyaXB0cyI6IFsnYnVpbGRtYXRyaXggPSBidWlsZG1hdHJpeC5jbGk6Y2xpJ119LAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">cmVxdWlyZWQgPSBvcGVuKCdyZXF1aXJlbWVudHMudHh0JykucmVhZCgpLnNwbGl0KCdcbicpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGluc3RhbGxfcmVxdWlyZXM9cmVxdWlyZWQsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVmYXVsdGRpY3QK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRpY3RfZnJvbV9pbmRleCA9IHtrOiBzb3J0ZWQodikgZm9yIGssIHYgaW4gcGFja2FnZXMuaXRlbXMoKX0K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGZpbGVfbmFtZXMgPSBbXQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>channel</last-search>
+      <last-offset />
+      <last-pattern>channel</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>get_file_names</entry>
+        <entry>anaconda_clu</entry>
+        <entry>anaconda_cli</entry>
+        <entry>channel</entry>
+      </history-search>
+      <history-cmd>
+        <entry>set relativenumber</entry>
+        <entry>set number</entry>
+        <entry>sp</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
