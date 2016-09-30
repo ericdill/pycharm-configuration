@@ -10,12 +10,21 @@
         <mark key="^" line="12" column="76" />
         <mark key="." line="12" column="76" />
       </file>
-      <file name="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" timestamp="1475261415366">
-        <mark key="'" line="520" column="9" />
-        <mark key="[" line="56" column="28" />
-        <mark key="]" line="56" column="38" />
-        <mark key="^" line="56" column="38" />
-        <mark key="." line="56" column="38" />
+      <file name="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/needs-numpy-at-compilation/meta.yaml" timestamp="1475263056426">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/compiles-against-numpy/meta.yaml" timestamp="1475262954519">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" timestamp="1475263992243">
+        <mark key="'" line="619" column="18" />
+        <mark key="^" line="479" column="64" />
       </file>
       <file name="/a.dummy" timestamp="1474572938616">
         <mark key="[" line="0" column="0" />
@@ -25,19 +34,31 @@
         <mark key="]" line="16" column="65" />
         <mark key="." line="16" column="65" />
       </file>
-      <file name="$USER_HOME$/dev/conda/buildmatrix/tests/test_cli.py" timestamp="1475259123263">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="36" column="39" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/dev/conda/buildmatrix/tests/test_cli.py" timestamp="1475265355192">
+        <mark key="'" line="49" column="28" />
+        <mark key="[" line="53" column="34" />
+        <mark key="]" line="53" column="34" />
+        <mark key="^" line="53" column="29" />
+        <mark key="." line="53" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/conda/buildmatrix/README.md" timestamp="1475262299414">
-        <mark key="'" line="30" column="46" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="23" column="20" />
-        <mark key="." line="23" column="20" />
-        <mark key="^" line="23" column="20" />
+      <file name="$USER_HOME$/dev/conda/buildmatrix/README.md" timestamp="1475263363483">
+        <mark key="'" line="97" column="26" />
+        <mark key="[" line="31" column="35" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/conda/buildmatrix/tests/conftest.py" timestamp="1475264684986">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="7" column="50" />
+        <mark key="^" line="7" column="50" />
+        <mark key="." line="7" column="50" />
+      </file>
+      <file name="$USER_HOME$/dev/conda/buildmatrix/tests/test_build_sorting.py" timestamp="1475264655122">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="3" />
+        <mark key="^" line="11" column="3" />
+        <mark key="." line="11" column="3" />
       </file>
       <file name="$USER_HOME$/dev/conda/buildmatrix/README" timestamp="1475260060929">
         <mark key="'" line="9" column="19" />
@@ -45,6 +66,12 @@
         <mark key="]" line="24" column="81" />
         <mark key="^" line="24" column="81" />
         <mark key="." line="24" column="81" />
+      </file>
+      <file name="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/depends-on-compiles-against-numpy/meta.yaml" timestamp="1475263139993">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="11" />
+        <mark key="^" line="2" column="11" />
+        <mark key="." line="2" column="11" />
       </file>
     </filemarks>
     <jumps>
@@ -81,55 +108,72 @@
       <jump line="518" column="61" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
       <jump line="520" column="9" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
       <jump line="27" column="46" filename="$USER_HOME$/dev/conda/buildmatrix/README.md" />
+      <jump line="24" column="2" filename="$USER_HOME$/dev/conda/buildmatrix/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/README.md" />
+      <jump line="31" column="13" filename="$USER_HOME$/dev/conda/buildmatrix/README.md" />
+      <jump line="93" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="96" column="4" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="619" column="18" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="9" column="36" filename="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/depends-on-compiles-against-numpy/meta.yaml" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/depends-on-compiles-against-numpy/meta.yaml" />
+      <jump line="6" column="8" filename="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/depends-on-compiles-against-numpy/meta.yaml" />
+      <jump line="3" column="60" filename="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/depends-on-compiles-against-numpy/meta.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/depends-on-compiles-against-numpy/meta.yaml" />
+      <jump line="56" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/README.md" />
+      <jump line="96" column="26" filename="$USER_HOME$/dev/conda/buildmatrix/README.md" />
+      <jump line="30" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/tests/test_cli.py" />
+      <jump line="47" column="28" filename="$USER_HOME$/dev/conda/buildmatrix/tests/test_cli.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHdpbGwgcHJvZHVjZTo=</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>logging</text>
+        <text>recipe_dir</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gcHl0aG9uIDIuNyBhbmQgbnVtcHkgMS4xMQogICAgLSBweXRob24gMy40IGFuZCBudW1weSAxLjExCiAgICAtIHB5dGhvbiAzLjUgYW5kIG51bXB5IDEuMTEK</text>
+        <text encoding="base64">ICAgIGFzc2VydCBidWlsZF9vcmRlclswXS5tZXRhWydwYWNrYWdlJ11bJ25hbWUnXSA9PSAncGFja2FnZS1hJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAnYW5hY29uZGEnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnLWMnLAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CgoKMi4gQ29tcGFyZSBhZ2FpbnN0IGEgY2hhbm5lbCBvbiBhbiBhbmFjb25kYSBzZXJ2ZXIgKGRlZmF1bHRzIHRvIGFuYWNvbmRhLm9yZy9hbmFjb25kYSkgYW5kIG9ubHkgYnVpbGQgdGhlIHBhY2thZ2VzIHRoYXQKICAgZG8gbm90IGFscmVhZHkgZXhpc3QKCjMuIEJ1aWxkIGNvbmRhIHBhY2thZ2VzIGZyb20gZ2l0IHNvdXJjZSBpbiBhZGRpdGlvbiB0byB0YXJiYWxscy4gVGhpcyBpcyB0aGUgcHJpbWFyeSBkaWZmZXJlbmNlIGJldHdlZW4gdGhpcyB0b29sCiAgIGFuZCBbY29uZGEtYnVpbGQtYWxsXShodHRwczovL2dpdGh1Yi5jb20vU2NpVG9vbHMvY29uZGEtYnVpbGQtYWxsKS4gIFlvdSBjYW4gdXNlIHRoZSBjb25kYSBHSVRfKiB2YXJpYWJsZXMKICAgaW4geW91ciBjb25kYSByZWNpcGVzIGFuZCBgYnVpbGRtYXRyaXhgIHdpbGwgZ28gYW5kIGNsb25lIHRoZSBnaXQgcmVwbyBhbmQgZXZhbHVhdGUgdGhlIEdJVF8qIHZhcmlhYmxlcwogICB3aGVuIGRldGVybWluaW5nIGlmIGl0IHNob3VsZCBidWlsZCB0aGUgcGFja2FnZSBvciBub3QgKHRoZSBzZWNvbmQgcG9pbnQgYWJvdmUp</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CjIuIENvbXBhcmUgYWdhaW5zdCBhIGNoYW5uZWwgb24gYW4gYW5hY29uZGEgc2VydmVyIChkZWZhdWx0cyB0byBhbmFjb25kYS5vcmcvYW5hY29uZGEpIGFuZCBvbmx5IGJ1aWxkIHRoZSBwYWNrYWdlcyB0aGF0CiAgIGRvIG5vdCBhbHJlYWR5IGV4aXN0CgozLiBCdWlsZCBjb25kYSBwYWNrYWdlcyBmcm9tIGdpdCBzb3VyY2UgaW4gYWRkaXRpb24gdG8gdGFyYmFsbHMuIFRoaXMgaXMgdGhlIHByaW1hcnkgZGlmZmVyZW5jZSBiZXR3ZWVuIHRoaXMgdG9vbAogICBhbmQgW2NvbmRhLWJ1aWxkLWFsbF0oaHR0cHM6Ly9naXRodWIuY29tL1NjaVRvb2xzL2NvbmRhLWJ1aWxkLWFsbCkuICBZb3UgY2FuIHVzZSB0aGUgY29uZGEgR0lUXyogdmFyaWFibGVzCiAgIGluIHlvdXIgY29uZGEgcmVjaXBlcyBhbmQgYGJ1aWxkbWF0cml4YCB3aWxsIGdvIGFuZCBjbG9uZSB0aGUgZ2l0IHJlcG8gYW5kIGV2YWx1YXRlIHRoZSBHSVRfKiB2YXJpYWJsZXMKIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLS0K</text>
+        <text encoding="base64">ICAgIGFzc2VydCBsZW4oYnVpbGRfaXJkZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5tYWtlZGlycyhsb2dfZGlybmFtZSwgZXhpc3Rfb2s9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgIHBhY2thZ2VzID0gZ2V0X2ZpbGVfbmFtZXNfb25fYW5hY29uZGFfY2hhbm5lbChjaGFubmVsKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnYXV0by1idWlsZC1sb2dzJykK</text>
+        <text encoding="base64">ICAgICAgICAnbmVlZHMtbnVtcHktYXQtY29tcGlsYXRpb24nKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dfZGlybmFtZSA9IG9zLnBhdGguam9pbihvcy5wYXRoLmV4cGFuZHVzZXIoJ34nKSwK</text>
+        <text encoding="base64">ICAgICAgICAnZXhhbXBsZS1yZWNpcGVzJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gcHl0aG9uIDIuNyBhbmQgbnVtcHkgMS4xMAogICAgLSBweXRob24gMy40IGFuZCBudW1weSAxLjEwCiAgICAtIHB5dGhvbiAzLjUgYW5kIG51bXB5IDEuMTAK</text>
+        <text encoding="base64">ICAgICAgICBkaXJuYW1lKF9fZmlsZV9fKSwK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>logging</last-search>
+      <last-search>recipe_dir</last-search>
       <last-offset />
-      <last-pattern>logging</last-pattern>
+      <last-pattern>recipe_dir</last-pattern>
+      <last-replace>examples_dir</last-replace>
+      <last-substitute>recipe_dir</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -138,19 +182,22 @@
         <entry>get_file_names</entry>
         <entry>anaconda_clu</entry>
         <entry>anaconda_cli</entry>
-        <entry>channel</entry>
         <entry>makedirs</entry>
         <entry>log_file</entry>
         <entry>&quot;</entry>
         <entry>mkdir</entry>
         <entry>logger.add</entry>
         <entry>logging</entry>
+        <entry>channel</entry>
+        <entry>-c</entry>
+        <entry>Figuring</entry>
+        <entry>Most</entry>
+        <entry>recipe_dir</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber</entry>
         <entry>set number</entry>
         <entry>Lw</entry>
-        <entry>w</entry>
         <entry>e</entry>
         <entry>! source ~/.vimrc</entry>
         <entry>set no</entry>
@@ -159,7 +206,15 @@
         <entry>sp</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>.w</entry>
         <entry>call NumberToggle()</entry>
+        <entry>m .-2</entry>
+        <entry>m .+1</entry>
+        <entry>lwL:w</entry>
+        <entry>&quot;w</entry>
+        <entry>%s/recipe_dir/examples_dir/g</entry>
+        <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -182,6 +237,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
