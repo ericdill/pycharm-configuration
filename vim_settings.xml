@@ -41,12 +41,12 @@
         <mark key="^" line="53" column="29" />
         <mark key="." line="53" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/conda/buildmatrix/README.md" timestamp="1475263363483">
-        <mark key="'" line="97" column="26" />
-        <mark key="[" line="31" column="35" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="32" column="0" />
+      <file name="$USER_HOME$/dev/conda/buildmatrix/README.md" timestamp="1475267028271">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="34" column="1" />
+        <mark key="]" line="34" column="1" />
+        <mark key="." line="34" column="1" />
+        <mark key="^" line="34" column="1" />
       </file>
       <file name="$USER_HOME$/dev/conda/buildmatrix/tests/conftest.py" timestamp="1475264684986">
         <mark key="[" line="5" column="19" />
@@ -123,13 +123,14 @@
       <jump line="96" column="26" filename="$USER_HOME$/dev/conda/buildmatrix/README.md" />
       <jump line="30" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/tests/test_cli.py" />
       <jump line="47" column="28" filename="$USER_HOME$/dev/conda/buildmatrix/tests/test_cli.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>and `bm` command line apps.</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>and `bm` command line apps.</text>
       </register>
       <register name="/" type="4">
         <text>recipe_dir</text>
@@ -165,7 +166,7 @@
         <text encoding="base64">ICAgICAgICBkaXJuYW1lKF9fZmlsZV9fKSwK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -195,16 +196,13 @@
         <entry>recipe_dir</entry>
       </history-search>
       <history-cmd>
-        <entry>set relativenumber</entry>
         <entry>set number</entry>
-        <entry>Lw</entry>
         <entry>e</entry>
         <entry>! source ~/.vimrc</entry>
         <entry>set no</entry>
         <entry>set nu</entry>
         <entry>set rnu</entry>
         <entry>sp</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry>.w</entry>
         <entry>call NumberToggle()</entry>
@@ -214,7 +212,10 @@
         <entry>&quot;w</entry>
         <entry>%s/recipe_dir/examples_dir/g</entry>
         <entry>W</entry>
+        <entry>q</entry>
+        <entry>Lw</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
