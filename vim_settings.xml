@@ -123,7 +123,7 @@
         <text encoding="base64">ICAgIC0gcHl0aG9uIDIuNyBhbmQgbnVtcHkgMS4xMAogICAgLSBweXRob24gMy40IGFuZCBudW1weSAxLjEwCiAgICAtIHB5dGhvbiAzLjUgYW5kIG51bXB5IDEuMTAK</text>
       </register>
       <register name=":" type="4">
-        <text>e</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -149,12 +149,16 @@
       <history-cmd>
         <entry>set relativenumber</entry>
         <entry>set number</entry>
-        <entry>sp</entry>
-        <entry>wq</entry>
         <entry>Lw</entry>
         <entry>w</entry>
-        <entry>q</entry>
         <entry>e</entry>
+        <entry>! source ~/.vimrc</entry>
+        <entry>set no</entry>
+        <entry>set nu</entry>
+        <entry>set rnu</entry>
+        <entry>sp</entry>
+        <entry>q</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
