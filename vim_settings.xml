@@ -3,13 +3,28 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/conda/build.py" timestamp="1474573095475" />
-      <file name="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" timestamp="1474572958366">
-        <mark key="'" line="99" column="51" />
-        <mark key="[" line="136" column="8" />
-        <mark key="]" line="136" column="12" />
-        <mark key="^" line="136" column="12" />
-        <mark key="." line="136" column="12" />
+      <file name="$USER_HOME$/dev/conda/buildmatrix/.travis.yml" timestamp="1475262605706">
+        <mark key="'" line="14" column="15" />
+        <mark key="[" line="12" column="47" />
+        <mark key="]" line="12" column="76" />
+        <mark key="^" line="12" column="76" />
+        <mark key="." line="12" column="76" />
+      </file>
+      <file name="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/needs-numpy-at-compilation/meta.yaml" timestamp="1475263056426">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/compiles-against-numpy/meta.yaml" timestamp="1475262954519">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" timestamp="1475263992243">
+        <mark key="'" line="619" column="18" />
+        <mark key="^" line="479" column="64" />
       </file>
       <file name="/a.dummy" timestamp="1474572938616">
         <mark key="[" line="0" column="0" />
@@ -18,6 +33,45 @@
         <mark key="[" line="16" column="65" />
         <mark key="]" line="16" column="65" />
         <mark key="." line="16" column="65" />
+      </file>
+      <file name="$USER_HOME$/dev/conda/buildmatrix/tests/test_cli.py" timestamp="1475265355192">
+        <mark key="'" line="49" column="28" />
+        <mark key="[" line="53" column="34" />
+        <mark key="]" line="53" column="34" />
+        <mark key="^" line="53" column="29" />
+        <mark key="." line="53" column="34" />
+      </file>
+      <file name="$USER_HOME$/dev/conda/buildmatrix/README.md" timestamp="1475267028271">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="34" column="1" />
+        <mark key="]" line="34" column="1" />
+        <mark key="." line="34" column="1" />
+        <mark key="^" line="34" column="1" />
+      </file>
+      <file name="$USER_HOME$/dev/conda/buildmatrix/tests/conftest.py" timestamp="1475264684986">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="7" column="50" />
+        <mark key="^" line="7" column="50" />
+        <mark key="." line="7" column="50" />
+      </file>
+      <file name="$USER_HOME$/dev/conda/buildmatrix/tests/test_build_sorting.py" timestamp="1475264655122">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="3" />
+        <mark key="^" line="11" column="3" />
+        <mark key="." line="11" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/conda/buildmatrix/README" timestamp="1475260060929">
+        <mark key="'" line="9" column="19" />
+        <mark key="[" line="22" column="69" />
+        <mark key="]" line="24" column="81" />
+        <mark key="^" line="24" column="81" />
+        <mark key="." line="24" column="81" />
+      </file>
+      <file name="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/depends-on-compiles-against-numpy/meta.yaml" timestamp="1475263139993">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="11" />
+        <mark key="^" line="2" column="11" />
+        <mark key="." line="2" column="11" />
       </file>
     </filemarks>
     <jumps>
@@ -32,55 +86,95 @@
       <jump line="94" column="6" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
       <jump line="95" column="16" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
       <jump line="101" column="51" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="48" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/tests/test_cli.py" />
+      <jump line="25" column="15" filename="$USER_HOME$/dev/conda/buildmatrix/.travis.yml" />
+      <jump line="9" column="19" filename="$USER_HOME$/dev/conda/buildmatrix/README" />
+      <jump line="548" column="40" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="530" column="17" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="531" column="11" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="536" column="40" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="534" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="535" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="97" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="554" column="4" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="553" column="4" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="532" column="41" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="540" column="13" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="542" column="21" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="543" column="19" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="40" column="7" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="56" column="9" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="493" column="52" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="518" column="61" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="520" column="9" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="27" column="46" filename="$USER_HOME$/dev/conda/buildmatrix/README.md" />
+      <jump line="24" column="2" filename="$USER_HOME$/dev/conda/buildmatrix/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/README.md" />
+      <jump line="31" column="13" filename="$USER_HOME$/dev/conda/buildmatrix/README.md" />
+      <jump line="93" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="96" column="4" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="619" column="18" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="9" column="36" filename="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/depends-on-compiles-against-numpy/meta.yaml" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/depends-on-compiles-against-numpy/meta.yaml" />
+      <jump line="6" column="8" filename="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/depends-on-compiles-against-numpy/meta.yaml" />
+      <jump line="3" column="60" filename="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/depends-on-compiles-against-numpy/meta.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/depends-on-compiles-against-numpy/meta.yaml" />
+      <jump line="56" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/README.md" />
+      <jump line="96" column="26" filename="$USER_HOME$/dev/conda/buildmatrix/README.md" />
+      <jump line="30" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/tests/test_cli.py" />
+      <jump line="47" column="28" filename="$USER_HOME$/dev/conda/buildmatrix/tests/test_cli.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>and `bm` command line apps.</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>and `bm` command line apps.</text>
       </register>
       <register name="/" type="4">
-        <text>channel</text>
+        <text>recipe_dir</text>
       </register>
-      <register name="0" type="4">
-        <text>'buildmatrix = buildmatrix.cli:cli']</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGFzc2VydCBidWlsZF9vcmRlclswXS5tZXRhWydwYWNrYWdlJ11bJ25hbWUnXSA9PSAncGFja2FnZS1hJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnYm0gPSBidWlsZG1hdHJpeC5jbGk6Y2xpJ11dfSwKKQo=</text>
+        <text encoding="base64">ICAgICAgICAnYW5hY29uZGEnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVudHJ5X3BvaW50cz17ImNvbnNvbGVfc2NyaXB0cyI6IFsnYnVpbGRtYXRyaXggPSBidWlsZG1hdHJpeC5jbGk6Y2xpJ119LAo=</text>
+        <text encoding="base64">ICAgICAgICAnLWMnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVxdWlyZWQgPSBvcGVuKCdyZXF1aXJlbWVudHMudHh0JykucmVhZCgpLnNwbGl0KCdcbicpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGluc3RhbGxfcmVxdWlyZXM9cmVxdWlyZWQsCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCBsZW4oYnVpbGRfaXJkZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVmYXVsdGRpY3QK</text>
+        <text encoding="base64">ICAgIHBhY2thZ2VzID0gZ2V0X2ZpbGVfbmFtZXNfb25fYW5hY29uZGFfY2hhbm5lbChjaGFubmVsKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnbmVlZHMtbnVtcHktYXQtY29tcGlsYXRpb24nKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRpY3RfZnJvbV9pbmRleCA9IHtrOiBzb3J0ZWQodikgZm9yIGssIHYgaW4gcGFja2FnZXMuaXRlbXMoKX0K</text>
+        <text encoding="base64">ICAgICAgICAnZXhhbXBsZS1yZWNpcGVzJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpbGVfbmFtZXMgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICBkaXJuYW1lKF9fZmlsZV9fKSwK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
-      <last-search>channel</last-search>
+      <last-search>recipe_dir</last-search>
       <last-offset />
-      <last-pattern>channel</last-pattern>
+      <last-pattern>recipe_dir</last-pattern>
+      <last-replace>examples_dir</last-replace>
+      <last-substitute>recipe_dir</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -89,15 +183,42 @@
         <entry>get_file_names</entry>
         <entry>anaconda_clu</entry>
         <entry>anaconda_cli</entry>
+        <entry>makedirs</entry>
+        <entry>log_file</entry>
+        <entry>&quot;</entry>
+        <entry>mkdir</entry>
+        <entry>logger.add</entry>
+        <entry>logging</entry>
         <entry>channel</entry>
+        <entry>-c</entry>
+        <entry>Figuring</entry>
+        <entry>Most</entry>
+        <entry>recipe_dir</entry>
       </history-search>
       <history-cmd>
-        <entry>set relativenumber</entry>
         <entry>set number</entry>
+        <entry>e</entry>
+        <entry>! source ~/.vimrc</entry>
+        <entry>set no</entry>
+        <entry>set nu</entry>
+        <entry>set rnu</entry>
         <entry>sp</entry>
         <entry>wq</entry>
+        <entry>.w</entry>
+        <entry>call NumberToggle()</entry>
+        <entry>m .-2</entry>
+        <entry>m .+1</entry>
+        <entry>lwL:w</entry>
+        <entry>&quot;w</entry>
+        <entry>%s/recipe_dir/examples_dir/g</entry>
+        <entry>W</entry>
+        <entry>q</entry>
+        <entry>Lw</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -111,6 +232,21 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
