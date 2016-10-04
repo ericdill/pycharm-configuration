@@ -67,12 +67,12 @@
         <mark key="'" line="619" column="18" />
         <mark key="^" line="479" column="64" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/minion-services-py/jenkins-build.sh" timestamp="1475608770494">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="1" column="14" />
-        <mark key="^" line="1" column="14" />
-        <mark key="." line="1" column="14" />
+      <file name="$USER_HOME$/dev/maxpoint/minion-services-py/jenkins-build.sh" timestamp="1475613465073">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="3" column="5" />
+        <mark key="^" line="3" column="5" />
+        <mark key="." line="3" column="5" />
       </file>
       <file name="$USER_HOME$/dev/conda/buildmatrix/tests/test_cli.py" timestamp="1475265355192">
         <mark key="'" line="49" column="28" />
