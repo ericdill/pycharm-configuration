@@ -3,9 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/maxpoint/minion-services-py/meta.template.yaml" timestamp="1475607287222">
-        <mark key="'" line="33" column="2" />
-        <mark key="^" line="30" column="5" />
+      <file name="$USER_HOME$/dev/maxpoint/minion-services-py/meta.template.yaml" timestamp="1475609608990">
+        <mark key="'" line="37" column="2" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="6" column="1" />
+        <mark key="^" line="6" column="1" />
+        <mark key="." line="6" column="1" />
       </file>
       <file name="$USER_HOME$/miniconda/envs/masloco/lib/python2.7/pkgutil.py" timestamp="1475601865995">
         <mark key="'" line="14" column="5" />
@@ -64,12 +67,12 @@
         <mark key="'" line="619" column="18" />
         <mark key="^" line="479" column="64" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/minion-services-py/jenkins-build.sh" timestamp="1475604451093">
-        <mark key="'" line="45" column="4" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="6" />
-        <mark key="^" line="34" column="6" />
-        <mark key="." line="34" column="6" />
+      <file name="$USER_HOME$/dev/maxpoint/minion-services-py/jenkins-build.sh" timestamp="1475608770494">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="1" column="14" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="1" column="14" />
       </file>
       <file name="$USER_HOME$/dev/conda/buildmatrix/tests/test_cli.py" timestamp="1475265355192">
         <mark key="'" line="49" column="28" />
@@ -92,12 +95,12 @@
         <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/minion-services-py/maxpoint/broker_service/broker/Broker-remote" timestamp="1475606504322" />
-      <file name="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" timestamp="1475607521390">
-        <mark key="'" line="26" column="4" />
-        <mark key="[" line="109" column="67" />
-        <mark key="]" line="109" column="73" />
-        <mark key="." line="109" column="73" />
-        <mark key="^" line="109" column="73" />
+      <file name="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" timestamp="1475610120993">
+        <mark key="'" line="88" column="43" />
+        <mark key="[" line="106" column="29" />
+        <mark key="]" line="106" column="29" />
+        <mark key="." line="106" column="29" />
+        <mark key="^" line="106" column="28" />
       </file>
       <file name="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/depends-on-compiles-against-numpy/meta.yaml" timestamp="1475263139993">
         <mark key="[" line="2" column="10" />
@@ -107,11 +110,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="130" column="38" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="677" column="15" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="678" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="683" column="57" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
       <jump line="729" column="24" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
       <jump line="59" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
       <jump line="88" column="49" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
@@ -156,11 +154,9 @@
       <jump line="30" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/tests/test_cli.py" />
       <jump line="47" column="28" filename="$USER_HOME$/dev/conda/buildmatrix/tests/test_cli.py" />
       <jump line="54" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/README.md" />
-      <jump line="55" column="27" filename="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" />
       <jump line="128" column="9" filename="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" />
       <jump line="15" column="24" filename="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" />
       <jump line="127" column="17" filename="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" />
-      <jump line="88" column="0" filename="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" />
       <jump line="13" column="25" filename="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" />
       <jump line="78" column="8" filename="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" />
@@ -190,7 +186,6 @@
       <jump line="24" column="36" filename="$USER_HOME$/dev/maxpoint/minion-services-py/jenkins-build.sh" />
       <jump line="44" column="4" filename="$USER_HOME$/dev/maxpoint/minion-services-py/jenkins-build.sh" />
       <jump line="48" column="10" filename="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" />
-      <jump line="67" column="19" filename="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" />
       <jump line="72" column="17" filename="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" />
       <jump line="77" column="74" filename="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" />
       <jump line="18" column="22" filename="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" />
@@ -203,18 +198,28 @@
       <jump line="33" column="2" filename="$USER_HOME$/dev/maxpoint/minion-services-py/meta.template.yaml" />
       <jump line="91" column="0" filename="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" />
-      <jump line="76" column="20" filename="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" />
       <jump line="26" column="4" filename="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" />
+      <jump line="34" column="6" filename="$USER_HOME$/dev/maxpoint/minion-services-py/jenkins-build.sh" />
+      <jump line="1" column="14" filename="$USER_HOME$/dev/maxpoint/minion-services-py/jenkins-build.sh" />
+      <jump line="46" column="0" filename="$USER_HOME$/dev/maxpoint/minion-services-py/jenkins-build.sh" />
+      <jump line="116" column="49" filename="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" />
+      <jump line="120" column="24" filename="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" />
+      <jump line="46" column="49" filename="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" />
+      <jump line="55" column="34" filename="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" />
+      <jump line="67" column="31" filename="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" />
+      <jump line="68" column="44" filename="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" />
+      <jump line="76" column="30" filename="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" />
+      <jump line="88" column="43" filename="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;.load(open(os.path.join(folder, &quot;meta.yaml&quot;), 'r'))['package']['version']</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;.load(open(os.path.join(folder, &quot;meta.yaml&quot;), 'r'))['package']['version']</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>setup_py</text>
+        <text>'\.'</text>
       </register>
       <register name="0" type="4">
         <text>extra:
@@ -222,40 +227,40 @@
   full_environ_yes_really: {{ environ }}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmVyc2lvbiA9ICIubG9hZChvcGVuKG9zLnBhdGguam9pbihmb2xkZXIsICJtZXRhLnlhbWwiKSwgJ3InKSlbJ3BhY2thZ2UnXVsndmVyc2lvbiddCgpwYWNrYWdlcyA9IGZpbmRfcGFja2FnZXMoZXhjbHVkZT1bIm1pbmlvbi5zZXJ2aWNlcy57e3NlcnZpY2VfbmFtZX19KiIsICJ0ZXN0cyoiLCAicmVjaXBlcyoiXSkKCmRlZiB3cml0ZV92ZXJzaW9uX3B5KCk6CiAgICBjb250ZW50ID0gIiIiXAp2ZXJzaW9uID0gJyVzJwoiIiIgJSBzdHIodmVyc2lvbikKCiAgICBmaWxlbmFtZSA9IG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAnbWluaW9uJywgJ3NlcnZpY2VzJywgJ3tzZXJ2aWNlX25hbWV9JywgJ3ZlcnNpb24ucHknKQogICAgd2l0aCBvcGVuKGZpbGVuYW1lLCAndycpIGFzIGZvOgogICAgICAgIGZvLndyaXRlKGNvbnRlbnQpCgp3cml0ZV92ZXJzaW9uX3B5KCkKCnNldHVwKAogICAgbmFtZT0nbWluaW9uLnNlcnZpY2VzLntzZXJ2aWNlX25hbWV9JywKICAgIGRlc2NyaXB0aW9uPSdQeXRob24gVXRpbGl0aWVzIGZvciB0aHJpZnQgc3VwcG9ydCcsCiAgICB2ZXJzaW9uPXN0cih2ZXJzaW9uKSwKICAgIHVybD0naHR0cDovL3d3dy5tYXhwb2ludC5jb20nLAogICAgcGFja2FnZXM9cGFja2FnZXMsCiAgICBuYW1lc3BhY2VfcGFja2FnZXM9WydtaW5pb24nLCAnbWluaW9uLnNlcnZpY2VzJ10sCiAgICB6aXBfc2FmZT1GYWxzZSwKICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmVyc2lvbiA9ICIubG9hZChvcGVuKG9zLnBhdGguam9pbihmb2xkZXIsICJtZXRhLnlhbWwiKSwgJ3InKSlbJ3BhY2thZ2UnXVsndmVyc2lvbiddCgpwYWNrYWdlcyA9IGZpbmRfcGFja2FnZXMoZXhjbHVkZT1bIm1pbmlvbi5zZXJ2aWNlcy57e3NlcnZpY2VfbmFtZX19KiIsICJ0ZXN0cyoiLCAicmVjaXBlcyoiXSkKCmRlZiB3cml0ZV92ZXJzaW9uX3B5KCk6CiAgICBjb250ZW50ID0gIiIiXAp2ZXJzaW9uID0gJyVzJwoiIiIgJSBzdHIodmVyc2lvbikKCiAgICBmaWxlbmFtZSA9IG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAnbWluaW9uJywgJ3NlcnZpY2VzJywgJ3tzZXJ2aWNlX25hbWV9JywgJ3ZlcnNpb24ucHknKQogICAgd2l0aCBvcGVuKGZpbGVuYW1lLCAndycpIGFzIGZvOgogICAgICAgIGZvLndyaXRlKGNvbnRlbnQpCgp3cml0ZV92ZXJzaW9uX3B5KCkKCnNldHVwKAogICAgbmFtZT0nbWluaW9uLnNlcnZpY2VzLntzZXJ2aWNlX25hbWV9JywKICAgIGRlc2NyaXB0aW9uPSdQeXRob24gVXRpbGl0aWVzIGZvciB0aHJpZnQgc3VwcG9ydCcsCiAgICB2ZXJzaW9uPXN0cih2ZXJzaW9uKSwKICAgIHVybD0naHR0cDovL3d3dy5tYXhwb2ludC5jb20nLAogICAgcGFja2FnZXM9cGFja2FnZXMsCiAgICBuYW1lc3BhY2VfcGFja2FnZXM9WydtaW5pb24nLCAnbWluaW9uLnNlcnZpY2VzJ10sCiAgICB6aXBfc2FmZT1GYWxzZSwKICAgICkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oJycpCg==</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text encoding="base64">ICAKICA=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYgogICAgICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgQXR0cmlidXRlRXJyb3I6Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgQXR0cmlidXRlRXJyb3I6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>setup_py</last-search>
+      <last-search>'\.'</last-search>
       <last-offset />
-      <last-pattern>setup_py</last-pattern>
+      <last-pattern>'\.'</last-pattern>
       <last-replace>}</last-replace>
       <last-substitute encoding="base64">IH19</last-substitute>
       <last-dir>1</last-dir>
@@ -263,8 +268,6 @@
     </search>
     <history>
       <history-search>
-        <entry>generate_module</entry>
-        <entry>find_modukle</entry>
         <entry>importer</entry>
         <entry>ImpImporter</entry>
         <entry>_internal</entry>
@@ -283,12 +286,10 @@
         <entry encoding="base64">IH19</entry>
         <entry>setup.py</entry>
         <entry>setup_py</entry>
+        <entry>'.'</entry>
+        <entry>'\.'</entry>
       </history-search>
       <history-cmd>
-        <entry>set rnu</entry>
-        <entry>sp</entry>
-        <entry>wq</entry>
-        <entry>.w</entry>
         <entry>call NumberToggle()</entry>
         <entry>lwL:w</entry>
         <entry>%s/recipe_dir/examples_dir/g</entry>
@@ -304,6 +305,10 @@
         <entry>%s/{{ /{/g</entry>
         <entry>%s/ }}/}/g</entry>
         <entry>110</entry>
+        <entry>w'</entry>
+        <entry>wq</entry>
+        <entry>e setupmaker.py</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
