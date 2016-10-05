@@ -62,7 +62,12 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" timestamp="1475684804941" />
+      <file name="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" timestamp="1475688976412">
+        <mark key="[" line="615" column="25" />
+        <mark key="]" line="615" column="37" />
+        <mark key="." line="615" column="37" />
+        <mark key="^" line="615" column="37" />
+      </file>
       <file name="$USER_HOME$/dev/maxpoint/minion-services-py/jenkins-build.sh" timestamp="1475613465073">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="2" column="7" />
@@ -207,13 +212,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>np</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>np</text>
       </register>
       <register name="/" type="4">
-        <text>def run(</text>
+        <text>print</text>
       </register>
       <register name="0" type="4">
         <text>extra:
@@ -224,37 +229,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncHl0aG9uJzogJycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYW5bbWV0YS5tZXRhWydwYWNrYWdlJ11bJ25hbWUnXV0gPSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncHl0aG9uJzogJycK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGYud3JpdGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYW5bbWV0YS5tZXRhWydwYWNrYWdlJ11bJ25hbWUnXV0gPSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIG1ldGFfb2JqZWN0IGluIGJ1aWxkX29yZGVyOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGYud3JpdGUoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIG1ldGFfb2JqZWN0IGluIGJ1aWxkX29yZGVyOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBwZGIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>def run(</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>def run(</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>logging.info</last-replace>
       <last-substitute>print</last-substitute>
       <last-dir>1</last-dir>
@@ -277,14 +282,13 @@
         <entry>priunt</entry>
         <entry>plogging</entry>
         <entry>stdoutlog</entry>
-        <entry>print</entry>
         <entry>log</entry>
         <entry>format</entry>
         <entry>init_logging</entry>
         <entry>def run(</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
-        <entry>Lw</entry>
         <entry>m .+1</entry>
         <entry>123</entry>
         <entry>&quot;w</entry>
@@ -303,6 +307,7 @@
         <entry>m .-2</entry>
         <entry>set rnu</entry>
         <entry>set nu</entry>
+        <entry>s</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
