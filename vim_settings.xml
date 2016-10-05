@@ -62,12 +62,8 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" timestamp="1475692568403">
-        <mark key="'" line="625" column="25" />
-        <mark key="[" line="611" column="17" />
-        <mark key="]" line="612" column="59" />
-        <mark key="." line="612" column="59" />
-        <mark key="^" line="612" column="59" />
+      <file name="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" timestamp="1475693537965">
+        <mark key="'" line="620" column="25" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/minion-services-py/jenkins-build.sh" timestamp="1475613465073">
         <mark key="'" line="41" column="0" />
