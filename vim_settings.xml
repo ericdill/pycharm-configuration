@@ -62,10 +62,8 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/minion-services-py/setup.py" timestamp="1475606103262" />
-      <file name="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" timestamp="1475263992243">
-        <mark key="'" line="619" column="18" />
-        <mark key="^" line="479" column="64" />
+      <file name="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" timestamp="1475684804941">
+        <mark key="'" line="38" column="10" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/minion-services-py/jenkins-build.sh" timestamp="1475613465073">
         <mark key="'" line="41" column="0" />
@@ -74,12 +72,12 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/conda/buildmatrix/tests/test_cli.py" timestamp="1475265355192">
+      <file name="$USER_HOME$/dev/conda/buildmatrix/tests/test_cli.py" timestamp="1475685044717">
         <mark key="'" line="49" column="28" />
-        <mark key="[" line="53" column="34" />
-        <mark key="]" line="53" column="34" />
-        <mark key="^" line="53" column="29" />
-        <mark key="." line="53" column="34" />
+        <mark key="[" line="49" column="29" />
+        <mark key="]" line="49" column="28" />
+        <mark key="^" line="49" column="28" />
+        <mark key="." line="49" column="28" />
       </file>
       <file name="$USER_HOME$/dev/conda/buildmatrix/tests/conftest.py" timestamp="1475264684986">
         <mark key="[" line="5" column="19" />
@@ -87,14 +85,12 @@
         <mark key="^" line="7" column="50" />
         <mark key="." line="7" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/minion-services-py/__init__.template.py" timestamp="1475603998269" />
       <file name="$USER_HOME$/dev/maxpoint/minion-services-py/meta.yaml" timestamp="1475605960448">
         <mark key="'" line="37" column="38" />
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/minion-services-py/maxpoint/broker_service/broker/Broker-remote" timestamp="1475606504322" />
       <file name="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" timestamp="1475610120993">
         <mark key="'" line="88" column="43" />
         <mark key="[" line="106" column="29" />
@@ -110,30 +106,7 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="729" column="24" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="88" column="49" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="94" column="6" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="95" column="16" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="101" column="51" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/tests/test_cli.py" />
-      <jump line="25" column="15" filename="$USER_HOME$/dev/conda/buildmatrix/.travis.yml" />
-      <jump line="9" column="19" filename="$USER_HOME$/dev/conda/buildmatrix/README" />
-      <jump line="548" column="40" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="530" column="17" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="531" column="11" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="536" column="40" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="534" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="535" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="97" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="554" column="4" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="553" column="4" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="532" column="41" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="540" column="13" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="542" column="21" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="543" column="19" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
       <jump line="40" column="7" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="56" column="9" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
       <jump line="493" column="52" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
       <jump line="518" column="61" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
       <jump line="520" column="9" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
@@ -210,16 +183,39 @@
       <jump line="68" column="44" filename="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" />
       <jump line="76" column="30" filename="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" />
       <jump line="88" column="43" filename="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" />
+      <jump line="560" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="557" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="115" column="49" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="120" column="41" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="122" column="26" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="420" column="39" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="486" column="4" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="109" column="4" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="127" column="36" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="133" column="8" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="623" column="24" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="51" column="6" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="56" column="9" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="82" column="4" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="121" column="4" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="150" column="68" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="225" column="32" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="227" column="36" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="531" column="4" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="559" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="624" column="23" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="38" column="10" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>'\.'</text>
+        <text>def run(</text>
       </register>
       <register name="0" type="4">
         <text>extra:
@@ -227,56 +223,47 @@
   full_environ_yes_really: {{ environ }}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmVyc2lvbiA9ICIubG9hZChvcGVuKG9zLnBhdGguam9pbihmb2xkZXIsICJtZXRhLnlhbWwiKSwgJ3InKSlbJ3BhY2thZ2UnXVsndmVyc2lvbiddCgpwYWNrYWdlcyA9IGZpbmRfcGFja2FnZXMoZXhjbHVkZT1bIm1pbmlvbi5zZXJ2aWNlcy57e3NlcnZpY2VfbmFtZX19KiIsICJ0ZXN0cyoiLCAicmVjaXBlcyoiXSkKCmRlZiB3cml0ZV92ZXJzaW9uX3B5KCk6CiAgICBjb250ZW50ID0gIiIiXAp2ZXJzaW9uID0gJyVzJwoiIiIgJSBzdHIodmVyc2lvbikKCiAgICBmaWxlbmFtZSA9IG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAnbWluaW9uJywgJ3NlcnZpY2VzJywgJ3tzZXJ2aWNlX25hbWV9JywgJ3ZlcnNpb24ucHknKQogICAgd2l0aCBvcGVuKGZpbGVuYW1lLCAndycpIGFzIGZvOgogICAgICAgIGZvLndyaXRlKGNvbnRlbnQpCgp3cml0ZV92ZXJzaW9uX3B5KCkKCnNldHVwKAogICAgbmFtZT0nbWluaW9uLnNlcnZpY2VzLntzZXJ2aWNlX25hbWV9JywKICAgIGRlc2NyaXB0aW9uPSdQeXRob24gVXRpbGl0aWVzIGZvciB0aHJpZnQgc3VwcG9ydCcsCiAgICB2ZXJzaW9uPXN0cih2ZXJzaW9uKSwKICAgIHVybD0naHR0cDovL3d3dy5tYXhwb2ludC5jb20nLAogICAgcGFja2FnZXM9cGFja2FnZXMsCiAgICBuYW1lc3BhY2VfcGFja2FnZXM9WydtaW5pb24nLCAnbWluaW9uLnNlcnZpY2VzJ10sCiAgICB6aXBfc2FmZT1GYWxzZSwKICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncHl0aG9uJzogJycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYW5bbWV0YS5tZXRhWydwYWNrYWdlJ11bJ25hbWUnXV0gPSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oJycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGYud3JpdGUoKQo=</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAKICA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIG1ldGFfb2JqZWN0IGluIGJ1aWxkX29yZGVyOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYgogICAgICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgQXR0cmlidXRlRXJyb3I6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBwZGIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>'\.'</last-search>
+      <last-search>def run(</last-search>
       <last-offset />
-      <last-pattern>'\.'</last-pattern>
-      <last-replace>}</last-replace>
-      <last-substitute encoding="base64">IH19</last-substitute>
+      <last-pattern>def run(</last-pattern>
+      <last-replace>logging.info</last-replace>
+      <last-substitute>print</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>importer</entry>
-        <entry>ImpImporter</entry>
-        <entry>_internal</entry>
-        <entry>find_module_shim</entry>
-        <entry>{{</entry>
-        <entry>jinja</entry>
-        <entry>template</entry>
-        <entry>WORKSPACE</entry>
-        <entry>meta</entry>
         <entry>extra</entry>
         <entry>&quot;</entry>
         <entry>(</entry>
@@ -288,14 +275,18 @@
         <entry>setup_py</entry>
         <entry>'.'</entry>
         <entry>'\.'</entry>
+        <entry>Popen</entry>
+        <entry>priunt</entry>
+        <entry>plogging</entry>
+        <entry>stdoutlog</entry>
+        <entry>print</entry>
+        <entry>log</entry>
+        <entry>format</entry>
+        <entry>init_logging</entry>
+        <entry>def run(</entry>
       </history-search>
       <history-cmd>
-        <entry>call NumberToggle()</entry>
-        <entry>lwL:w</entry>
-        <entry>%s/recipe_dir/examples_dir/g</entry>
-        <entry>W</entry>
         <entry>Lw</entry>
-        <entry>m .-2</entry>
         <entry>m .+1</entry>
         <entry>123</entry>
         <entry>&quot;w</entry>
@@ -309,6 +300,11 @@
         <entry>wq</entry>
         <entry>e setupmaker.py</entry>
         <entry>we</entry>
+        <entry>W</entry>
+        <entry>%s/print/logging.info/g</entry>
+        <entry>m .-2</entry>
+        <entry>set rnu</entry>
+        <entry>set nu</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -341,6 +337,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
