@@ -62,11 +62,12 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" timestamp="1475688976412">
-        <mark key="[" line="615" column="25" />
-        <mark key="]" line="615" column="37" />
-        <mark key="." line="615" column="37" />
-        <mark key="^" line="615" column="37" />
+      <file name="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" timestamp="1475692568403">
+        <mark key="'" line="625" column="25" />
+        <mark key="[" line="611" column="17" />
+        <mark key="]" line="612" column="59" />
+        <mark key="." line="612" column="59" />
+        <mark key="^" line="612" column="59" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/minion-services-py/jenkins-build.sh" timestamp="1475613465073">
         <mark key="'" line="41" column="0" />
@@ -109,7 +110,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="7" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
       <jump line="493" column="52" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
       <jump line="518" column="61" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
       <jump line="520" column="9" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
@@ -209,16 +209,17 @@
       <jump line="559" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
       <jump line="624" column="23" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
       <jump line="38" column="10" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="625" column="25" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>np</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwbGFuID0ge30K</text>
       </register>
       <register name="-" type="4">
         <text>np</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>build succ</text>
       </register>
       <register name="0" type="4">
         <text>extra:
@@ -226,40 +227,40 @@
   full_environ_yes_really: {{ environ }}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwbGFuID0ge30K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncHl0aG9uJzogJycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYW5bbWV0YS5tZXRhWydwYWNrYWdlJ11bJ25hbWUnXV0gPSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncHl0aG9uJzogJycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGYud3JpdGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYW5bbWV0YS5tZXRhWydwYWNrYWdlJ11bJ25hbWUnXV0gPSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIG1ldGFfb2JqZWN0IGluIGJ1aWxkX29yZGVyOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGYud3JpdGUoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIG1ldGFfb2JqZWN0IGluIGJ1aWxkX29yZGVyOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>build succ</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>build succ</last-pattern>
       <last-replace>logging.info</last-replace>
       <last-substitute>print</last-substitute>
       <last-dir>1</last-dir>
@@ -267,7 +268,6 @@
     </search>
     <history>
       <history-search>
-        <entry>extra</entry>
         <entry>&quot;</entry>
         <entry>(</entry>
         <entry>)</entry>
@@ -287,6 +287,7 @@
         <entry>init_logging</entry>
         <entry>def run(</entry>
         <entry>print</entry>
+        <entry>build succ</entry>
       </history-search>
       <history-cmd>
         <entry>m .+1</entry>
