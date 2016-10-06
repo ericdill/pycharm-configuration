@@ -69,12 +69,12 @@
       <file name="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" timestamp="1475693537965">
         <mark key="'" line="620" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/minion-services-py/jenkins-build.sh" timestamp="1475781209844">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="3" column="5" />
-        <mark key="^" line="3" column="5" />
-        <mark key="." line="3" column="5" />
+      <file name="$USER_HOME$/dev/maxpoint/minion-services-py/jenkins-build.sh" timestamp="1475784851337">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="38" column="27" />
+        <mark key="]" line="38" column="34" />
+        <mark key="." line="38" column="34" />
+        <mark key="^" line="38" column="34" />
       </file>
       <file name="$USER_HOME$/dev/conda/buildmatrix/tests/test_cli.py" timestamp="1475687715594">
         <mark key="'" line="49" column="28" />
@@ -95,7 +95,7 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" timestamp="1475610120993">
+      <file name="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" timestamp="1475784244033">
         <mark key="'" line="88" column="43" />
         <mark key="[" line="106" column="29" />
         <mark key="]" line="106" column="29" />
@@ -214,7 +214,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwbGFuID0ge30K</text>
+        <text encoding="base64">Z2l0IAo=</text>
       </register>
       <register name="-" type="4">
         <text>np</text>
@@ -228,31 +228,31 @@
   full_environ_yes_really: {{ environ }}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwbGFuID0ge30K</text>
+        <text encoding="base64">Z2l0IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bWtkaXIgU1JDX0ZST01kZF9CQgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwbGFuID0ge30K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncHl0aG9uJzogJycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYW5bbWV0YS5tZXRhWydwYWNrYWdlJ11bJ25hbWUnXV0gPSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGYud3JpdGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncHl0aG9uJzogJycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIG1ldGFfb2JqZWN0IGluIGJ1aWxkX29yZGVyOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYW5bbWV0YS5tZXRhWydwYWNrYWdlJ11bJ25hbWUnXV0gPSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -345,6 +345,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
