@@ -4,11 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/dev/maxpoint/minion-services-py/meta.template.yaml" timestamp="1475609608990">
-        <mark key="'" line="37" column="2" />
         <mark key="[" line="3" column="0" />
-        <mark key="]" line="6" column="1" />
-        <mark key="^" line="6" column="1" />
-        <mark key="." line="6" column="1" />
       </file>
       <file name="$USER_HOME$/miniconda/envs/masloco/lib/python2.7/pkgutil.py" timestamp="1475601865995">
         <mark key="'" line="14" column="5" />
@@ -69,12 +65,11 @@
       <file name="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" timestamp="1475693537965">
         <mark key="'" line="620" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/minion-services-py/jenkins-build.sh" timestamp="1475786283516">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="38" column="27" />
-        <mark key="]" line="38" column="34" />
-        <mark key="." line="38" column="34" />
-        <mark key="^" line="38" column="34" />
+      <file name="$USER_HOME$/dev/maxpoint/minion-services-py/jenkins-build.sh" timestamp="1475847050515">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="54" column="24" />
       </file>
       <file name="$USER_HOME$/dev/conda/buildmatrix/tests/test_cli.py" timestamp="1475687715594">
         <mark key="'" line="49" column="28" />
@@ -95,13 +90,6 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" timestamp="1475784244033">
-        <mark key="'" line="88" column="43" />
-        <mark key="[" line="106" column="29" />
-        <mark key="]" line="106" column="29" />
-        <mark key="." line="106" column="29" />
-        <mark key="^" line="106" column="28" />
-      </file>
       <file name="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/depends-on-compiles-against-numpy/meta.yaml" timestamp="1475263139993">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="11" />
@@ -111,7 +99,6 @@
       <file name="$USER_HOME$/dev/conda/conda/conda/base/context.py" timestamp="1475773722558" />
     </filemarks>
     <jumps>
-      <jump line="493" column="52" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
       <jump line="518" column="61" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
       <jump line="520" column="9" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
       <jump line="27" column="46" filename="$USER_HOME$/dev/conda/buildmatrix/README.md" />
@@ -176,7 +163,6 @@
       <jump line="91" column="0" filename="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" />
       <jump line="26" column="4" filename="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" />
-      <jump line="34" column="6" filename="$USER_HOME$/dev/maxpoint/minion-services-py/jenkins-build.sh" />
       <jump line="1" column="14" filename="$USER_HOME$/dev/maxpoint/minion-services-py/jenkins-build.sh" />
       <jump line="46" column="0" filename="$USER_HOME$/dev/maxpoint/minion-services-py/jenkins-build.sh" />
       <jump line="116" column="49" filename="$USER_HOME$/dev/maxpoint/minion-services-py/setupmaker.py" />
@@ -211,57 +197,93 @@
       <jump line="624" column="23" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
       <jump line="38" column="10" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
       <jump line="625" column="25" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/dev/maxpoint/minion-services-py/jenkins-build.sh" />
+      <jump line="25" column="46" filename="$USER_HOME$/dev/maxpoint/minion-services-py/jenkins-build.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Z2l0IAo=</text>
+        <text encoding="base64">bHMgbWluaW9uLXNlcnZpY2VzLXB5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>np</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>build succ</text>
+        <text>cd</text>
       </register>
-      <register name="0" type="4">
-        <text>extra:
-  jenkins_build_number: {{ environ.get(&quot;BUILD_NUMBER&quot;, &quot;NOT_ON_JENKINS&quot;) }}
-  full_environ_yes_really: {{ environ }}</text>
+      <register name="0" type="2">
+        <text encoding="base64">cG9wZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z2l0IAo=</text>
+        <text encoding="base64">bHMgbWluaW9uLXNlcnZpY2VzLXB5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWtkaXIgU1JDX0ZST01kZF9CQgo=</text>
+        <text encoding="base64">ZXhwb3J0IEpPQl9OQU1FPXB5My1idWlsZHMK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwbGFuID0ge30K</text>
+      <register name="3" type="8">
+        <text>++
+++
+++
+++
+++
+++
+++
+++
+++
+++
+++
+++
+++
+++
+++
+++
+++
+++
+++
+++
+++
+++
+++
+++
+++
+++
+++
+++
+++</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z2l0IGNsb25lICRCSVRCVUNLRVRfU1NIX1VSTC9zZXIvbWluaW9uLXNlcnZpY2VzLXB5CnB1c2hkIG1pbmlvbi1zZXJ2aWNlcy1weQpnaXQgY2hlY2tvdXQgcHkzLWJ1aWxkcwpwb3BkCnJtIC1yZiBtaW5pb24tc2VydmljZXMtcHkvLmdpdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Z2l0IGNsb25lICRCSVRCVUNLRVRfU1NIX1VSTC9zZC9nZW5lcmF0ZWQtcHl0aG9uLXRocmlmdCBTUkNfRlJPTV9CQgpjZCBTUkNfRlJPTV9CQgpnaXQgY2hlY2tvdXQgJFBST0pFQ1QKZ2l0IHJtIC1yZiAkSk9CX05BTUUKY3AgJFBZVEhPTl9USFJJRlRfUk9PVCAkSk9CX05BTUUgLXIKZ2l0IGFkZCAuCmdpdCBjb21taXQgLW0gIkNvbW1pdGluZyBmcm9tIEplbmtpbnMgam9iOiAkSk9CX05BTUUKCkplbmtpbnMgYnVpbGQgdXJsOiAkQlVJTERfVVJMIgpnaXQgcHVzaAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="8">
+        <text>git clo
+cd SRC_
+git che
+git rm 
+cp $PYT
+git add
+git com
+Jenkins
+git pus</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncHl0aG9uJzogJycK</text>
+        <text encoding="base64">Z2l0IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYW5bbWV0YS5tZXRhWydwYWNrYWdlJ11bJ25hbWUnXV0gPSB7Cg==</text>
+        <text encoding="base64">bWtkaXIgU1JDX0ZST01kZF9CQgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>build succ</last-search>
+      <last-search>cd</last-search>
       <last-offset />
-      <last-pattern>build succ</last-pattern>
+      <last-pattern>cd</last-pattern>
       <last-replace>logging.info</last-replace>
       <last-substitute>print</last-substitute>
       <last-dir>1</last-dir>
@@ -269,7 +291,6 @@
     </search>
     <history>
       <history-search>
-        <entry>&quot;</entry>
         <entry>(</entry>
         <entry>)</entry>
         <entry>version</entry>
@@ -289,9 +310,9 @@
         <entry>def run(</entry>
         <entry>print</entry>
         <entry>build succ</entry>
+        <entry>cd</entry>
       </history-search>
       <history-cmd>
-        <entry>m .+1</entry>
         <entry>123</entry>
         <entry>&quot;w</entry>
         <entry>132</entry>
@@ -306,10 +327,11 @@
         <entry>we</entry>
         <entry>W</entry>
         <entry>%s/print/logging.info/g</entry>
-        <entry>m .-2</entry>
+        <entry>s</entry>
         <entry>set rnu</entry>
         <entry>set nu</entry>
-        <entry>s</entry>
+        <entry>set paste</entry>
+        <entry>m .-2</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
