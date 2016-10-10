@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/dev/maxpoint/minion-services-py/meta.template.yaml" timestamp="1475609608990">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/minion-services-py/test-jenkins-trigger.sh" timestamp="1476114341409">
+      <file name="$USER_HOME$/dev/maxpoint/minion-services-py/test-jenkins-trigger.sh" timestamp="1476123221264">
         <mark key="[" line="5" column="110" />
         <mark key="]" line="5" column="110" />
         <mark key="^" line="5" column="108" />
@@ -75,10 +75,11 @@
       <file name="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" timestamp="1475693537965">
         <mark key="'" line="620" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/minion-services-py/jenkins-build.sh" timestamp="1476119598663">
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/dev/maxpoint/minion-services-py/jenkins-build.sh" timestamp="1476123269231">
+        <mark key="[" line="65" column="68" />
+        <mark key="]" line="65" column="72" />
+        <mark key="^" line="65" column="72" />
+        <mark key="." line="65" column="72" />
       </file>
       <file name="$USER_HOME$/dev/conda/buildmatrix/tests/test_cli.py" timestamp="1475687715594">
         <mark key="'" line="49" column="28" />
@@ -222,11 +223,11 @@
       <jump line="25" column="46" filename="$USER_HOME$/dev/maxpoint/minion-services-py/jenkins-build.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>buildWithParameters</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>buildWithParameters</text>
       </register>
       <register name="/" type="4">
         <text>cd</text>
@@ -235,31 +236,31 @@
         <text encoding="base64">cG9wZAo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIC0tZGF0YS11cmxlbmNvZGUganNvbj0neyJwYXJhbWV0ZXIiOiBbeyJuYW1lIjoiVVBTVFJFQU1fUFJPSkVDVF9OQU1FIiwgInZhbHVlIjoiJyIkVVBTVFJFQU1fUFJPSkVDVF9OQU1FIicifV19Jwo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">CiMgU2V0IHVwIGEgY3VzdG9tIGNvbmRhIHJjIHRoYXQgY2FuIHNlZSBjb25kYSBmb3JnZQojIFdyaXRlIHRoZSBjb25kYXJjIHRvIGRpc2sKZWNobyAiCmNoYW5uZWxzOgotIGNvbmRhLWZvcmdlCi0gZGVmYXVsdHMKLSBodHRwOi8vY29uZGEubWF4cG9pbnQubmV0L2plbmtpbnMKIyBUT0RPIFRoaXMgbmV4dCBsaW5lIG5lZWRzIHRvIGRpZSBBU0FQCi0gaHR0cDovL2NvbmRhLm1heHBvaW50Lm5ldC9pbmN1YmF0b3IKYWx3YXlzX3llczogVHJ1ZQpzaG93X2NoYW5uZWxfdXJsczogVHJ1ZQpub19iaW5zdGFyX3VwbG9hZDogVHJ1ZSIgPiAiJENPTkRBUkMi</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ZXhwb3J0IENPTkRBUkM9IiRXT1JLU1BBQ0UvLmNvbmRhcmMiCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Zmk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">LSB+L2VudnMiID4+ICRDT05EQVJDCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">LSB+L21pbmljb25kYS9lbnZzCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Y29uZGFfZW52czoK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIlBBVEg9IiRNQ19QQVRIL2JpbiI6XCRQQVRIIiA+PiB+Ly5wcm9maWxlCg==</text>
+        <text encoding="base64">ICAgIGVjaG8gIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
