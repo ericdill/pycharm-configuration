@@ -6,6 +6,12 @@
       <file name="$USER_HOME$/dev/maxpoint/minion-services-py/meta.template.yaml" timestamp="1475609608990">
         <mark key="[" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/maxpoint/minion-services-py/test-jenkins-trigger.sh" timestamp="1476114341409">
+        <mark key="[" line="5" column="110" />
+        <mark key="]" line="5" column="110" />
+        <mark key="^" line="5" column="108" />
+        <mark key="." line="5" column="110" />
+      </file>
       <file name="$USER_HOME$/miniconda/envs/masloco/lib/python2.7/pkgutil.py" timestamp="1475601865995">
         <mark key="'" line="14" column="5" />
         <mark key="[" line="4" column="0" />
@@ -64,11 +70,11 @@
       <file name="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" timestamp="1475693537965">
         <mark key="'" line="620" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/minion-services-py/jenkins-build.sh" timestamp="1476112100221">
-        <mark key="[" line="49" column="25" />
-        <mark key="]" line="56" column="33" />
-        <mark key="^" line="56" column="33" />
-        <mark key="." line="56" column="33" />
+      <file name="$USER_HOME$/dev/maxpoint/minion-services-py/jenkins-build.sh" timestamp="1476117051818">
+        <mark key="[" line="63" column="50" />
+        <mark key="]" line="64" column="52" />
+        <mark key="^" line="64" column="52" />
+        <mark key="." line="64" column="52" />
       </file>
       <file name="$USER_HOME$/dev/conda/buildmatrix/tests/test_cli.py" timestamp="1475687715594">
         <mark key="'" line="49" column="28" />
@@ -76,6 +82,12 @@
         <mark key="]" line="49" column="28" />
         <mark key="^" line="49" column="28" />
         <mark key="." line="49" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/maxpoint/maxforge/ci/install-miniconda.sh" timestamp="1476115874536">
+        <mark key="[" line="44" column="14" />
+        <mark key="]" line="44" column="14" />
+        <mark key="." line="44" column="14" />
+        <mark key="^" line="44" column="14" />
       </file>
       <file name="$USER_HOME$/dev/conda/buildmatrix/tests/conftest.py" timestamp="1475264684986">
         <mark key="[" line="5" column="19" />
@@ -90,6 +102,12 @@
         <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/maxforge/generated-python-thrift/minion-services-py/setupmaker.py" timestamp="1476111490743" />
+      <file name="$USER_HOME$/dev/maxpoint/maxforge/ci/install-miniconda2.sh" timestamp="1476115285644">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="4" column="46" />
+        <mark key="." line="4" column="46" />
+        <mark key="^" line="4" column="46" />
+      </file>
       <file name="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/depends-on-compiles-against-numpy/meta.yaml" timestamp="1475263139993">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="11" />
@@ -201,10 +219,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>cd</text>
@@ -212,63 +230,35 @@
       <register name="0" type="2">
         <text encoding="base64">cG9wZAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiMgU2V0IHVwIGEgY3VzdG9tIGNvbmRhIHJjIHRoYXQgY2FuIHNlZSBjb25kYSBmb3JnZQojIFdyaXRlIHRoZSBjb25kYXJjIHRvIGRpc2sKZWNobyAiCmNoYW5uZWxzOgotIGNvbmRhLWZvcmdlCi0gZGVmYXVsdHMKLSBodHRwOi8vY29uZGEubWF4cG9pbnQubmV0L2plbmtpbnMKIyBUT0RPIFRoaXMgbmV4dCBsaW5lIG5lZWRzIHRvIGRpZSBBU0FQCi0gaHR0cDovL2NvbmRhLm1heHBvaW50Lm5ldC9pbmN1YmF0b3IKYWx3YXlzX3llczogVHJ1ZQpzaG93X2NoYW5uZWxfdXJsczogVHJ1ZQpub19iaW5zdGFyX3VwbG9hZDogVHJ1ZSIgPiAiJENPTkRBUkMi</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IENPTkRBUkM9IiRXT1JLU1BBQ0UvLmNvbmRhcmMiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zmk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2htb2QgK3cgbWluaW9uL3NlcnZpY2VzL3tzZXJ2aWNlX25hbWV9L19faW5pdF9fLnB5Cg==</text>
+        <text encoding="base64">LSB+L2VudnMiID4+ICRDT05EQVJDCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBNYWtlIHRoZSBfX2luaXRfXy5weSBmaWxlIHdyaXRhYmxlIHNpbmNlIHdlIGFyZSBnb2luZyB0byByZXBsYWNlIGl0Lgo=</text>
+        <text encoding="base64">LSB+L21pbmljb25kYS9lbnZzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bHMgbWluaW9uLXNlcnZpY2VzLXB5Cg==</text>
+        <text encoding="base64">Y29uZGFfZW52czoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IEpPQl9OQU1FPXB5My1idWlsZHMK</text>
+        <text encoding="base64">ICAgIGVjaG8gIgo=</text>
       </register>
-      <register name="8" type="8">
-        <text>++
-++
-++
-++
-++
-++
-++
-++
-++
-++
-++
-++
-++
-++
-++
-++
-++
-++
-++
-++
-++
-++
-++
-++
-++
-++
-++
-++
-++</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGVjaG8gIlBBVEg9IiRNQ19QQVRIL2JpbiI6XCRQQVRIIiA+PiB+Ly5wcm9maWxlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgoKCg==</text>
+        <text encoding="base64">ICAgIGVjaG8gIkFkZGluZyBjb25kYSBiaW4gZm9sZGVyIHRvIFBBVEggaW4gLnByb2ZpbGUiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>sp</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -304,8 +294,6 @@
         <entry>cd</entry>
       </history-search>
       <history-cmd>
-        <entry>132</entry>
-        <entry>qa</entry>
         <entry>%s/{{ /{/g</entry>
         <entry>%s/ }}/}/g</entry>
         <entry>110</entry>
@@ -319,11 +307,13 @@
         <entry>set rnu</entry>
         <entry>set nu</entry>
         <entry>set paste</entry>
-        <entry>m .-2</entry>
-        <entry>w</entry>
         <entry>vsp</entry>
-        <entry>q</entry>
         <entry>sp</entry>
+        <entry>qa</entry>
+        <entry>call NumberToggle()</entry>
+        <entry>m .-2</entry>
+        <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
