@@ -29,6 +29,11 @@
         <mark key="." line="34" column="1" />
         <mark key="^" line="34" column="1" />
       </file>
+      <file name="$USER_HOME$/dev/maxpoint/maxforge/recipes/boson-interactive/meta.yaml" timestamp="1476119942854">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/conda/buildmatrix/tests/test_build_sorting.py" timestamp="1475264655122">
         <mark key="[" line="11" column="4" />
         <mark key="]" line="11" column="3" />
@@ -70,11 +75,11 @@
       <file name="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" timestamp="1475693537965">
         <mark key="'" line="620" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/minion-services-py/jenkins-build.sh" timestamp="1476117051818">
-        <mark key="[" line="63" column="50" />
-        <mark key="]" line="64" column="52" />
-        <mark key="^" line="64" column="52" />
-        <mark key="." line="64" column="52" />
+      <file name="$USER_HOME$/dev/maxpoint/minion-services-py/jenkins-build.sh" timestamp="1476119598663">
+        <mark key="[" line="77" column="33" />
+        <mark key="]" line="78" column="0" />
+        <mark key="^" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/dev/conda/buildmatrix/tests/test_cli.py" timestamp="1475687715594">
         <mark key="'" line="49" column="28" />
@@ -83,11 +88,11 @@
         <mark key="^" line="49" column="28" />
         <mark key="." line="49" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/maxforge/ci/install-miniconda.sh" timestamp="1476115874536">
-        <mark key="[" line="44" column="14" />
-        <mark key="]" line="44" column="14" />
-        <mark key="." line="44" column="14" />
-        <mark key="^" line="44" column="14" />
+      <file name="$USER_HOME$/dev/maxpoint/maxforge/ci/install-miniconda.sh" timestamp="1476119544261">
+        <mark key="[" line="22" column="51" />
+        <mark key="]" line="22" column="51" />
+        <mark key="." line="22" column="51" />
+        <mark key="^" line="22" column="51" />
       </file>
       <file name="$USER_HOME$/dev/conda/buildmatrix/tests/conftest.py" timestamp="1475264684986">
         <mark key="[" line="5" column="19" />
@@ -218,8 +223,8 @@
       <jump line="25" column="46" filename="$USER_HOME$/dev/maxpoint/minion-services-py/jenkins-build.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -230,32 +235,32 @@
       <register name="0" type="2">
         <text encoding="base64">cG9wZAo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">CiMgU2V0IHVwIGEgY3VzdG9tIGNvbmRhIHJjIHRoYXQgY2FuIHNlZSBjb25kYSBmb3JnZQojIFdyaXRlIHRoZSBjb25kYXJjIHRvIGRpc2sKZWNobyAiCmNoYW5uZWxzOgotIGNvbmRhLWZvcmdlCi0gZGVmYXVsdHMKLSBodHRwOi8vY29uZGEubWF4cG9pbnQubmV0L2plbmtpbnMKIyBUT0RPIFRoaXMgbmV4dCBsaW5lIG5lZWRzIHRvIGRpZSBBU0FQCi0gaHR0cDovL2NvbmRhLm1heHBvaW50Lm5ldC9pbmN1YmF0b3IKYWx3YXlzX3llczogVHJ1ZQpzaG93X2NoYW5uZWxfdXJsczogVHJ1ZQpub19iaW5zdGFyX3VwbG9hZDogVHJ1ZSIgPiAiJENPTkRBUkMi</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ZXhwb3J0IENPTkRBUkM9IiRXT1JLU1BBQ0UvLmNvbmRhcmMiCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Zmk7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">LSB+L2VudnMiID4+ICRDT05EQVJDCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">LSB+L21pbmljb25kYS9lbnZzCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Y29uZGFfZW52czoK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGVjaG8gIgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIlBBVEg9IiRNQ19QQVRIL2JpbiI6XCRQQVRIIiA+PiB+Ly5wcm9maWxlCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIkFkZGluZyBjb25kYSBiaW4gZm9sZGVyIHRvIFBBVEggaW4gLnByb2ZpbGUiCg==</text>
+        <text encoding="base64">ICAgIGVjaG8gIlBBVEg9IiRNQ19QQVRIL2JpbiI6XCRQQVRIIiA+PiB+Ly5wcm9maWxlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -298,7 +303,6 @@
         <entry>%s/ }}/}/g</entry>
         <entry>110</entry>
         <entry>w'</entry>
-        <entry>wq</entry>
         <entry>e setupmaker.py</entry>
         <entry>we</entry>
         <entry>W</entry>
@@ -313,6 +317,7 @@
         <entry>call NumberToggle()</entry>
         <entry>m .-2</entry>
         <entry>q</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
