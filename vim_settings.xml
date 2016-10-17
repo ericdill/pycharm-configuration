@@ -48,6 +48,12 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/maxpoint/maxforge/tools/conda/conda-sync/conda-sync.py" timestamp="1476733166108">
+        <mark key="[" line="19" column="9" />
+        <mark key="]" line="31" column="10" />
+        <mark key="^" line="31" column="10" />
+        <mark key="." line="31" column="10" />
+      </file>
       <file name="$USER_HOME$/dev/conda/buildmatrix/tests/test_cli.py" timestamp="1475687715594">
         <mark key="'" line="49" column="28" />
         <mark key="[" line="49" column="29" />
@@ -83,8 +89,11 @@
       <file name="$USER_HOME$/miniconda/lib/python3.5/logging/__init__.py" timestamp="1476730562428">
         <mark key="'" line="1477" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/maxforge/tools/conda/conda-sync/whitelisted-packages.yaml" timestamp="1476731779710">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/maxpoint/maxforge/tools/conda/conda-sync/whitelisted-packages.yaml" timestamp="1476732977308">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+        <mark key="^" line="1" column="9" />
       </file>
       <file name="$USER_HOME$/dev/conda/buildmatrix/README.md" timestamp="1475267028271">
         <mark key="'" line="59" column="0" />
@@ -142,9 +151,15 @@
         <mark key="." line="4" column="46" />
         <mark key="^" line="4" column="46" />
       </file>
+      <file name="$USER_HOME$/dev/maxpoint/maxforge/tools/conda/conda-sync/update-whitelist.py" timestamp="1476734050003">
+        <mark key="'" line="3" column="10" />
+        <mark key="[" line="42" column="53" />
+        <mark key="]" line="42" column="53" />
+        <mark key="." line="42" column="53" />
+        <mark key="^" line="42" column="53" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="4" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
       <jump line="619" column="18" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
       <jump line="9" column="36" filename="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/depends-on-compiles-against-numpy/meta.yaml" />
       <jump line="7" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/depends-on-compiles-against-numpy/meta.yaml" />
@@ -244,13 +259,14 @@
       <jump line="11" column="12" filename="$USER_HOME$/dev/maxpoint/maxforge/tools/conda/conda-sync.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/tools/conda/conda-sync.py" />
       <jump line="80" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/tools/conda/conda-sync.py" />
+      <jump line="3" column="10" filename="$USER_HOME$/dev/maxpoint/maxforge/tools/conda/conda-sync/update-whitelist.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdoaXRlbGlzdGVkX3BhY2thZ2VzID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICduYW1lJzogZi5nZXQoJ25hbWUnKSwK</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>meta_dict</text>
       </register>
       <register name="/" type="4">
         <text>cd</text>
@@ -259,31 +275,31 @@
         <text encoding="base64">cG9wZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdoaXRlbGlzdGVkX3BhY2thZ2VzID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICduYW1lJzogZi5nZXQoJ25hbWUnKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICA9IGpzb24ubG9hZChmKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBuYXJncz0iKyIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuYXJncz0iKyIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpb249InN0b3JlIgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBfaW5pdF9wYXJzZXIoKS5wYXJzZV9hcmdzKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpb249InN0b3JlIiwK</text>
+        <text encoding="base64">ZGVmIHBhcnNlX2FyZ3MoKToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oIkNoZWNraW5nIHt9Ii5mb3JtYXQodXBzdHJlYW1fdXJsKSk6bWVtb3J5dmlldwo=</text>
+        <text encoding="base64">ICAgIHAgPSBfaW5pdF9wYXJzZXIoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFyZ3MgPSBwYXJzZV9hcmdzKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -322,7 +338,6 @@
         <entry>cd</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/ }}/}/g</entry>
         <entry>110</entry>
         <entry>w'</entry>
         <entry>e setupmaker.py</entry>
@@ -341,6 +356,7 @@
         <entry>Lw</entry>
         <entry>q</entry>
         <entry>qa</entry>
+        <entry>&quot;w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
