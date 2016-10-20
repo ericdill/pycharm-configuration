@@ -16,6 +16,12 @@
         <mark key="." line="82" column="7" />
         <mark key="^" line="82" column="7" />
       </file>
+      <file name="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test-requirements.txt" timestamp="1476980929762">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="12" />
+        <mark key="^" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/conda/buildmatrix/README" timestamp="1475260060929">
         <mark key="'" line="9" column="19" />
         <mark key="[" line="22" column="69" />
@@ -66,6 +72,12 @@
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" timestamp="1476981624899">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="6" column="24" />
       </file>
       <file name="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/depends-on-compiles-against-numpy/meta.yaml" timestamp="1475263139993">
         <mark key="[" line="2" column="10" />
@@ -263,7 +275,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICduYW1lJzogZi5nZXQoJ25hbWUnKSwK</text>
+        <text encoding="base64">aW1wb3J0IHB5dGVzdF9tb2NrCg==</text>
       </register>
       <register name="-" type="4">
         <text>meta_dict</text>
@@ -275,31 +287,31 @@
         <text encoding="base64">cG9wZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICduYW1lJzogZi5nZXQoJ25hbWUnKSwK</text>
+        <text encoding="base64">aW1wb3J0IHB5dGVzdF9tb2NrCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICcnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICduYW1lJzogZi5nZXQoJ25hbWUnKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICA9IGpzb24ubG9hZChmKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICA9IGpzb24ubG9hZChmKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBfaW5pdF9wYXJzZXIoKS5wYXJzZV9hcmdzKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIHBhcnNlX2FyZ3MoKToK</text>
+        <text encoding="base64">ICAgIHJldHVybiBfaW5pdF9wYXJzZXIoKS5wYXJzZV9hcmdzKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHAgPSBfaW5pdF9wYXJzZXIoCg==</text>
+        <text encoding="base64">ZGVmIHBhcnNlX2FyZ3MoKToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFyZ3MgPSBwYXJzZV9hcmdzKCkK</text>
+        <text encoding="base64">ICAgIHAgPSBfaW5pdF9wYXJzZXIoCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -354,9 +366,9 @@
         <entry>m .-2</entry>
         <entry>wq</entry>
         <entry>Lw</entry>
-        <entry>q</entry>
         <entry>qa</entry>
         <entry>&quot;w</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
