@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/.travis.yml" timestamp="1477322261371">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="9" column="26" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/maxpoint/maxforge/tools/conda/conda-sync.py" timestamp="1476731179244">
         <mark key="'" line="80" column="0" />
         <mark key="[" line="80" column="0" />
@@ -60,6 +54,7 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/miniconda/lib/python3.5/site-packages/requests/models.py" timestamp="1477328070535" />
       <file name="$USER_HOME$/dev/maxpoint/maxforge/tools/conda/conda-sync/conda-sync.py" timestamp="1476733166108">
         <mark key="[" line="19" column="9" />
         <mark key="]" line="31" column="10" />
@@ -80,11 +75,7 @@
         <mark key="." line="49" column="28" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" timestamp="1477320715557">
-        <mark key="'" line="137" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="10" column="20" />
-        <mark key="^" line="10" column="20" />
-        <mark key="." line="10" column="20" />
+        <mark key="'" line="143" column="0" />
       </file>
       <file name="$USER_HOME$/dev/conda/conda/conda/cli/common.py" timestamp="1477318129183">
         <mark key="'" line="564" column="15" />
@@ -185,12 +176,6 @@
         <mark key="]" line="2" column="4" />
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="4" />
-      </file>
-      <file name="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/setup.py" timestamp="1477320980505">
-        <mark key="[" line="10" column="9" />
-        <mark key="]" line="10" column="50" />
-        <mark key="." line="10" column="50" />
-        <mark key="^" line="10" column="50" />
       </file>
       <file name="$USER_HOME$/dev/conda/buildmatrix/tests/conftest.py" timestamp="1475264684986">
         <mark key="[" line="5" column="19" />
@@ -334,7 +319,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>os.remove</text>
+        <text>requires</text>
       </register>
       <register name="0" type="4">
         <text>- echo &quot;c</text>
@@ -371,9 +356,9 @@
       </register>
     </registers>
     <search>
-      <last-search>os.remove</last-search>
+      <last-search>requires</last-search>
       <last-offset />
-      <last-pattern>os.remove</last-pattern>
+      <last-pattern>requires</last-pattern>
       <last-replace>BITS</last-replace>
       <last-substitute>bits</last-substitute>
       <last-dir>1</last-dir>
@@ -381,7 +366,6 @@
     </search>
     <history>
       <history-search>
-        <entry>print</entry>
         <entry>build succ</entry>
         <entry>cd</entry>
         <entry>tmpdir\.</entry>
@@ -401,6 +385,7 @@
         <entry>index</entry>
         <entry>remove</entry>
         <entry>os.remove</entry>
+        <entry>requires</entry>
       </history-search>
       <history-cmd>
         <entry>%s/tmpdir\./tmpdir_factory\./g</entry>
