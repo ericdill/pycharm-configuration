@@ -73,18 +73,22 @@
         <mark key="^" line="49" column="28" />
         <mark key="." line="49" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" timestamp="1477317999190">
-        <mark key="'" line="55" column="63" />
-        <mark key="[" line="130" column="35" />
-        <mark key="]" line="131" column="15" />
-        <mark key="." line="131" column="15" />
-        <mark key="^" line="131" column="15" />
+      <file name="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" timestamp="1477319413515">
+        <mark key="'" line="98" column="32" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="^" line="130" column="0" />
+        <mark key="." line="135" column="0" />
       </file>
       <file name="$USER_HOME$/dev/conda/conda/conda/cli/common.py" timestamp="1477318129183">
         <mark key="'" line="564" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" timestamp="1476993823704">
-        <mark key="'" line="111" column="0" />
+      <file name="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" timestamp="1477319426447">
+        <mark key="'" line="74" column="8" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="^" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/depends-on-compiles-against-numpy/meta.yaml" timestamp="1475263139993">
         <mark key="[" line="2" column="10" />
@@ -98,8 +102,8 @@
         <mark key="^" line="5" column="108" />
         <mark key="." line="5" column="110" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/regenerate-repodata.py" timestamp="1476988809954">
-        <mark key="'" line="12" column="0" />
+      <file name="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/regenerate-repodata.py" timestamp="1477318898777">
+        <mark key="'" line="4" column="12" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="10" column="73" />
         <mark key="^" line="10" column="73" />
@@ -134,11 +138,11 @@
         <mark key="^" line="11" column="3" />
         <mark key="." line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/run_tests" timestamp="1476987805497">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+      <file name="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/run_tests" timestamp="1477319367527">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
         <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="2" column="13" />
       </file>
       <file name="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/compiles-against-numpy/meta.yaml" timestamp="1475262954519">
         <mark key="[" line="1" column="18" />
@@ -215,16 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="26" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="420" column="39" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="486" column="4" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="109" column="4" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="127" column="36" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="133" column="8" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="623" column="24" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="62" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="51" column="6" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="56" column="9" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
       <jump line="82" column="4" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
       <jump line="121" column="4" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
       <jump line="150" column="68" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
@@ -256,7 +250,6 @@
       <jump line="11" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/regenerate-repodata.py" />
       <jump line="31" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/regenerate-repodata.py" />
       <jump line="32" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/regenerate-repodata.py" />
-      <jump line="4" column="12" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/regenerate-repodata.py" />
       <jump line="35" column="25" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/regenerate-repodata.py" />
       <jump line="14" column="38" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
       <jump line="15" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
@@ -284,14 +277,12 @@
       <jump line="60" column="40" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
       <jump line="72" column="19" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
       <jump line="7" column="12" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
-      <jump line="132" column="64" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
       <jump line="92" column="33" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
       <jump line="93" column="30" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
       <jump line="6" column="7" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
       <jump line="55" column="63" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
       <jump line="57" column="67" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
       <jump line="87" column="37" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
-      <jump line="8" column="9" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
       <jump line="88" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
       <jump line="99" column="19" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
@@ -315,55 +306,68 @@
       <jump line="559" column="26" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
       <jump line="562" column="26" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
       <jump line="564" column="15" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
+      <jump line="134" column="59" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
+      <jump line="132" column="4" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
+      <jump line="144" column="4" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
+      <jump line="7" column="16" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="96" column="110" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
+      <jump line="98" column="32" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
+      <jump line="4" column="12" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/regenerate-repodata.py" />
+      <jump line="76" column="48" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="78" column="23" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="23" column="35" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="74" column="8" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Maxpoint Proprietary'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>index</text>
+        <text>os.remove</text>
       </register>
       <register name="0" type="4">
         <text>tmpdir_factory</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHNobGV4Cg==</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHNodXRpbAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmVycm9yKCJBdHRlbXB0aW5nIHRvIGltcG9ydCBjb25kYS4gRW5jb3VudGVyZWQ6IHt9Ii5mb3JtYXQoaWUpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBJbXBvcnRFcnJvciBhcyBpZToK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">LmZvcm1hdCh1cHN0cmVhbV9jaGFubmVsPWNoYW5uZWwsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGFyZ2V0X2RpcmVjdG9yeT1zdHIobG9jYWxfbWlycm9yKSkpCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgY29uZGFfYnVpbGQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IAo=</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgcGxhdGZvcm0gaW4K</text>
+        <text encoding="base64">ICAgICMgcmVpbmRleCBpZiBjb25kYSBpcyBhdmFpbGFibGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhbF9taXJyb3IgPSB0bXBkaXIuCg==</text>
+        <text encoding="base64">ICAgIHBsYXRmb3JtX2RpciA9IG9zLnBhdGguam9pbih0YXJnZXRfZGlyZWN0b3J5LCBwbGF0Zm9ybSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25kYV9pbmZvID0ganNvbi5sb2Fkcyhqc29uX3RleHQpCg==</text>
+        <text encoding="base64">ICAgIG9sZF9hcmd2ID0gY29weS5jb3B5KHN5cy5hcmd2KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>index</last-search>
+      <last-search>os.remove</last-search>
       <last-offset />
-      <last-pattern>index</last-pattern>
+      <last-pattern>os.remove</last-pattern>
       <last-replace>BITS</last-replace>
       <last-substitute>bits</last-substitute>
       <last-dir>1</last-dir>
@@ -371,8 +375,6 @@
     </search>
     <history>
       <history-search>
-        <entry>init_logging</entry>
-        <entry>def run(</entry>
         <entry>print</entry>
         <entry>build succ</entry>
         <entry>cd</entry>
@@ -391,6 +393,8 @@
         <entry>all</entry>
         <entry>Index</entry>
         <entry>index</entry>
+        <entry>remove</entry>
+        <entry>os.remove</entry>
       </history-search>
       <history-cmd>
         <entry>%s/tmpdir\./tmpdir_factory/g</entry>
@@ -459,6 +463,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
