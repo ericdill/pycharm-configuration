@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/.editorconfig" timestamp="1477418677469" />
       <file name="$USER_HOME$/dev/maxpoint/maxforge/tools/conda/conda-sync.py" timestamp="1476731179244">
         <mark key="'" line="80" column="0" />
         <mark key="[" line="80" column="0" />
@@ -105,6 +104,12 @@
         <mark key="]" line="10" column="73" />
         <mark key="^" line="10" column="73" />
         <mark key="." line="10" column="73" />
+      </file>
+      <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/setup.py" timestamp="1477419139161">
+        <mark key="[" line="42" column="76" />
+        <mark key="]" line="43" column="5" />
+        <mark key="^" line="43" column="5" />
+        <mark key="." line="43" column="5" />
       </file>
       <file name="$USER_HOME$/miniconda/envs/masloco/lib/python2.7/pkgutil.py" timestamp="1475601865995">
         <mark key="'" line="14" column="5" />
@@ -313,10 +318,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LSBleHBvcnQgQ09OREFSQz1+Ly5jb25kYXJjCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>requires</text>
@@ -325,31 +330,43 @@
         <text>- echo &quot;c</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LSBleHBvcnQgQ09OREFSQz1+Ly5jb25kYXJjCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">LSBlY2hvICJzaG93X2NoYW5uZWxfdXJsczogdHJ1ZSIgPj4gfi8uY29uZGFyYwo=</text>
+      <register name="2" type="4">
+        <text>classifiers=[
+        'Development Status :: 2 - Pre-Alpha',
+        'Intended Audience :: Developers',
+        'License :: OSI Approved :: ISC License (ISCL)',
+        'Natural Language :: English',
+        &quot;Programming Language :: Python :: 2&quot;,
+        'Programming Language :: Python :: 2.6',
+        'Programming Language :: Python :: 2.7',
+        'Programming Language :: Python :: 3',
+        'Programming Language :: Python :: 3.3',
+        'Programming Language :: Python :: 3.4',
+        'Programming Language :: Python :: 3.5',
+    ]</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">LSBlY2hvICJhbHdheXNfeWVzOiB0cnVlIiA+PiB+Ly5jb25kYXJjCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIGNsYXNzaWZpZXJzPVsKICAgICAgICAnRGV2ZWxvcG1lbnQgU3RhdHVzIDo6IDIgLSBQcmUtQWxwaGEnLAogICAgICAgICdJbnRlbmRlZCBBdWRpZW5jZSA6OiBEZXZlbG9wZXJzJywKICAgICAgICAnTGljZW5zZSA6OiBPU0kgQXBwcm92ZWQgOjogSVNDIExpY2Vuc2UgKElTQ0wpJywKICAgICAgICAnTmF0dXJhbCBMYW5ndWFnZSA6OiBFbmdsaXNoJywKICAgICAgICAiUHJvZ3JhbW1pbmcgTGFuZ3VhZ2UgOjogUHl0aG9uIDo6IDIiLAogICAgICAgICdQcm9ncmFtbWluZyBMYW5ndWFnZSA6OiBQeXRob24gOjogMi42JywKICAgICAgICAnUHJvZ3JhbW1pbmcgTGFuZ3VhZ2UgOjogUHl0aG9uIDo6IDIuNycsCiAgICAgICAgJ1Byb2dyYW1taW5nIExhbmd1YWdlIDo6IFB5dGhvbiA6OiAzJywKICAgICAgICAnUHJvZ3JhbW1pbmcgTGFuZ3VhZ2UgOjogUHl0aG9uIDo6IDMuMycsCiAgICAgICAgJ1Byb2dyYW1taW5nIExhbmd1YWdlIDo6IFB5dGhvbiA6OiAzLjQnLAogICAgICAgICdQcm9ncmFtbWluZyBMYW5ndWFnZSA6OiBQeXRob24gOjogMy41JywKICAgIF0s</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LSBlY2hvICIgIC0gZGVmYXVsdHMiID4+IH4vLmNvbmRhcmMK</text>
+        <text encoding="base64">ICAgIGtleXdvcmRzPSdmb290X3RyYWZmaWNfaW5zaWdodHMnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LSBlY2hvICIgIC0gY29uZGEtZm9yZ2UiID4+IH4vLmNvbmRhcmMK</text>
+        <text encoding="base64">ICAgIHVybD0naHR0cHM6Ly9naXRodWIuY29tLy9mb290X3RyYWZmaWNfaW5zaWdodHMnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LSBlY2hvICJjaGFubmVsczoiID4gfi8uY29uZGFyYwo=</text>
+        <text encoding="base64">LSBleHBvcnQgQ09OREFSQz1+Ly5jb25kYXJjCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LSBleHBvcnQgUEFUSD1+L21pbmljb25kYS9iaW46JFBBVEgK</text>
+        <text encoding="base64">LSBlY2hvICJzaG93X2NoYW5uZWxfdXJsczogdHJ1ZSIgPj4gfi8uY29uZGFyYwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LSBiYXNoIG1jLnNoIC1iIC1wIH4vbWluaWNvbmRhCg==</text>
+        <text encoding="base64">LSBlY2hvICJhbHdheXNfeWVzOiB0cnVlIiA+PiB+Ly5jb25kYXJjCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSB3Z2V0IGh0dHBzOi8vcmVwby5jb250aW51dW0uaW8vbWluaWNvbmRhL01pbmljb25kYTMtbGF0ZXN0LUxpbnV4LXg4Nl82NC5zaCAtTyBtYy5zaAo=</text>
+        <text encoding="base64">LSBlY2hvICIgIC0gZGVmYXVsdHMiID4+IH4vLmNvbmRhcmMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -403,10 +420,10 @@
         <entry>2</entry>
         <entry>w'</entry>
         <entry>w':w</entry>
-        <entry>q</entry>
         <entry>qa</entry>
         <entry>m .+1</entry>
         <entry>Lw</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -460,6 +477,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
