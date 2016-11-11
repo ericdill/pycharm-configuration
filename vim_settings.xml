@@ -3,15 +3,31 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/maxpoint/conda-mirror/tests/test_conda_mirror.py" timestamp="1476894819594">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/dev/maxpoint/maxforge/tools/conda/conda-sync.py" timestamp="1476731179244">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="82" column="7" />
+        <mark key="." line="82" column="7" />
+        <mark key="^" line="82" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/conda/buildmatrix/setup.py" timestamp="1474573102805">
-        <mark key="[" line="16" column="65" />
-        <mark key="]" line="16" column="65" />
-        <mark key="." line="16" column="65" />
+      <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/conda-recipe/meta.yaml" timestamp="1477421227241">
+        <mark key="'" line="4" column="23" />
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="11" column="88" />
+        <mark key="^" line="11" column="88" />
+        <mark key="." line="11" column="88" />
+      </file>
+      <file name="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/README.md" timestamp="1477323433542">
+        <mark key="[" line="37" column="11" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test-requirements.txt" timestamp="1476982053141">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="3" />
       </file>
       <file name="$USER_HOME$/dev/conda/buildmatrix/README" timestamp="1475260060929">
         <mark key="'" line="9" column="19" />
@@ -27,15 +43,67 @@
         <mark key="^" line="12" column="76" />
         <mark key="." line="12" column="76" />
       </file>
-      <file name="/a.dummy" timestamp="1474572938616">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/needs-numpy-at-compilation/meta.yaml" timestamp="1475263056426">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+        <mark key="^" line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" timestamp="1475597250427">
-        <mark key="'" line="619" column="18" />
-        <mark key="[" line="591" column="35" />
-        <mark key="]" line="591" column="38" />
-        <mark key="^" line="591" column="38" />
-        <mark key="." line="591" column="38" />
+      <file name="$USER_HOME$/dev/maxpoint/minion-services-py/setup.template.py" timestamp="1475607375025">
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/maxpoint/maxforge/tools/conda/sync-upstream.py" timestamp="1476727986949">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/maxpoint/maxforge/tools/conda/conda-sync/conda-sync.py" timestamp="1476733166108">
+        <mark key="[" line="19" column="9" />
+        <mark key="]" line="31" column="10" />
+        <mark key="^" line="31" column="10" />
+        <mark key="." line="31" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/env/meta.yaml" timestamp="1477422220423">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="28" column="68" />
+        <mark key="^" line="28" column="68" />
+        <mark key="." line="28" column="68" />
+      </file>
+      <file name="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test/recipes/a/meta.yaml" timestamp="1476981728256">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="12" />
+        <mark key="^" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/conda/buildmatrix/tests/test_cli.py" timestamp="1475687715594">
+        <mark key="'" line="49" column="28" />
+        <mark key="[" line="49" column="29" />
+        <mark key="]" line="49" column="28" />
+        <mark key="^" line="49" column="28" />
+        <mark key="." line="49" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" timestamp="1477320715557">
+        <mark key="'" line="143" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/conda/conda/conda/cli/common.py" timestamp="1477318129183">
+        <mark key="'" line="564" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/docs/history.rst" timestamp="1477421740443">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" timestamp="1477319426447">
+        <mark key="'" line="74" column="8" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="^" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/depends-on-compiles-against-numpy/meta.yaml" timestamp="1475263139993">
         <mark key="[" line="2" column="10" />
@@ -43,11 +111,52 @@
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/conda/buildmatrix/tests/conftest.py" timestamp="1475264684986">
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="7" column="50" />
-        <mark key="^" line="7" column="50" />
-        <mark key="." line="7" column="50" />
+      <file name="$USER_HOME$/dev/maxpoint/minion-services-py/test-jenkins-trigger.sh" timestamp="1476123221264">
+        <mark key="[" line="5" column="110" />
+        <mark key="]" line="5" column="110" />
+        <mark key="^" line="5" column="108" />
+        <mark key="." line="5" column="110" />
+      </file>
+      <file name="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/regenerate-repodata.py" timestamp="1477318898777">
+        <mark key="'" line="4" column="12" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="10" column="73" />
+        <mark key="^" line="10" column="73" />
+        <mark key="." line="10" column="73" />
+      </file>
+      <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/setup.py" timestamp="1477423003491">
+        <mark key="[" line="34" column="53" />
+        <mark key="]" line="34" column="53" />
+        <mark key="." line="34" column="53" />
+        <mark key="^" line="10" column="22" />
+      </file>
+      <file name="$USER_HOME$/miniconda/envs/masloco/lib/python2.7/pkgutil.py" timestamp="1475601865995">
+        <mark key="'" line="14" column="5" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/miniconda/lib/python3.5/logging/__init__.py" timestamp="1476730562428">
+        <mark key="'" line="1477" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/docs/authors.rst" timestamp="1477421673455">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/MANIFEST.in" timestamp="1477423153509">
+        <mark key="[" line="11" column="44" />
+        <mark key="]" line="11" column="48" />
+        <mark key="^" line="11" column="48" />
+        <mark key="." line="11" column="48" />
+      </file>
+      <file name="$USER_HOME$/dev/maxpoint/maxforge/tools/conda/conda-sync/whitelisted-packages.yaml" timestamp="1476732977308">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+        <mark key="^" line="1" column="9" />
       </file>
       <file name="$USER_HOME$/dev/conda/buildmatrix/README.md" timestamp="1475267028271">
         <mark key="'" line="59" column="0" />
@@ -62,25 +171,24 @@
         <mark key="^" line="11" column="3" />
         <mark key="." line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/conda/buildmatrix/tests/test_cli.py" timestamp="1475265355192">
-        <mark key="'" line="49" column="28" />
-        <mark key="[" line="53" column="34" />
-        <mark key="]" line="53" column="34" />
-        <mark key="^" line="53" column="29" />
-        <mark key="." line="53" column="34" />
+      <file name="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/run_tests" timestamp="1477319367527">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/conda-mirror/conda_mirror.py" timestamp="1476904154301">
-        <mark key="'" line="5" column="10" />
-        <mark key="[" line="55" column="19" />
-        <mark key="]" line="55" column="18" />
-        <mark key="^" line="55" column="18" />
-        <mark key="." line="55" column="18" />
+      <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/scripts/initialize_side_effect_tables.py" timestamp="1477422269110">
+        <mark key="'" line="25" column="9" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="40" />
+        <mark key="^" line="1" column="40" />
+        <mark key="." line="1" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/conda-mirror/test_conda_mirror.py" timestamp="1476901872187">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="6" column="3" />
+      <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/docs/contributing.rst" timestamp="1477421681424">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/compiles-against-numpy/meta.yaml" timestamp="1475262954519">
         <mark key="[" line="1" column="18" />
@@ -88,184 +196,291 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/conda-mirror/README.md" timestamp="1478875566505">
-        <mark key="[" line="0" column="2" />
-        <mark key="]" line="0" column="2" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="2" />
+      <file name="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conftest.py" timestamp="1476982278838">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="5" column="29" />
+        <mark key="^" line="5" column="29" />
+        <mark key="." line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/needs-numpy-at-compilation/meta.yaml" timestamp="1475263056426">
-        <mark key="[" line="1" column="10" />
-        <mark key="]" line="1" column="18" />
-        <mark key="." line="1" column="18" />
-        <mark key="^" line="1" column="18" />
+      <file name="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" timestamp="1475693537965">
+        <mark key="'" line="620" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/conda-mirror/setup.py" timestamp="1476895254167">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="6" column="18" />
-        <mark key="^" line="6" column="18" />
-        <mark key="." line="6" column="18" />
+      <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/tests/testutils.py" timestamp="1477422502411">
+        <mark key="'" line="103" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/maxpoint/minion-services-py/jenkins-build.sh" timestamp="1476727848962">
+        <mark key="[" line="65" column="68" />
+        <mark key="]" line="65" column="72" />
+        <mark key="^" line="65" column="72" />
+        <mark key="." line="65" column="72" />
+      </file>
+      <file name="$USER_HOME$/dev/conda/conda/conda/exceptions.py" timestamp="1477318062624">
+        <mark key="'" line="323" column="66" />
+      </file>
+      <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/foot_traffic_insights/configurations.py" timestamp="1477423557379">
+        <mark key="'" line="154" column="12" />
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="31" column="25" />
+        <mark key="^" line="35" column="97" />
+        <mark key="." line="35" column="97" />
+      </file>
+      <file name="$USER_HOME$/dev/maxpoint/maxforge/ci/install-miniconda.sh" timestamp="1476119544261">
+        <mark key="[" line="22" column="51" />
+        <mark key="]" line="22" column="51" />
+        <mark key="." line="22" column="51" />
+        <mark key="^" line="22" column="51" />
+      </file>
+      <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/__init__.py" timestamp="1477419716465">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="34" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="34" />
+      </file>
+      <file name="$USER_HOME$/dev/conda/buildmatrix/tests/conftest.py" timestamp="1475264684986">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="7" column="50" />
+        <mark key="^" line="7" column="50" />
+        <mark key="." line="7" column="50" />
+      </file>
+      <file name="$USER_HOME$/dev/maxpoint/maxforge/ci/install-miniconda2.sh" timestamp="1476115285644">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="4" column="46" />
+        <mark key="." line="4" column="46" />
+        <mark key="^" line="4" column="46" />
+      </file>
+      <file name="$USER_HOME$/dev/maxpoint/maxforge/tools/conda/conda-sync/update-whitelist.py" timestamp="1476883374572">
+        <mark key="'" line="3" column="10" />
+        <mark key="[" line="42" column="53" />
+        <mark key="]" line="42" column="53" />
+        <mark key="." line="42" column="53" />
+        <mark key="^" line="42" column="53" />
+      </file>
+      <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/docs/readme.rst" timestamp="1477421750533">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test/recipes/b/meta.yaml" timestamp="1476981751650">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="11" />
+        <mark key="." line="2" column="11" />
+        <mark key="^" line="2" column="11" />
+      </file>
+      <file name="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/tox.ini" timestamp="1476988375738">
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+        <mark key="." line="9" column="28" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="130" column="38" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="677" column="15" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="678" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="683" column="57" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="729" column="24" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="88" column="49" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="94" column="6" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="95" column="16" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="101" column="51" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/tests/test_cli.py" />
-      <jump line="25" column="15" filename="$USER_HOME$/dev/conda/buildmatrix/.travis.yml" />
-      <jump line="9" column="19" filename="$USER_HOME$/dev/conda/buildmatrix/README" />
-      <jump line="548" column="40" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="530" column="17" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="531" column="11" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="536" column="40" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="534" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="535" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="97" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="554" column="4" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="553" column="4" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="532" column="41" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="540" column="13" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="542" column="21" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="543" column="19" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="40" column="7" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="56" column="9" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="493" column="52" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="518" column="61" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="520" column="9" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="27" column="46" filename="$USER_HOME$/dev/conda/buildmatrix/README.md" />
-      <jump line="24" column="2" filename="$USER_HOME$/dev/conda/buildmatrix/README.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/README.md" />
-      <jump line="31" column="13" filename="$USER_HOME$/dev/conda/buildmatrix/README.md" />
-      <jump line="93" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="96" column="4" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="619" column="18" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
-      <jump line="9" column="36" filename="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/depends-on-compiles-against-numpy/meta.yaml" />
-      <jump line="7" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/depends-on-compiles-against-numpy/meta.yaml" />
-      <jump line="6" column="8" filename="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/depends-on-compiles-against-numpy/meta.yaml" />
-      <jump line="3" column="60" filename="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/depends-on-compiles-against-numpy/meta.yaml" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/depends-on-compiles-against-numpy/meta.yaml" />
-      <jump line="56" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/README.md" />
-      <jump line="96" column="26" filename="$USER_HOME$/dev/conda/buildmatrix/README.md" />
-      <jump line="30" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/tests/test_cli.py" />
-      <jump line="47" column="28" filename="$USER_HOME$/dev/conda/buildmatrix/tests/test_cli.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/dev/conda/buildmatrix/README.md" />
-      <jump line="4" column="0" filename="$USER_HOME$/dev/maxpoint/conda-mirror/setup.py" />
-      <jump line="21" column="26" filename="$USER_HOME$/dev/maxpoint/conda-mirror/conda_mirror.py" />
-      <jump line="1" column="9" filename="$USER_HOME$/dev/maxpoint/conda-mirror/conda_mirror.py" />
-      <jump line="23" column="3" filename="$USER_HOME$/dev/maxpoint/conda-mirror/conda_mirror.py" />
-      <jump line="2" column="14" filename="$USER_HOME$/dev/maxpoint/conda-mirror/conda_mirror.py" />
-      <jump line="42" column="3" filename="$USER_HOME$/dev/maxpoint/conda-mirror/conda_mirror.py" />
-      <jump line="29" column="25" filename="$USER_HOME$/dev/maxpoint/conda-mirror/conda_mirror.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/dev/maxpoint/conda-mirror/conda_mirror.py" />
-      <jump line="65" column="61" filename="$USER_HOME$/dev/maxpoint/conda-mirror/conda_mirror.py" />
-      <jump line="101" column="57" filename="$USER_HOME$/dev/maxpoint/conda-mirror/conda_mirror.py" />
-      <jump line="119" column="4" filename="$USER_HOME$/dev/maxpoint/conda-mirror/conda_mirror.py" />
-      <jump line="4" column="8" filename="$USER_HOME$/dev/maxpoint/conda-mirror/conda_mirror.py" />
-      <jump line="5" column="10" filename="$USER_HOME$/dev/maxpoint/conda-mirror/conda_mirror.py" />
+      <jump line="38" column="10" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="625" column="25" filename="$USER_HOME$/dev/conda/buildmatrix/buildmatrix/cli.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/dev/maxpoint/minion-services-py/jenkins-build.sh" />
+      <jump line="25" column="46" filename="$USER_HOME$/dev/maxpoint/minion-services-py/jenkins-build.sh" />
+      <jump line="29" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/tools/conda/conda-sync.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/tools/conda/conda-sync.py" />
+      <jump line="65" column="4" filename="$USER_HOME$/dev/maxpoint/maxforge/tools/conda/conda-sync.py" />
+      <jump line="1477" column="0" filename="$USER_HOME$/miniconda/lib/python3.5/logging/__init__.py" />
+      <jump line="11" column="12" filename="$USER_HOME$/dev/maxpoint/maxforge/tools/conda/conda-sync.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/tools/conda/conda-sync.py" />
+      <jump line="80" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/tools/conda/conda-sync.py" />
+      <jump line="3" column="10" filename="$USER_HOME$/dev/maxpoint/maxforge/tools/conda/conda-sync/update-whitelist.py" />
+      <jump line="4" column="13" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conftest.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conftest.py" />
+      <jump line="11" column="10" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="16" column="3" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="3" column="37" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/regenerate-repodata.py" />
+      <jump line="9" column="9" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/regenerate-repodata.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/regenerate-repodata.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/regenerate-repodata.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/regenerate-repodata.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/regenerate-repodata.py" />
+      <jump line="35" column="25" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/regenerate-repodata.py" />
+      <jump line="14" column="38" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/.travis.yml" />
+      <jump line="12" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/regenerate-repodata.py" />
+      <jump line="9" column="30" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="12" column="11" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="13" column="24" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="18" column="16" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="19" column="44" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="26" column="3" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="42" column="8" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="116" column="12" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
+      <jump line="37" column="32" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="6" column="10" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="118" column="79" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
+      <jump line="148" column="4" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
+      <jump line="32" column="11" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="36" column="8" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="48" column="29" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="40" column="42" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="70" column="45" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="60" column="40" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="72" column="19" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="7" column="12" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="92" column="33" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
+      <jump line="93" column="30" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
+      <jump line="6" column="7" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
+      <jump line="55" column="63" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
+      <jump line="57" column="67" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="87" column="37" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="88" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="99" column="19" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="104" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="97" column="28" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="114" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="323" column="66" filename="$USER_HOME$/dev/conda/conda/conda/exceptions.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
+      <jump line="88" column="30" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
+      <jump line="96" column="20" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
+      <jump line="97" column="41" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
+      <jump line="211" column="19" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
+      <jump line="213" column="15" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
+      <jump line="216" column="35" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
+      <jump line="220" column="22" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
+      <jump line="222" column="18" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
+      <jump line="225" column="18" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
+      <jump line="226" column="40" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
+      <jump line="274" column="19" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
+      <jump line="557" column="8" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
+      <jump line="559" column="26" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
+      <jump line="562" column="26" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
+      <jump line="564" column="15" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
+      <jump line="134" column="59" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
+      <jump line="132" column="4" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
+      <jump line="144" column="4" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
+      <jump line="7" column="16" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="96" column="110" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
+      <jump line="98" column="32" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
+      <jump line="4" column="12" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/regenerate-repodata.py" />
+      <jump line="76" column="48" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="78" column="23" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="23" column="35" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="74" column="8" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
+      <jump line="135" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
+      <jump line="4" column="23" filename="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/conda-recipe/meta.yaml" />
+      <jump line="25" column="9" filename="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/scripts/initialize_side_effect_tables.py" />
+      <jump line="12" column="67" filename="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/tests/testutils.py" />
+      <jump line="26" column="27" filename="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/tests/testutils.py" />
+      <jump line="29" column="17" filename="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/tests/testutils.py" />
+      <jump line="103" column="28" filename="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/tests/testutils.py" />
+      <jump line="154" column="12" filename="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/foot_traffic_insights/configurations.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>get_intellitag_region(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>new_platform_list</text>
+        <text>get_intellitag_region(</text>
       </register>
       <register name="0" type="4">
-        <text>full_platform_list =</text>
+        <text>get_intellitag_region(</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>e more surgical with
+    # what gets included
+    package_dir={'foot_traffic_insights':
+                 'foot_traffic_insights'},</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvbmdfZGVzY3JpcHRpb249cmVhZG1lICsgJ1xuXG4nICsgaGlzdG9yeSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsCg==</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICMgbWFrZSBzdXJlIHRoZSB0YXJnZXQgZGlyZWN0b3J5IHN0cnVjdHVyZSBpcyBpbiBwbGFjZQogICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKHRhcmdldF9kaXJlY3RvcnkpOgogICAgICAgIG9zLm1ha2VkaXJzKHRhcmdldF9kaXJlY3RvcnkpCiA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>e
-    if not os.path.exists(target_directory):
-        os.makedirs(target_directory)</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciBwbGF0Zm8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
+        <text encoding="base64">d2l0aCBvcGVuKCdkb2NzL3JlYWRtZS5yc3QnKSBhcyByZWFkbWVfZmlsZQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxpZGF0b3JzID0gW3Bhc3NfdGhydV92YWxpZGF0b3JdCg==</text>
+      <register name="9" type="4">
+        <text>:
+    readme = readme_file.read()
+
+with open('docs/history.rst') as history_file:
+    history = history_file.read()</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>/get_intellitag_region(</text>
       </register>
     </registers>
     <search>
-      <last-search>new_platform_list</last-search>
+      <last-search>get_intellitag_region(</last-search>
       <last-offset />
-      <last-pattern>new_platform_list</last-pattern>
-      <last-replace>full_platform_list</last-replace>
-      <last-substitute>new_platform_list</last-substitute>
+      <last-pattern>get_intellitag_region(</last-pattern>
+      <last-replace>BITS</last-replace>
+      <last-substitute>bits</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>get_file_names</entry>
-        <entry>anaconda_clu</entry>
-        <entry>anaconda_cli</entry>
-        <entry>makedirs</entry>
-        <entry>log_file</entry>
-        <entry>&quot;</entry>
+        <entry>tmpdir\.</entry>
         <entry>mkdir</entry>
-        <entry>logger.add</entry>
-        <entry>logging</entry>
-        <entry>channel</entry>
-        <entry>-c</entry>
-        <entry>Figuring</entry>
-        <entry>Most</entry>
-        <entry>recipe_dir</entry>
-        <entry>new_platform_list</entry>
+        <entry>bit</entry>
+        <entry>return</entry>
+        <entry>conda_platform</entry>
+        <entry>bits</entry>
+        <entry>ensure</entry>
+        <entry>local</entry>
+        <entry encoding="base64">XDxyZXRcPg==</entry>
+        <entry>local_repo_packages</entry>
+        <entry>.copy</entry>
+        <entry>copy</entry>
+        <entry>all</entry>
+        <entry>Index</entry>
+        <entry>index</entry>
+        <entry>remove</entry>
+        <entry>os.remove</entry>
+        <entry>requires</entry>
+        <entry>table_schemas</entry>
+        <entry>get_intellitag_region(</entry>
       </history-search>
       <history-cmd>
-        <entry>e</entry>
-        <entry>! source ~/.vimrc</entry>
-        <entry>set no</entry>
-        <entry>set nu</entry>
+        <entry>%s/mkdir/mktemp/g</entry>
+        <entry>%s/bit/bits/g</entry>
         <entry>set rnu</entry>
-        <entry>wq</entry>
-        <entry>.w</entry>
-        <entry>call NumberToggle()</entry>
-        <entry>m .-2</entry>
-        <entry>m .+1</entry>
-        <entry>lwL:w</entry>
+        <entry>set nu</entry>
+        <entry>%s/return/conda_platform =/g</entry>
+        <entry>%s/conda_platform/CONDA_PLATFORM/g</entry>
+        <entry>%s/bits/BITS</entry>
         <entry>&quot;w</entry>
-        <entry>%s/recipe_dir/examples_dir/g</entry>
-        <entry>W</entry>
-        <entry>Lw</entry>
+        <entry>m .-2</entry>
+        <entry>we</entry>
+        <entry>2</entry>
+        <entry>w'</entry>
+        <entry>w':w</entry>
         <entry>qa</entry>
-        <entry>sp</entry>
+        <entry>m .+1</entry>
+        <entry>Lw</entry>
         <entry>q</entry>
-        <entry>%s/new_platform_list/full_platform_list</entry>
+        <entry>wq</entry>
         <entry>w</entry>
+        <entry>/get_intellitag_region(</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -297,6 +512,30 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
