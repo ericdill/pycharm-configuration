@@ -41,6 +41,14 @@
   </action>
   <action id="EditorLookupDown" />
   <action id="EditorLookupUp" />
+  <action id="EditorPageDown">
+    <keyboard-shortcut first-keystroke="page_down" />
+    <mouse-shortcut keystroke="alt button142" />
+  </action>
+  <action id="EditorPageUp">
+    <keyboard-shortcut first-keystroke="page_up" />
+    <mouse-shortcut keystroke="alt button143" />
+  </action>
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
   <action id="ExpandAll">
