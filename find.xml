@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Module 'mas-loco'" />
-    <option name="defaultScopeName" value="Module 'mas-loco'" />
+    <option name="customScope" value="Project 'conda-mirror'" />
+    <option name="defaultScopeName" value="Project 'conda-mirror'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Module 'mas-loco'" />
+    <option name="SEARCH_SCOPE" value="Project 'conda-mirror'" />
   </component>
 </application>
