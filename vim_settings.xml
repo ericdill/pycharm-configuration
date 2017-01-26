@@ -36,12 +36,12 @@
         <mark key="." line="42" column="53" />
         <mark key="^" line="42" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" timestamp="1485460770382">
+      <file name="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" timestamp="1485462709962">
         <mark key="'" line="70" column="7" />
-        <mark key="[" line="51" column="43" />
-        <mark key="]" line="51" column="42" />
-        <mark key="." line="51" column="42" />
-        <mark key="^" line="51" column="42" />
+        <mark key="[" line="100" column="9" />
+        <mark key="]" line="102" column="15" />
+        <mark key="." line="102" column="15" />
+        <mark key="^" line="102" column="15" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/docs/history.rst" timestamp="1477421740443">
         <mark key="[" line="0" column="13" />
@@ -406,8 +406,8 @@
       <jump line="167" column="41" filename="$USER_HOME$/dev/python/airflow/airflow/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>fetch</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBjbG9uZV9kZXN0aW5hdGlvbgo=</text>
       </register>
       <register name="-" type="4">
         <text>fetch</text>
@@ -419,31 +419,31 @@
         <text encoding="base64">ICAgICAgICB0YXNrX2lkPSIlc18lc18lc19mZXRjaCIgJSAoaG9zdGluZ19zaXRlLCBvcmcsIHJlcG8pLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrX2lkPSIK</text>
+        <text encoding="base64">ICAgIHJldHVybiBjbG9uZV9kZXN0aW5hdGlvbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNsb25lX2Rlc3RpbmF0aW9uID0gIi90bXAvJXMvJXMvJXMiICUgKHNpdGUsIG9yZywgcmVwbykK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNsb25lX3VybCA9IHVybF90ZW1wbGF0ZXNbaG9zdGluZ19zaXRlXS5mb3JtYXQob3JnPW9yZywgcmVwbz1yZXBvKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdWJkYWcuYWRkX3Rhc2soKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbWQgPSAoImp1cHl0ZXIgbmJjb252ZXJ0IC0tdG8gSFRNTCAtLWV4ZWN1dGUgJXMiICUgbm90ZWJvb2spLnNwbGl0KCkKICAgICAgICBzdWJwcm9jZXNzLmNoZWNrX2NhbGwoY21kLCBzaGVsbD1UcnVlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNsb25lX2NtZCA9ICJnaXQgY2xvbmUgJXMgJXMiICUgKGNsb25lX3VybCwgY2xvbmVfZGVzdGluYXRpb24pCiAgICBzdWJwcm9jZXNzLmNoZWNrX291dHB1dChjbG9uZV9jbWQuc3BsaXQoKSkK</text>
+        <text encoding="base64">ICAgICAgICB0YXNrX2lkPSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
+        <text encoding="base64">ICAgIGNsb25lX2Rlc3RpbmF0aW9uID0gIi90bXAvJXMvJXMvJXMiICUgKHNpdGUsIG9yZywgcmVwbykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5ybWRpcihjbG9uZV9kZXN0aW5hdGlvbikK</text>
+        <text encoding="base64">ICAgIGNsb25lX3VybCA9IHVybF90ZW1wbGF0ZXNbaG9zdGluZ19zaXRlXS5mb3JtYXQob3JnPW9yZywgcmVwbz1yZXBvKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJwcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNsb25lX2NtZCA9ICJnaXQgY2xvbmUgJXMgJXMiICUgKGNsb25lX3VybCwgY2xvbmVfZGVzdGluYXRpb24pCiAgICBzdWJwcm9jZXNzLmNoZWNrX291dHB1dChjbG9uZV9jbWQuc3BsaXQoKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
