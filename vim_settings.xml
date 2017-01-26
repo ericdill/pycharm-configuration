@@ -36,12 +36,12 @@
         <mark key="." line="42" column="53" />
         <mark key="^" line="42" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" timestamp="1485446662916">
-        <mark key="'" line="89" column="67" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="^" line="91" column="18" />
-        <mark key="." line="93" column="0" />
+      <file name="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" timestamp="1485449852932">
+        <mark key="'" line="67" column="7" />
+        <mark key="[" line="80" column="16" />
+        <mark key="]" line="80" column="23" />
+        <mark key="." line="80" column="23" />
+        <mark key="^" line="80" column="23" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/docs/history.rst" timestamp="1477421740443">
         <mark key="[" line="0" column="13" />
@@ -290,11 +290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="12" filename="$USER_HOME$/dev/maxpoint/maxforge/tools/conda/conda-sync.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/tools/conda/conda-sync.py" />
-      <jump line="80" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/tools/conda/conda-sync.py" />
-      <jump line="3" column="10" filename="$USER_HOME$/dev/maxpoint/maxforge/tools/conda/conda-sync/update-whitelist.py" />
-      <jump line="4" column="13" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conftest.py" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conftest.py" />
       <jump line="11" column="10" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
       <jump line="16" column="3" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
@@ -385,51 +380,56 @@
       <jump line="40" column="30" filename="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" />
       <jump line="38" column="26" filename="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" />
       <jump line="50" column="9" filename="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" />
       <jump line="56" column="58" filename="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" />
       <jump line="93" column="0" filename="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" />
       <jump line="89" column="67" filename="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" />
+      <jump line="82" column="46" filename="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" />
+      <jump line="23" column="2" filename="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" />
+      <jump line="72" column="14" filename="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" />
+      <jump line="0" column="12" filename="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" />
+      <jump line="63" column="7" filename="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkYWcuYWRkX3Rhc2soXykK</text>
+      <register name="&quot;" type="4">
+        <text>fetch</text>
       </register>
       <register name="-" type="4">
-        <text>notebook</text>
+        <text>fetch</text>
       </register>
       <register name="/" type="4">
         <text>get_intellitag_region(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBhaXJmbG93Lm9wZXJhdG9ycy5iYXNoX29wZXJhdG9yIGltcG9ydCBCYXNoT3BlcmF0b3IK</text>
+        <text encoding="base64">ICAgICAgICB0YXNrX2lkPSIlc18lc18lc19mZXRjaCIgJSAoaG9zdGluZ19zaXRlLCBvcmcsIHJlcG8pLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkYWcuYWRkX3Rhc2soXykK</text>
+        <text encoding="base64">ICAgICAgICB0YXNrX2lkPSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsb25lX2Rlc3RpbmF0aW9uID0gIi90bXAvJXMvJXMvJXMiICUgKHNpdGUsIG9yZywgcmVwbykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGNsb25lX3JlcG8ob3JnLCByZXBvLCB1cmxfdGVtcGxhdGUpOgo=</text>
+        <text encoding="base64">ICAgIGNsb25lX3VybCA9IHVybF90ZW1wbGF0ZXNbaG9zdGluZ19zaXRlXS5mb3JtYXQob3JnPW9yZywgcmVwbz1yZXBvKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRhZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJhc2hfY29tbWFuZD1jbG9uZV9jb21tYW5kKCdwYXJlbnRlJywgJ25iZXN0aW1hdGUnLCBHSVRIVUIpLAopCgoKZm9yIG5vdGVib29rIGluIGZpbmRfbm90ZWJvb2tzKCk6CgoKcnVuX2FuZF9yZW5kZXIgPSBCYXNoT3BlcmF0b3IoCgopCg==</text>
+        <text encoding="base64">ICAgIGNsb25lX2NtZCA9ICJnaXQgY2xvbmUgJXMgJXMiICUgKGNsb25lX3VybCwgY2xvbmVfZGVzdGluYXRpb24pCiAgICBzdWJwcm9jZXNzLmNoZWNrX291dHB1dChjbG9uZV9jbWQuc3BsaXQoKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRhc2tfaWQ9J2Nsb25lJywK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xvbmUgPSBCYXNoT3BlcmF0b3IoCg==</text>
+        <text encoding="base64">ICAgICAgICBvcy5ybWRpcihjbG9uZV9kZXN0aW5hdGlvbikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdWJwcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
