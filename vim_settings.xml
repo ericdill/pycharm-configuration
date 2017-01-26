@@ -55,6 +55,9 @@
         <mark key="^" line="11" column="3" />
         <mark key="." line="11" column="3" />
       </file>
+      <file name="$USER_HOME$/dev/python/airflow/airflow/configuration.py" timestamp="1485457362287">
+        <mark key="'" line="816" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conftest.py" timestamp="1476982278838">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="5" column="30" />
@@ -102,6 +105,12 @@
       </file>
       <file name="$USER_HOME$/dev/conda/conda/conda/exceptions.py" timestamp="1477318062624">
         <mark key="'" line="323" column="66" />
+      </file>
+      <file name="$USER_HOME$/dev/python/airflow/CONTRIBUTING.md" timestamp="1485457913182">
+        <mark key="[" line="49" column="2" />
+        <mark key="]" line="49" column="5" />
+        <mark key="." line="49" column="5" />
+        <mark key="^" line="49" column="5" />
       </file>
       <file name="$USER_HOME$/dev/conda/buildmatrix/README.md" timestamp="1475267028271">
         <mark key="'" line="59" column="0" />
@@ -171,7 +180,6 @@
         <mark key="^" line="31" column="10" />
         <mark key="." line="31" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/python/airflow/airflow/operators/python_operator.py" timestamp="1485445402960" />
       <file name="$USER_HOME$/dev/maxpoint/minion-services-py/test-jenkins-trigger.sh" timestamp="1476123221264">
         <mark key="[" line="5" column="110" />
         <mark key="]" line="5" column="110" />
@@ -264,6 +272,9 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/dev/python/airflow/airflow/models.py" timestamp="1485458335576">
+        <mark key="'" line="4051" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/compiles-against-numpy/meta.yaml" timestamp="1475262954519">
         <mark key="[" line="1" column="18" />
         <mark key="]" line="1" column="18" />
@@ -290,10 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conftest.py" />
-      <jump line="11" column="10" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
-      <jump line="16" column="3" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
       <jump line="3" column="37" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/regenerate-repodata.py" />
       <jump line="9" column="9" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/regenerate-repodata.py" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/regenerate-repodata.py" />
@@ -390,6 +397,10 @@
       <jump line="0" column="12" filename="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" />
       <jump line="84" column="0" filename="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" />
       <jump line="63" column="7" filename="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" />
+      <jump line="28" column="27" filename="$USER_HOME$/dev/python/airflow/airflow/configuration.py" />
+      <jump line="816" column="4" filename="$USER_HOME$/dev/python/airflow/airflow/configuration.py" />
+      <jump line="150" column="28" filename="$USER_HOME$/dev/python/airflow/airflow/models.py" />
+      <jump line="4051" column="4" filename="$USER_HOME$/dev/python/airflow/airflow/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -399,7 +410,7 @@
         <text>fetch</text>
       </register>
       <register name="/" type="4">
-        <text>get_intellitag_region(</text>
+        <text>import</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0YXNrX2lkPSIlc18lc18lc19mZXRjaCIgJSAoaG9zdGluZ19zaXRlLCBvcmcsIHJlcG8pLAo=</text>
@@ -432,13 +443,13 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>get_intellitag_region(</last-search>
+      <last-search>import</last-search>
       <last-offset />
-      <last-pattern>get_intellitag_region(</last-pattern>
+      <last-pattern>import</last-pattern>
       <last-replace>BITS</last-replace>
       <last-substitute>bits</last-substitute>
       <last-dir>1</last-dir>
@@ -446,8 +457,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tmpdir\.</entry>
-        <entry>mkdir</entry>
         <entry>bit</entry>
         <entry>return</entry>
         <entry>conda_platform</entry>
@@ -466,6 +475,8 @@
         <entry>requires</entry>
         <entry>table_schemas</entry>
         <entry>get_intellitag_region(</entry>
+        <entry>relative</entry>
+        <entry>import</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bit/bits/g</entry>
@@ -485,9 +496,9 @@
         <entry>Lw</entry>
         <entry>wq</entry>
         <entry>/get_intellitag_region(</entry>
-        <entry>q</entry>
         <entry>ws</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
