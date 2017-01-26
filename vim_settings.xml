@@ -36,12 +36,12 @@
         <mark key="." line="42" column="53" />
         <mark key="^" line="42" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" timestamp="1485449852932">
-        <mark key="'" line="67" column="7" />
-        <mark key="[" line="80" column="16" />
-        <mark key="]" line="80" column="23" />
-        <mark key="." line="80" column="23" />
-        <mark key="^" line="80" column="23" />
+      <file name="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" timestamp="1485460770382">
+        <mark key="'" line="70" column="7" />
+        <mark key="[" line="51" column="43" />
+        <mark key="]" line="51" column="42" />
+        <mark key="." line="51" column="42" />
+        <mark key="^" line="51" column="42" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/docs/history.rst" timestamp="1477421740443">
         <mark key="[" line="0" column="13" />
@@ -165,6 +165,9 @@
       <file name="$USER_HOME$/miniconda/lib/python3.5/logging/__init__.py" timestamp="1476730562428">
         <mark key="'" line="1477" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1485460989138">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/conda/conda/conda/cli/common.py" timestamp="1477318129183">
         <mark key="'" line="564" column="15" />
       </file>
@@ -272,8 +275,8 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/python/airflow/airflow/models.py" timestamp="1485458335576">
-        <mark key="'" line="4051" column="4" />
+      <file name="$USER_HOME$/dev/python/airflow/airflow/models.py" timestamp="1485461272649">
+        <mark key="'" line="167" column="41" />
       </file>
       <file name="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/compiles-against-numpy/meta.yaml" timestamp="1475262954519">
         <mark key="[" line="1" column="18" />
@@ -301,14 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="37" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/regenerate-repodata.py" />
-      <jump line="9" column="9" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/regenerate-repodata.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/regenerate-repodata.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/regenerate-repodata.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/regenerate-repodata.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/regenerate-repodata.py" />
-      <jump line="35" column="25" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/regenerate-repodata.py" />
-      <jump line="14" column="38" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
       <jump line="15" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
       <jump line="35" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
@@ -401,6 +396,14 @@
       <jump line="816" column="4" filename="$USER_HOME$/dev/python/airflow/airflow/configuration.py" />
       <jump line="150" column="28" filename="$USER_HOME$/dev/python/airflow/airflow/models.py" />
       <jump line="4051" column="4" filename="$USER_HOME$/dev/python/airflow/airflow/models.py" />
+      <jump line="2421" column="8" filename="$USER_HOME$/dev/python/airflow/airflow/models.py" />
+      <jump line="63" column="46" filename="$USER_HOME$/dev/python/airflow/airflow/models.py" />
+      <jump line="2445" column="44" filename="$USER_HOME$/dev/python/airflow/airflow/models.py" />
+      <jump line="445" column="8" filename="$USER_HOME$/dev/python/airflow/airflow/models.py" />
+      <jump line="441" column="8" filename="$USER_HOME$/dev/python/airflow/airflow/models.py" />
+      <jump line="438" column="34" filename="$USER_HOME$/dev/python/airflow/airflow/models.py" />
+      <jump line="387" column="37" filename="$USER_HOME$/dev/python/airflow/airflow/models.py" />
+      <jump line="167" column="41" filename="$USER_HOME$/dev/python/airflow/airflow/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -410,7 +413,7 @@
         <text>fetch</text>
       </register>
       <register name="/" type="4">
-        <text>import</text>
+        <text>DagBag</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0YXNrX2lkPSIlc18lc18lc19mZXRjaCIgJSAoaG9zdGluZ19zaXRlLCBvcmcsIHJlcG8pLAo=</text>
@@ -443,13 +446,13 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>import</last-search>
+      <last-search>DagBag</last-search>
       <last-offset />
-      <last-pattern>import</last-pattern>
+      <last-pattern>DagBag</last-pattern>
       <last-replace>BITS</last-replace>
       <last-substitute>bits</last-substitute>
       <last-dir>1</last-dir>
@@ -457,7 +460,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bit</entry>
         <entry>return</entry>
         <entry>conda_platform</entry>
         <entry>bits</entry>
@@ -477,6 +479,7 @@
         <entry>get_intellitag_region(</entry>
         <entry>relative</entry>
         <entry>import</entry>
+        <entry>DagBag</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bit/bits/g</entry>
@@ -497,8 +500,8 @@
         <entry>wq</entry>
         <entry>/get_intellitag_region(</entry>
         <entry>ws</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
