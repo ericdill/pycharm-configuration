@@ -39,12 +39,12 @@
         <mark key="." line="42" column="53" />
         <mark key="^" line="42" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" timestamp="1485464360542">
+      <file name="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" timestamp="1485471173254">
         <mark key="'" line="66" column="29" />
-        <mark key="[" line="86" column="42" />
-        <mark key="]" line="86" column="41" />
-        <mark key="^" line="86" column="41" />
-        <mark key="." line="86" column="41" />
+        <mark key="[" line="77" column="43" />
+        <mark key="]" line="87" column="46" />
+        <mark key="^" line="87" column="46" />
+        <mark key="." line="87" column="46" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/docs/history.rst" timestamp="1477421740443">
         <mark key="[" line="0" column="13" />
