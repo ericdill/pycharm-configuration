@@ -17,6 +17,9 @@
         <mark key="^" line="12" column="76" />
         <mark key="." line="12" column="76" />
       </file>
+      <file name="/a.dummy" timestamp="1485464331541">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/MANIFEST.in" timestamp="1477423153509">
         <mark key="[" line="11" column="44" />
         <mark key="]" line="11" column="48" />
@@ -36,12 +39,12 @@
         <mark key="." line="42" column="53" />
         <mark key="^" line="42" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" timestamp="1485462709962">
-        <mark key="'" line="70" column="7" />
-        <mark key="[" line="100" column="9" />
-        <mark key="]" line="102" column="15" />
-        <mark key="." line="102" column="15" />
-        <mark key="^" line="102" column="15" />
+      <file name="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" timestamp="1485464360542">
+        <mark key="'" line="66" column="29" />
+        <mark key="[" line="86" column="42" />
+        <mark key="]" line="86" column="41" />
+        <mark key="^" line="86" column="41" />
+        <mark key="." line="86" column="41" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/docs/history.rst" timestamp="1477421740443">
         <mark key="[" line="0" column="13" />
@@ -304,14 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/.travis.yml" />
-      <jump line="12" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/regenerate-repodata.py" />
-      <jump line="9" column="30" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
-      <jump line="12" column="11" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
-      <jump line="13" column="24" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
       <jump line="18" column="16" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
       <jump line="19" column="44" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
       <jump line="26" column="3" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
@@ -404,13 +399,21 @@
       <jump line="438" column="34" filename="$USER_HOME$/dev/python/airflow/airflow/models.py" />
       <jump line="387" column="37" filename="$USER_HOME$/dev/python/airflow/airflow/models.py" />
       <jump line="167" column="41" filename="$USER_HOME$/dev/python/airflow/airflow/models.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" />
+      <jump line="85" column="4" filename="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" />
+      <jump line="76" column="8" filename="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" />
+      <jump line="91" column="4" filename="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" />
+      <jump line="16" column="23" filename="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" />
+      <jump line="74" column="55" filename="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" />
+      <jump line="66" column="29" filename="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjbG9uZV9kZXN0aW5hdGlvbgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>fetch</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>DagBag</text>
@@ -419,31 +422,31 @@
         <text encoding="base64">ICAgICAgICB0YXNrX2lkPSIlc18lc18lc19mZXRjaCIgJSAoaG9zdGluZ19zaXRlLCBvcmcsIHJlcG8pLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjbG9uZV9kZXN0aW5hdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICBzdWJwcm9jZXNzLihjbWQsIHNoZWxsPVRydWUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzdWJwcm9jZXNzLmNoZWNrX291dHB1dChjbG9uZV9jbWQuc3BsaXQoKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJkYWcuYWRkX3Rhc2soKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjbWQgPSAoImp1cHl0ZXIgbmJjb252ZXJ0IC0tdG8gSFRNTCAtLWV4ZWN1dGUgJXMiICUgbm90ZWJvb2spLnNwbGl0KCkKICAgICAgICBzdWJwcm9jZXNzLmNoZWNrX2NhbGwoY21kLCBzaGVsbD1UcnVlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrX2lkPSIK</text>
+        <text encoding="base64">ZmV0Y2hfZGFnID0gREFHKGRhZ19pZD0nZmV0Y2hfbm90ZWJvb2tzJywKICAgICAgICAgICAgICAgIHN0YXJ0X2RhdGU9ZGF0ZXRpbWUoMjAxNSwgNiwgMSksCiAgICAgICAgICAgICAgICBzY2hlZHVsZV9pbnRlcnZhbD0iQG9uY2UiKQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNsb25lX2Rlc3RpbmF0aW9uID0gIi90bXAvJXMvJXMvJXMiICUgKHNpdGUsIG9yZywgcmVwbykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNsb25lX3VybCA9IHVybF90ZW1wbGF0ZXNbaG9zdGluZ19zaXRlXS5mb3JtYXQob3JnPW9yZywgcmVwbz1yZXBvKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNsb25lX2NtZCA9ICJnaXQgY2xvbmUgJXMgJXMiICUgKGNsb25lX3VybCwgY2xvbmVfZGVzdGluYXRpb24pCiAgICBzdWJwcm9jZXNzLmNoZWNrX291dHB1dChjbG9uZV9jbWQuc3BsaXQoKSkK</text>
+        <text encoding="base64">ZGVmIGNvbnZlcnRfbm90ZWJvb2sobm90ZWJvb2tfcGF0aCk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -557,6 +560,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
