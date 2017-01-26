@@ -204,6 +204,7 @@
         <mark key="." line="4" column="46" />
         <mark key="^" line="4" column="46" />
       </file>
+      <file name="$USER_HOME$/dev/python/airflow/airflow/bin/cli.py" timestamp="1485470044725" />
       <file name="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test-requirements.txt" timestamp="1476982053141">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="3" column="3" />
@@ -266,6 +267,9 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/python/airflow/airflow/www/views.py" timestamp="1485470443287">
+        <mark key="'" line="578" column="14" />
+      </file>
       <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/docs/authors.rst" timestamp="1477421673455">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="20" />
@@ -278,7 +282,7 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/python/airflow/airflow/models.py" timestamp="1485461272649">
+      <file name="$USER_HOME$/dev/python/airflow/airflow/models.py" timestamp="1485470245501">
         <mark key="'" line="167" column="41" />
       </file>
       <file name="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/compiles-against-numpy/meta.yaml" timestamp="1475262954519">
@@ -307,11 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="16" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
-      <jump line="19" column="44" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
-      <jump line="26" column="3" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
-      <jump line="42" column="8" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
-      <jump line="116" column="12" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
       <jump line="37" column="32" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
       <jump line="6" column="10" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
       <jump line="118" column="79" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
@@ -407,6 +406,11 @@
       <jump line="16" column="23" filename="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" />
       <jump line="74" column="55" filename="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" />
       <jump line="66" column="29" filename="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" />
+      <jump line="82" column="4" filename="$USER_HOME$/dev/python/airflow/airflow/www/views.py" />
+      <jump line="483" column="19" filename="$USER_HOME$/dev/python/airflow/airflow/www/views.py" />
+      <jump line="503" column="19" filename="$USER_HOME$/dev/python/airflow/airflow/www/views.py" />
+      <jump line="558" column="19" filename="$USER_HOME$/dev/python/airflow/airflow/www/views.py" />
+      <jump line="578" column="14" filename="$USER_HOME$/dev/python/airflow/airflow/www/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -416,7 +420,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>DagBag</text>
+        <text>dagbag</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0YXNrX2lkPSIlc18lc18lc19mZXRjaCIgJSAoaG9zdGluZ19zaXRlLCBvcmcsIHJlcG8pLAo=</text>
@@ -453,9 +457,9 @@
       </register>
     </registers>
     <search>
-      <last-search>DagBag</last-search>
+      <last-search>dagbag</last-search>
       <last-offset />
-      <last-pattern>DagBag</last-pattern>
+      <last-pattern>dagbag</last-pattern>
       <last-replace>BITS</last-replace>
       <last-substitute>bits</last-substitute>
       <last-dir>1</last-dir>
@@ -463,7 +467,6 @@
     </search>
     <history>
       <history-search>
-        <entry>return</entry>
         <entry>conda_platform</entry>
         <entry>bits</entry>
         <entry>ensure</entry>
@@ -483,6 +486,7 @@
         <entry>relative</entry>
         <entry>import</entry>
         <entry>DagBag</entry>
+        <entry>dagbag</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bit/bits/g</entry>
