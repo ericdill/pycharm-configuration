@@ -171,7 +171,6 @@
         <mark key="^" line="31" column="10" />
         <mark key="." line="31" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/python/airflow/airflow/operators/python_operator.py" timestamp="1485445402960" />
       <file name="$USER_HOME$/dev/maxpoint/minion-services-py/test-jenkins-trigger.sh" timestamp="1476123221264">
         <mark key="[" line="5" column="110" />
         <mark key="]" line="5" column="110" />
@@ -213,6 +212,13 @@
         <mark key="]" line="2" column="11" />
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="11" />
+      </file>
+      <file name="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" timestamp="1486327540942">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="140" column="37" />
+        <mark key="]" line="140" column="13" />
+        <mark key="." line="140" column="13" />
+        <mark key="^" line="140" column="13" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/__init__.py" timestamp="1477419716465">
         <mark key="[" line="0" column="0" />
@@ -290,9 +296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conftest.py" />
-      <jump line="11" column="10" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
-      <jump line="16" column="3" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
       <jump line="30" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
       <jump line="3" column="37" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/regenerate-repodata.py" />
       <jump line="9" column="9" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/regenerate-repodata.py" />
@@ -390,55 +393,58 @@
       <jump line="0" column="12" filename="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" />
       <jump line="84" column="0" filename="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" />
       <jump line="63" column="7" filename="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" />
+      <jump line="59" column="8" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="181" column="11" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fetch</text>
+        <text>anaconda channel to mirror',</text>
       </register>
       <register name="-" type="4">
-        <text>fetch</text>
+        <text>anaconda channel to mirror',</text>
       </register>
       <register name="/" type="4">
-        <text>get_intellitag_region(</text>
+        <text>channel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrX2lkPSIlc18lc18lc19mZXRjaCIgJSAoaG9zdGluZ19zaXRlLCBvcmcsIHJlcG8pLAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIkFzc3VtaW5nICVzIGlzIGFuIGFuYWNvbmRhLm9yZyBjaGFubmVsIiwgY2hhbm5lbCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrX2lkPSIK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNsb25lX2Rlc3RpbmF0aW9uID0gIi90bXAvJXMvJXMvJXMiICUgKHNpdGUsIG9yZywgcmVwbykK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygiQXNzdW1pbmcgJXMgaXMgYW4gYW5hY29uZGEub3JnIGNoYW5uZWwiLCBjaGFubmVsKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNsb25lX3VybCA9IHVybF90ZW1wbGF0ZXNbaG9zdGluZ19zaXRlXS5mb3JtYXQob3JnPW9yZywgcmVwbz1yZXBvKQo=</text>
+        <text encoding="base64">ICAgICAgICB0YXNrX2lkPSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsb25lX2Rlc3RpbmF0aW9uID0gIi90bXAvJXMvJXMvJXMiICUgKHNpdGUsIG9yZywgcmVwbykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNsb25lX2NtZCA9ICJnaXQgY2xvbmUgJXMgJXMiICUgKGNsb25lX3VybCwgY2xvbmVfZGVzdGluYXRpb24pCiAgICBzdWJwcm9jZXNzLmNoZWNrX291dHB1dChjbG9uZV9jbWQuc3BsaXQoKSkK</text>
+        <text encoding="base64">ICAgIGNsb25lX3VybCA9IHVybF90ZW1wbGF0ZXNbaG9zdGluZ19zaXRlXS5mb3JtYXQob3JnPW9yZywgcmVwbz1yZXBvKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5ybWRpcihjbG9uZV9kZXN0aW5hdGlvbikK</text>
+        <text encoding="base64">ICAgIGNsb25lX2NtZCA9ICJnaXQgY2xvbmUgJXMgJXMiICUgKGNsb25lX3VybCwgY2xvbmVfZGVzdGluYXRpb24pCiAgICBzdWJwcm9jZXNzLmNoZWNrX291dHB1dChjbG9uZV9jbWQuc3BsaXQoKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJwcgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBvcy5ybWRpcihjbG9uZV9kZXN0aW5hdGlvbikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get_intellitag_region(</last-search>
+      <last-search>channel</last-search>
       <last-offset />
-      <last-pattern>get_intellitag_region(</last-pattern>
+      <last-pattern>channel</last-pattern>
       <last-replace>BITS</last-replace>
       <last-substitute>bits</last-substitute>
       <last-dir>1</last-dir>
@@ -446,8 +452,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tmpdir\.</entry>
-        <entry>mkdir</entry>
         <entry>bit</entry>
         <entry>return</entry>
         <entry>conda_platform</entry>
@@ -466,6 +470,8 @@
         <entry>requires</entry>
         <entry>table_schemas</entry>
         <entry>get_intellitag_region(</entry>
+        <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
+        <entry>channel</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bit/bits/g</entry>
