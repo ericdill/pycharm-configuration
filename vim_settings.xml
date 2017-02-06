@@ -100,6 +100,13 @@
         <mark key="." line="22" column="51" />
         <mark key="^" line="22" column="51" />
       </file>
+      <file name="$USER_HOME$/dev/maxpoint/mp-utils/test-requirements.txt" timestamp="1486417155529">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="33" column="9" />
+        <mark key="]" line="34" column="3" />
+        <mark key="^" line="34" column="3" />
+        <mark key="." line="34" column="3" />
+      </file>
       <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/env/meta.yaml" timestamp="1477422220423">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="28" column="68" />
@@ -189,7 +196,7 @@
         <mark key="^" line="31" column="10" />
         <mark key="." line="31" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/mp-utils/mp_utils/api/geo_maps.py" timestamp="1486415884188">
+      <file name="$USER_HOME$/dev/maxpoint/mp-utils/mp_utils/api/geo_maps.py" timestamp="1486416515102">
         <mark key="'" line="253" column="18" />
         <mark key="[" line="264" column="0" />
         <mark key="]" line="264" column="0" />
@@ -320,11 +327,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="19" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
-      <jump line="7" column="12" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
-      <jump line="92" column="33" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
-      <jump line="93" column="30" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
-      <jump line="6" column="7" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
       <jump line="55" column="63" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
       <jump line="57" column="67" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
       <jump line="87" column="37" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
@@ -420,10 +422,15 @@
       <jump line="22" column="0" filename="$USER_HOME$/dev/maxpoint/mp-utils/mp_utils/measurement/warehouse_utils/store_sales_rollup.py" />
       <jump line="74" column="79" filename="$USER_HOME$/dev/maxpoint/mp-utils/mp_utils/measurement/warehouse_utils/store_sales_rollup.py" />
       <jump line="253" column="18" filename="$USER_HOME$/dev/maxpoint/mp-utils/mp_utils/api/geo_maps.py" />
+      <jump line="32" column="11" filename="$USER_HOME$/dev/maxpoint/mp-utils/test-requirements.txt" />
+      <jump line="25" column="5" filename="$USER_HOME$/dev/maxpoint/mp-utils/test-requirements.txt" />
+      <jump line="20" column="5" filename="$USER_HOME$/dev/maxpoint/mp-utils/test-requirements.txt" />
+      <jump line="35" column="4" filename="$USER_HOME$/dev/maxpoint/mp-utils/test-requirements.txt" />
+      <jump line="24" column="0" filename="$USER_HOME$/dev/maxpoint/mp-utils/test-requirements.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBtaW5pb24uc2VydmljZXMuY29uZmlnLl9pbnRlcm5hbC5jb25maWdfc2VydmljZS5kekxpc3RDb25maWcudHR5cGVzIGltcG9ydCBOdWxsYWJsZURaSURzTGlzdAo=</text>
+        <text encoding="base64">I3Rlc3RpbmcK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -435,28 +442,28 @@
         <text encoding="base64">ICAgICAgICB0YXNrX2lkPSIlc18lc18lc19mZXRjaCIgJSAoaG9zdGluZ19zaXRlLCBvcmcsIHJlcG8pLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBtaW5pb24uc2VydmljZXMuY29uZmlnLl9pbnRlcm5hbC5jb25maWdfc2VydmljZS5kekxpc3RDb25maWcudHR5cGVzIGltcG9ydCBOdWxsYWJsZURaSURzTGlzdAo=</text>
+        <text encoding="base64">I3Rlc3RpbmcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJwcm9jZXNzLihjbWQsIHNoZWxsPVRydWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJwcm9jZXNzLmNoZWNrX291dHB1dChjbG9uZV9jbWQuc3BsaXQoKSkK</text>
+        <text encoding="base64">cHl0ZXN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UGlubmluZyB0aHJpZnQgdG8gMC45LjMgc2luY2Ugb3RoZXJ3aXNlIHRocmlmdF9zYXNsIGRvZXNuJ3Qgd29yawo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAtIHNoYXBlZmlsZSAgTmVlZCB0byBjb25kYSBwYWNrYWdlIHNoYXBlZmlsZQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZmV0Y2hfZGFnID0gREFHKGRhZ19pZD0nZmV0Y2hfbm90ZWJvb2tzJywKICAgICAgICAgICAgICAgIHN0YXJ0X2RhdGU9ZGF0ZXRpbWUoMjAxNSwgNiwgMSksCiAgICAgICAgICAgICAgICBzY2hlZHVsZV9pbnRlcnZhbD0iQG9uY2UiKQoK</text>
+      <register name="6" type="8">
+        <text encoding="base64">ICAgIC0gCiAgICAtIAogICAgLSAKICAgIC0gCiAgICAtIAogICAgLSAKICAgIC0gCiAgICAtIAogICAgLSAKICAgIC0gCiAgICAtIAogICAgLSAKICAgIC0gCiAgICAtIAogICAgLSAKICAgIC0gCiAgICAtIAogICAgLSAKICAgIC0gCiAgICAtIAogICAgLSAKICAgIC0gCiAgICAtIAogICAgLSAKICAgIC0gCiAgICAtIAogICAgLSAKICAgIC0gCiAgICAtIAogICAgICAKICAgIC0gCiAgICAtIAogICAgIyAKICAgIC0gCiAgICAtIAogICAgLSA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuY3Rvb2xzX2xydV9jYWNoZQpiYXNlbWFwCmNvdmVyYWdlCmVudW0zNApnZGFsCmdlb3BhbmRhcwppYmlzLWZyYW1ld29yawppbXB5bGEKaXB5dGhvbgpqaW5qYTIKanVweXRlcgpsZGFwMwptaW5pb24tc2VydmljZXMtaGVhdG1hcAptaW5pb24tc2VydmljZXMtc2NoZWR1bGVyCm1weQpub3NlCm51bXB5ZG9jCnBhbmRhcwpwYXJhbWlrbwpwYXRzeQpwc3V0aWwKcHN5Y29wZzIKcHl0ZXN0CnB5dGhvbi1kYXRldXRpbApweXRob24taGlnaGNoYXJ0cwpweXlhbWwKc2Npa2l0LWxlYXJuCnNjaXB5CnNpeApzcGhpbngKc3BoaW54X3J0ZF90aGVtZQpzcWxhbGNoZW15CnRocmlmdF9zYXNsCnRvb2x6CnhtbHRvZGljdAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -498,7 +505,6 @@
         <entry>FileContents</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/bit/bits/g</entry>
         <entry>set rnu</entry>
         <entry>set nu</entry>
         <entry>%s/return/conda_platform =/g</entry>
@@ -517,6 +523,7 @@
         <entry>/get_intellitag_region(</entry>
         <entry>ws</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
