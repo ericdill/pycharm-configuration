@@ -171,6 +171,9 @@
         <mark key="^" line="31" column="10" />
         <mark key="." line="31" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/maxpoint/github/conda-mirror/versioneer.py" timestamp="1486331467033">
+        <mark key="'" line="135" column="18" />
+      </file>
       <file name="$USER_HOME$/dev/maxpoint/minion-services-py/test-jenkins-trigger.sh" timestamp="1476123221264">
         <mark key="[" line="5" column="110" />
         <mark key="]" line="5" column="110" />
@@ -213,12 +216,13 @@
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" timestamp="1486330125562">
-        <mark key="j" line="385" column="3" />
-        <mark key="[" line="560" column="40" />
-        <mark key="]" line="561" column="7" />
-        <mark key="^" line="561" column="7" />
-        <mark key="." line="561" column="7" />
+      <file name="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" timestamp="1486332529131">
+        <mark key="'" line="546" column="27" />
+        <mark key="j" line="389" column="3" />
+        <mark key="[" line="381" column="0" />
+        <mark key="m" line="160" column="31" />
+        <mark key="]" line="381" column="0" />
+        <mark key="." line="381" column="0" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/__init__.py" timestamp="1477419716465">
         <mark key="[" line="0" column="0" />
@@ -296,25 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="30" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
-      <jump line="96" column="20" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
-      <jump line="97" column="41" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
-      <jump line="211" column="19" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
-      <jump line="213" column="15" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
-      <jump line="216" column="35" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
-      <jump line="220" column="22" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
-      <jump line="222" column="18" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
-      <jump line="225" column="18" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
-      <jump line="226" column="40" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
-      <jump line="274" column="19" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
-      <jump line="557" column="8" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
-      <jump line="559" column="26" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
-      <jump line="562" column="26" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
-      <jump line="564" column="15" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
-      <jump line="134" column="59" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
-      <jump line="132" column="4" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
-      <jump line="144" column="4" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
       <jump line="7" column="16" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
       <jump line="96" column="110" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
@@ -351,7 +336,6 @@
       <jump line="167" column="13" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
       <jump line="207" column="12" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
       <jump line="202" column="14" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
-      <jump line="0" column="42" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
       <jump line="15" column="6" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
       <jump line="1" column="39" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
       <jump line="555" column="4" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
@@ -366,7 +350,6 @@
       <jump line="475" column="10" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
       <jump line="479" column="21" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
       <jump line="480" column="16" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
-      <jump line="483" column="32" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
       <jump line="484" column="14" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
       <jump line="485" column="14" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
       <jump line="489" column="18" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
@@ -393,58 +376,79 @@
       <jump line="524" column="56" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
       <jump line="532" column="21" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
       <jump line="540" column="41" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
-      <jump line="542" column="23" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
       <jump line="543" column="27" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
       <jump line="554" column="42" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="579" column="0" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="577" column="4" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="445" column="41" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="216" column="4" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="603" column="4" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="96" column="39" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/versioneer.py" />
+      <jump line="97" column="46" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/versioneer.py" />
+      <jump line="134" column="26" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/versioneer.py" />
+      <jump line="135" column="18" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/versioneer.py" />
+      <jump line="612" column="4" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="193" column="4" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="163" column="66" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="191" column="26" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="189" column="0" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="483" column="21" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="288" column="4" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="477" column="0" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="542" column="0" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="311" column="4" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="546" column="12" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="550" column="27" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmQgPSBqc29uLmxvYWQoZikK</text>
+        <text encoding="base64">ICAgIHBhY2thZ2VfcmVwb2RhdGFEZSA9IHBhY2thZ2VfcmVwb2RhdGFbJ3BhY2thZ2VzJ10K</text>
       </register>
       <register name="-" type="4">
-        <text>repodata.json</text>
+        <text>packages</text>
       </register>
       <register name="/" type="4">
-        <text>packages</text>
+        <text>_validate_package</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIkFzc3VtaW5nICVzIGlzIGFuIGFuYWNvbmRhLm9yZyBjaGFubmVsIiwgY2hhbm5lbCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmQgPSBqc29uLmxvYWQoZikK</text>
+        <text encoding="base64">ICAgIHBhY2thZ2VfcmVwb2RhdGFEZSA9IHBhY2thZ2VfcmVwb2RhdGFbJ3BhY2thZ2VzJ10K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4ocmVwb2RhdGFfcGF0aCwgJ3InKSBhcyBmOgo=</text>
+        <text encoding="base64">ICAgIHBhY2thZ2VzID0gcGFja2FnZV9yZXBvZGF0YVsncGFja2FnZXMnXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGxvYWQgdGhlIGpzb24gaW50byBhIHB5dGhvbiBkaWN0aW9uYXJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG93bmxvYWRfCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHBydW5lIHRoZSByZXBvZGF0YS5qc29uIGZpbGUgb2YgcGFja2FnZXMgd2UgZG9uJ3Qgd2FudAo=</text>
+        <text encoding="base64">ICAgIGRvd25sb2FkX3VybCwgdXBzdHJlYW1fY2hhbm5lbCA9IF9tYXliZV9zcGxpdF9jaGFubmVsKHVwc3RyZWFtX2NoYW5uZWwpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyc2VyLnByaW50X2hlbHAoKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IHVybCA9IGRvd25sb2FkX3VybC5mb3JtYXQoY2hhbm5lbD11cHN0cmVhbV9jaGFubmVsLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGxhdGZvcm09cGxhdGZvcm0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaWxlX25hbWU9InJlcG9kYXRhLmpzb24iKQogICAgICAgIF9kb3dubG9hZCh1cmwsIGRvd25sb2FkX2RpciwgdmFsaWRhdGU9RmFsc2UpCg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoMCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB1cmwgPSBkb3dubG9hZF91cmwuZm9ybWF0KGNoYW5uZWw9dXBzdHJlYW1fY2hhbm5lbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBsYXRmb3JtPXBsYXRmb3JtLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmlsZV9uYW1lPSJyZXBvZGF0YS5qc29uIikKICAgICAgICBfZG93bmxvYWQodXJsLCBkb3dubG9hZF9kaXIsIHZhbGlkYXRlPUZhbHNlKQoKICAgICAgICAjIHBydW5lIHRoZSByZXBvZGF0YS5qc29uIGZpbGUgb2YgcGFja2FnZXMgd2UgZG9uJ3Qgd2FudAogICAgICAgIHJlcG9kYXRhX3BhdGggPSBvcy5wYXRoLmpvaW4oZG93bmxvYWRfZGlyLCAncmVwb2RhdGEuanNvbicpCgogICAgICAgICMgbG9hZCB0aGUganNvbiBpbnRvIGEgcHl0aG9uIGRpY3Rpb25hcnkKICAgICAgICB3aXRoIG9wZW4ocmVwb2RhdGFfcGF0aCwgJ3InKSBhcyBmOgogICAgICAgICAgICByZCA9IGpzb24ubG9hZChmKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCIiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>packages</last-search>
+      <last-search>_validate_package</last-search>
       <last-offset />
-      <last-pattern>packages</last-pattern>
+      <last-pattern>_validate_package</last-pattern>
       <last-replace>BITS</last-replace>
       <last-substitute>bits</last-substitute>
       <last-dir>1</last-dir>
@@ -452,29 +456,28 @@
     </search>
     <history>
       <history-search>
-        <entry>copy</entry>
-        <entry>all</entry>
-        <entry>Index</entry>
-        <entry>index</entry>
-        <entry>remove</entry>
-        <entry>os.remove</entry>
-        <entry>requires</entry>
-        <entry>table_schemas</entry>
-        <entry>get_intellitag_region(</entry>
-        <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
         <entry>channel</entry>
         <entry>verbose</entry>
         <entry>print</entry>
         <entry>package_metadata</entry>
         <entry>download_repodata</entry>
         <entry>repodata</entry>
-        <entry>get_repodata</entry>
         <entry>upstream_channel</entry>
         <entry>info</entry>
         <entry>packages</entry>
+        <entry>version</entry>
+        <entry>cli</entry>
+        <entry>get_version</entry>
+        <entry>args.help</entry>
+        <entry>cli(</entry>
+        <entry>argv</entry>
+        <entry>.info</entry>
+        <entry>get_repodata</entry>
+        <entry>download_url</entry>
+        <entry>_download</entry>
+        <entry>_validate_package</entry>
       </history-search>
       <history-cmd>
-        <entry>set rnu</entry>
         <entry>set nu</entry>
         <entry>%s/return/conda_platform =/g</entry>
         <entry>%s/conda_platform/CONDA_PLATFORM/g</entry>
@@ -493,6 +496,7 @@
         <entry>q</entry>
         <entry>ws</entry>
         <entry>h</entry>
+        <entry>551</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -549,6 +553,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
