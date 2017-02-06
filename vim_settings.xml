@@ -68,6 +68,9 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
+      <file name="$USER_HOME$/dev/maxpoint/mp-utils/mp_utils/measurement/warehouse_utils/store_sales_rollup.py" timestamp="1486406071601">
+        <mark key="'" line="74" column="79" />
+      </file>
       <file name="$USER_HOME$/dev/conda/buildmatrix/tests/test_cli.py" timestamp="1475687715594">
         <mark key="'" line="49" column="28" />
         <mark key="[" line="49" column="29" />
@@ -317,8 +320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="42" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
-      <jump line="70" column="45" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
       <jump line="60" column="40" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
       <jump line="72" column="19" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
       <jump line="7" column="12" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
@@ -417,6 +418,8 @@
       <jump line="258" column="10" filename="$USER_HOME$/dev/maxpoint/mp-utils/mp_utils/api/geo_maps.py" />
       <jump line="17" column="37" filename="$USER_HOME$/dev/maxpoint/mp-utils/mp_utils/api/geo_maps.py" />
       <jump line="246" column="9" filename="$USER_HOME$/dev/maxpoint/mp-utils/mp_utils/api/geo_maps.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/dev/maxpoint/mp-utils/mp_utils/measurement/warehouse_utils/store_sales_rollup.py" />
+      <jump line="74" column="79" filename="$USER_HOME$/dev/maxpoint/mp-utils/mp_utils/measurement/warehouse_utils/store_sales_rollup.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -426,7 +429,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>cfg</text>
+        <text>ttypes</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0YXNrX2lkPSIlc18lc18lc19mZXRjaCIgJSAoaG9zdGluZ19zaXRlLCBvcmcsIHJlcG8pLAo=</text>
@@ -463,9 +466,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cfg</last-search>
+      <last-search>ttypes</last-search>
       <last-offset />
-      <last-pattern>cfg</last-pattern>
+      <last-pattern>ttypes</last-pattern>
       <last-replace>BITS</last-replace>
       <last-substitute>bits</last-substitute>
       <last-dir>1</last-dir>
@@ -491,8 +494,8 @@
         <entry>import</entry>
         <entry>DagBag</entry>
         <entry>dagbag</entry>
-        <entry>ttypes</entry>
         <entry>cfg</entry>
+        <entry>ttypes</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bit/bits/g</entry>
