@@ -216,13 +216,14 @@
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" timestamp="1486332529131">
-        <mark key="'" line="546" column="27" />
-        <mark key="j" line="389" column="3" />
-        <mark key="[" line="381" column="0" />
-        <mark key="m" line="160" column="31" />
-        <mark key="]" line="381" column="0" />
-        <mark key="." line="381" column="0" />
+      <file name="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" timestamp="1486394114935">
+        <mark key="'" line="552" column="27" />
+        <mark key="j" line="395" column="3" />
+        <mark key="[" line="163" column="0" />
+        <mark key="m" line="166" column="31" />
+        <mark key="]" line="163" column="1" />
+        <mark key="." line="163" column="1" />
+        <mark key="^" line="163" column="1" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/__init__.py" timestamp="1477419716465">
         <mark key="[" line="0" column="0" />
@@ -402,8 +403,13 @@
       <jump line="550" column="27" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2VfcmVwb2RhdGFEZSA9IHBhY2thZ2VfcmVwb2RhdGFbJ3BhY2thZ2VzJ10K</text>
+      <register name="&quot;" type="8">
+        <text>+
++
++
++
++
++</text>
       </register>
       <register name="-" type="4">
         <text>packages</text>
@@ -414,32 +420,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIkFzc3VtaW5nICVzIGlzIGFuIGFuYWNvbmRhLm9yZyBjaGFubmVsIiwgY2hhbm5lbCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2VfcmVwb2RhdGFEZSA9IHBhY2thZ2VfcmVwb2RhdGFbJ3BhY2thZ2VzJ10K</text>
+      <register name="1" type="8">
+        <text>+
++
++
++
++
++</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2VzID0gcGFja2FnZV9yZXBvZGF0YVsncGFja2FnZXMnXQo=</text>
+        <text encoding="base64">ICAgIHBhY2thZ2VfcmVwb2RhdGFEZSA9IHBhY2thZ2VfcmVwb2RhdGFbJ3BhY2thZ2VzJ10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG93bmxvYWRfCg==</text>
+        <text encoding="base64">ICAgIHBhY2thZ2VzID0gcGFja2FnZV9yZXBvZGF0YVsncGFja2FnZXMnXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG93bmxvYWRfCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRvd25sb2FkX3VybCwgdXBzdHJlYW1fY2hhbm5lbCA9IF9tYXliZV9zcGxpdF9jaGFubmVsKHVwc3RyZWFtX2NoYW5uZWwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyc2VyLnByaW50X2hlbHAoKQo=</text>
+        <text encoding="base64">ICAgIGRvd25sb2FkX3VybCwgdXBzdHJlYW1fY2hhbm5lbCA9IF9tYXliZV9zcGxpdF9jaGFubmVsKHVwc3RyZWFtX2NoYW5uZWwpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyc2VyLnByaW50X2hlbHAoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoMCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCIiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
