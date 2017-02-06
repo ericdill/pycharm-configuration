@@ -17,6 +17,9 @@
         <mark key="^" line="12" column="76" />
         <mark key="." line="12" column="76" />
       </file>
+      <file name="/a.dummy" timestamp="1486416234124">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/MANIFEST.in" timestamp="1477423153509">
         <mark key="[" line="11" column="44" />
         <mark key="]" line="11" column="48" />
@@ -216,8 +219,8 @@
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" timestamp="1486394114935">
-        <mark key="'" line="552" column="27" />
+      <file name="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" timestamp="1486416517906">
+        <mark key="'" line="275" column="34" />
         <mark key="j" line="395" column="3" />
         <mark key="[" line="163" column="0" />
         <mark key="m" line="166" column="31" />
@@ -263,6 +266,12 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/maxpoint/github/conda-mirror/test/test_conda_mirror.py" timestamp="1486416534778">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/docs/authors.rst" timestamp="1477421673455">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="20" />
@@ -301,8 +310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="16" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
       <jump line="96" column="110" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
       <jump line="98" column="32" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
       <jump line="4" column="12" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/regenerate-repodata.py" />
@@ -401,18 +408,15 @@
       <jump line="311" column="4" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
       <jump line="546" column="12" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
       <jump line="550" column="27" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="275" column="34" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/test/test_conda_mirror.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>+
-+
-+
-+
-+
-+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>packages</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>_validate_package</text>
@@ -420,7 +424,25 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIkFzc3VtaW5nICVzIGlzIGFuIGFuYWNvbmRhLm9yZyBjaGFubmVsIiwgY2hhbm5lbCkK</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbmRhX21pcnJvci5ERUZBVUxUX0RPV05MT0FEX1VSTF9CQVNFID0gb3JpZ2luYWxfZG93bmxvYWRfdXJsCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbmRhX21pcnJvci51cGRhdGVfZG93bmxvYWRfdXJsKGFuYWNvbmRhX2NoYW5uZWwpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG9yaWdpbmFsX2Rvd25sb2FkX3VybCA9IGNvbmRhX21pcnJvci5ERUZBVUxUX0RPV05MT0FEX1VSTF9CQVNFCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZGVmIAo=</text>
+      </register>
+      <register name="7" type="8">
         <text>+
 +
 +
@@ -428,29 +450,11 @@
 +
 +</text>
       </register>
-      <register name="2" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHBhY2thZ2VfcmVwb2RhdGFEZSA9IHBhY2thZ2VfcmVwb2RhdGFbJ3BhY2thZ2VzJ10K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2VzID0gcGFja2FnZV9yZXBvZGF0YVsncGFja2FnZXMnXQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG93bmxvYWRfCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRvd25sb2FkX3VybCwgdXBzdHJlYW1fY2hhbm5lbCA9IF9tYXliZV9zcGxpdF9jaGFubmVsKHVwc3RyZWFtX2NoYW5uZWwpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyc2VyLnByaW50X2hlbHAoKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoMCkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLgo=</text>
+        <text encoding="base64">ICAgIHBhY2thZ2VzID0gcGFja2FnZV9yZXBvZGF0YVsncGFja2FnZXMnXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
