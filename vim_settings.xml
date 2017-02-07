@@ -245,11 +245,12 @@
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" timestamp="1486484571666">
-        <mark key="[" line="173" column="41" />
-        <mark key="]" line="173" column="45" />
-        <mark key="." line="173" column="45" />
-        <mark key="^" line="173" column="45" />
+      <file name="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" timestamp="1486487809542">
+        <mark key="'" line="173" column="35" />
+        <mark key="[" line="187" column="33" />
+        <mark key="]" line="187" column="33" />
+        <mark key="." line="187" column="33" />
+        <mark key="^" line="187" column="33" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/__init__.py" timestamp="1477419716465">
         <mark key="[" line="0" column="0" />
@@ -336,7 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="30" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
       <jump line="96" column="20" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
       <jump line="97" column="41" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
       <jump line="211" column="19" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
@@ -436,55 +436,59 @@
       <jump line="182" column="0" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
       <jump line="183" column="13" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
       <jump line="181" column="4" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="173" column="35" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIGxlbih2ZXJib3NpdHkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICMgbm90aGluZyBjb3VsZCBwb3NzaWJseSBnbyB3cm9uZyBoZXJlLi4uCg==</text>
       </register>
       <register name="-" type="4">
-        <text>]logmap[len()])</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>_make_arg_parser</text>
+        <text>verbo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0YXNrX2lkPSIlc18lc18lc19mZXRjaCIgJSAoaG9zdGluZ19zaXRlLCBvcmcsIHJlcG8pLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIGxlbih2ZXJib3NpdHkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICMgbm90aGluZyBjb3VsZCBwb3NzaWJseSBnbyB3cm9uZyBoZXJlLi4uCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldmVsbmFtZSA9IAo=</text>
+      <register name="2" type="4">
+        <text>One &quot;
+              &quot;shows &quot;
+              &quot;warnings. Two shows &quot;
+              &quot;info. Three shows debug.</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJib3NlID0gIiIK</text>
+        <text encoding="base64">ICAgIGlmIGxlbih2ZXJib3NpdHkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIHZlcmJvc2UgaXMgTm9uZToK</text>
+        <text encoding="base64">ICAgIGxldmVsbmFtZSA9IAo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB2ZXJib3NlID0gIiIK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGlmIHZlcmJvc2UgaXMgTm9uZToK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmIHZlcmJvc2UgaXMgTm9uZToK</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">ICMgc2V0IHVwIHRoZSBsb2dnZXIKICAgIGdsb2JhbCBsb2dnZXIKICAgIGxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCdjb25kYV9taXJyb3InKQogICAgbG9nbWFwID0gezA6IGxvZ2dpbmcuRVJST1IsCiAgICAgICAgICAgICAgMTogbG9nZ2luZy5XQVJOSU5HLAogICAgICAgICAgICAgIDI6IGxvZ2dpbmcuSU5GTywKICAgICAgICAgICAgICAzOiBsb2dnaW5nLkRFQlVHfQogICAgbG9nbGV2ZWwgPSBsb2dtYXBbbGVuKGFyZ3MudmVyYm9zZSldCgogICAgIyBjbGVhciBhbGwgaGFuZGxlcnMKICAgIGZvciBoYW5kbGVyIGluIGxvZ2dlci5oYW5kbGVyczoKICAgICAgICBsb2dnZXIucmVtb3ZlSGFuZGxlcihoYW5kbGVyKQogICAgbG9nZ2VyLnNldExldmVsKGxvZ2xldmVsKQogICAgZm9ybWF0X3N0cmluZyA9ICclKGxldmVsbmFtZSlzOiAlKG1lc3NhZ2UpcycKICAgIGZvcm1hdHRlciA9IGxvZ2dpbmcuRm9ybWF0dGVyKGZtdD1mb3JtYXRfc3RyaW5nKQogICAgc3RyZWFtX2hhbmRsZXIgPSBsb2dnaW5nLlN0cmVhbUhhbmRsZXIoKQogICAgc3RyZWFtX2hhbmRsZXIuc2V0TGV2ZWwobG9nbGV2ZWwpCiAgICBzdHJlYW1faGFuZGxlci5zZXRGb3JtYXR0ZXIoZm10PWZvcm1hdHRlcikKCiAgICBsb2dnZXIuYWRkSGFuZGxlcihzdHJlYW1faGFuZGxlcikK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNsZWFyIGFsbCBoYW5kbGVycwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIucmVtb3ZlSGFuZGxlcihoYW5kbGVyKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciBoYW5kbGVyIGluIGxvZ2dlci5oYW5kbGVyczoK</text>
+        <text encoding="base64">ICAgICAgICAjIGNsZWFyIGFsbCBoYW5kbGVycwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>_make_arg_parser</last-search>
+      <last-search>verbo</last-search>
       <last-offset />
-      <last-pattern>_make_arg_parser</last-pattern>
+      <last-pattern>verbo</last-pattern>
       <last-replace>BITS</last-replace>
       <last-substitute>bits</last-substitute>
       <last-dir>1</last-dir>
@@ -492,7 +496,6 @@
     </search>
     <history>
       <history-search>
-        <entry>.copy</entry>
         <entry>copy</entry>
         <entry>all</entry>
         <entry>Index</entry>
@@ -512,6 +515,7 @@
         <entry>application</entry>
         <entry>cluster_application</entry>
         <entry>_make_arg_parser</entry>
+        <entry>verbo</entry>
       </history-search>
       <history-cmd>
         <entry>set rnu</entry>
