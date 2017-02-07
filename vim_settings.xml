@@ -257,8 +257,8 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/github/yarnitor/yarnitor/background/worker.py" timestamp="1486476771278">
-        <mark key="'" line="76" column="13" />
+      <file name="$USER_HOME$/dev/maxpoint/github/yarnitor/yarnitor/background/worker.py" timestamp="1486479902981">
+        <mark key="'" line="113" column="36" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/maxforge/tools/conda/conda-sync/whitelisted-packages.yaml" timestamp="1476732977308">
         <mark key="[" line="0" column="7" />
@@ -330,7 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
       <jump line="97" column="28" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
       <jump line="114" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
       <jump line="323" column="66" filename="$USER_HOME$/dev/conda/conda/conda/exceptions.py" />
@@ -430,6 +429,7 @@
       <jump line="60" column="54" filename="$USER_HOME$/dev/maxpoint/github/yarnitor/yarnitor/background/worker.py" />
       <jump line="74" column="37" filename="$USER_HOME$/dev/maxpoint/github/yarnitor/yarnitor/background/worker.py" />
       <jump line="76" column="13" filename="$USER_HOME$/dev/maxpoint/github/yarnitor/yarnitor/background/worker.py" />
+      <jump line="113" column="36" filename="$USER_HOME$/dev/maxpoint/github/yarnitor/yarnitor/background/worker.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -439,7 +439,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>application</text>
+        <text>cluster_application</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0YXNrX2lkPSIlc18lc18lc19mZXRjaCIgJSAoaG9zdGluZ19zaXRlLCBvcmcsIHJlcG8pLAo=</text>
@@ -476,9 +476,9 @@
       </register>
     </registers>
     <search>
-      <last-search>application</last-search>
+      <last-search>cluster_application</last-search>
       <last-offset />
-      <last-pattern>application</last-pattern>
+      <last-pattern>cluster_application</last-pattern>
       <last-replace>BITS</last-replace>
       <last-substitute>bits</last-substitute>
       <last-dir>1</last-dir>
@@ -486,7 +486,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXRcPg==</entry>
         <entry>local_repo_packages</entry>
         <entry>.copy</entry>
         <entry>copy</entry>
@@ -506,6 +505,7 @@
         <entry>ttypes</entry>
         <entry>FileContents</entry>
         <entry>application</entry>
+        <entry>cluster_application</entry>
       </history-search>
       <history-cmd>
         <entry>set rnu</entry>
