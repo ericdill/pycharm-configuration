@@ -279,12 +279,13 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" timestamp="1486561932010">
-        <mark key="'" line="259" column="20" />
-        <mark key="[" line="560" column="32" />
-        <mark key="]" line="560" column="71" />
-        <mark key="." line="560" column="71" />
-        <mark key="^" line="560" column="71" />
+      <file name="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" timestamp="1486563434856">
+        <mark key="'" line="132" column="4" />
+        <mark key="[" line="252" column="0" />
+        <mark key="m" line="367" column="8" />
+        <mark key="]" line="252" column="0" />
+        <mark key="^" line="163" column="32" />
+        <mark key="." line="252" column="0" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/__init__.py" timestamp="1477419716465">
         <mark key="[" line="0" column="0" />
@@ -371,15 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
-      <jump line="96" column="110" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
-      <jump line="98" column="32" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
-      <jump line="4" column="12" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/regenerate-repodata.py" />
-      <jump line="76" column="48" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
-      <jump line="78" column="23" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
-      <jump line="23" column="35" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
-      <jump line="74" column="8" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
-      <jump line="135" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
       <jump line="4" column="23" filename="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/conda-recipe/meta.yaml" />
       <jump line="25" column="9" filename="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/scripts/initialize_side_effect_tables.py" />
       <jump line="12" column="67" filename="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/tests/testutils.py" />
@@ -464,50 +456,59 @@
       <jump line="262" column="44" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
       <jump line="274" column="0" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
       <jump line="397" column="20" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
-      <jump line="407" column="21" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
       <jump line="266" column="14" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
       <jump line="234" column="0" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
       <jump line="578" column="7" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
       <jump line="568" column="0" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
       <jump line="567" column="0" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
       <jump line="259" column="20" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="270" column="16" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="615" column="8" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="277" column="4" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="380" column="8" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="453" column="0" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="538" column="6" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="579" column="12" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="613" column="71" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="407" column="4" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="132" column="4" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>mirror</text>
       </register>
       <register name="/" type="4">
-        <text>_assert_or_remove</text>
+        <text>validate_local_channel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0YXNrX2lkPSIlc18lc18lc19mZXRjaCIgJSAoaG9zdGluZ19zaXRlLCBvcmcsIHJlcG8pLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ZGVmIF9hc3NlcnRfb3JfcmVtb3ZlKGxlZnQsIHJpZ2h0LCBhc3NlcnRpb25fdGVzdCwgZmlsZW5hbWUpOgogICAgdHJ5OgogICAgICAgIGFzc2VydCBsZWZ0ID09IHJpZ2h0CiAgICBleGNlcHQgQXNzZXJ0aW9uRXJyb3I6CiAgICAgICAgbG9nZ2VyLmluZm8oIlBhY2thZ2UgdmFsaWRhdGlvbiBmYWlsZWQgZm9yICVzOiAlcyAhPSAlcyIsCiAgICAgICAgICAgICAgICAgICAgYXNzZXJ0aW9uX3Rlc3QsIGxlZnQsIHJpZ2h0LAogICAgICAgICAgICAgICAgICAgIGV4Y19pbmZvPVRydWUpCiAgICAgICAgX3JlbW92ZV9wYWNrYWdlKGZpbGVuYW1lLCByZWFzb249IkZhaWxlZCAlcyB0ZXN0IiAlIGFzc2VydGlvbl90ZXN0KQogICAgICAgIHJldHVybiBUcnVlCiAgICBlbHNlOgogICAgICAgIGxvZ2dlci5kZWJ1ZygnJXMgY2hlY2sgcGFzc2VkJywgYXNzZXJ0aW9uX3Rlc3QpCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiVmFsaWRhdGluZyBsb2NhbCBjaGFubmVsIikK</text>
+        <text encoding="base64">ICAgICMgNC4gcmVtb3ZlIGJsYWNrbGlzdGVkIHBhY2thZ2VzCiAgICAjIGdldCBsaXN0IG9mIGN1cnJlbnQgcGFja2FnZXMgaW4gZm9sZGVyCiAgICBsb2NhbF9wYWNrYWdlcyA9IF9saXN0X2NvbmRhX3BhY2thZ2VzKGxvY2FsX2RpcmVjdG9yeSkKICAgICMgaWYgYW55IGFyZSBub3QgaW4gdGhlIGZpbmFsIG1pcnJvciBsaXN0LCByZW1vdmUgdGhlbQogICAgZm9yIHBhY2thZ2VfbmFtZSBpbiBsb2NhbF9wYWNrYWdlczoKICAgICAgICBpZiBwYWNrYWdlX25hbWUgaW4gdHJ1ZV9ibGFja2xpc3Q6CiAgICAgICAgICAgIF9yZW1vdmVfcGFja2FnZShvcy5wYXRoLmpvaW4obG9jYWxfZGlyZWN0b3J5LCBwYWNrYWdlX25hbWUpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVhc29uPSJQYWNrYWdlIGlzIGJsYWNrbGlzdGVkIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">ICAgICMgMy4gcmVtb3ZlIGJsYWNrbGlzdGVkIHBhY2thZ2VzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHBhY2thZ2VzIHdlIGQndCB3YW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJlcG9kYXRhLmpzbwo=</text>
+        <text encoding="base64">ICAgICMgMS4gdmFsaWRhdGUgbG9jYWwgcmVwbwogICAgIyB2YWxpZGF0aW5nIGFsbCBwYWNrYWdlcyBpcyB0YWtpbmcgbWFueSBob3Vycy4KICAgICMgX3ZhbGlkYXRlX3BhY2thZ2VzKHJlcG9kYXRhPXJlcG9kYXRhLAogICAgIyAgICAgICAgICAgICAgICAgICAgcGFja2FnZV9kaXJlY3Rvcnk9bG9jYWxfZGlyZWN0b3J5KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHdlIGRvbid0IHdhbnQgYWxyZWFkeSBkb3dubG9hZGVkIAogICAgICAgICMgcmVwb2RhdGEuanNvbiAKICAgICAgICAjIHBhY2thZ2VzIHdlIGRvbid0IHdhbnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -517,9 +518,9 @@
       </register>
     </registers>
     <search>
-      <last-search>_assert_or_remove</last-search>
+      <last-search>validate_local_channel</last-search>
       <last-offset />
-      <last-pattern>_assert_or_remove</last-pattern>
+      <last-pattern>validate_local_channel</last-pattern>
       <last-replace>BITS</last-replace>
       <last-substitute>bits</last-substitute>
       <last-dir>1</last-dir>
@@ -527,18 +528,12 @@
     </search>
     <history>
       <history-search>
-        <entry>dagbag</entry>
-        <entry>cfg</entry>
-        <entry>ttypes</entry>
-        <entry>FileContents</entry>
-        <entry>application</entry>
         <entry>cluster_application</entry>
         <entry>_make_arg_parser</entry>
         <entry>verbo</entry>
         <entry>logger</entry>
         <entry>info</entry>
         <entry>def info</entry>
-        <entry>_validate</entry>
         <entry>NOTE2</entry>
         <entry>_list_conda</entry>
         <entry>def cli</entry>
@@ -547,9 +542,14 @@
         <entry>to_mirror</entry>
         <entry>possible_packages_to_mirror</entry>
         <entry>_assert_or_remove</entry>
+        <entry>_validate</entry>
+        <entry>_validate*(</entry>
+        <entry>_validate(</entry>
+        <entry>_validate_packakges</entry>
+        <entry>_validate_packages</entry>
+        <entry>validate_local_channel</entry>
       </history-search>
       <history-cmd>
-        <entry>set rnu</entry>
         <entry>set nu</entry>
         <entry>%s/return/conda_platform =/g</entry>
         <entry>%s/conda_platform/CONDA_PLATFORM/g</entry>
@@ -565,9 +565,10 @@
         <entry>wq</entry>
         <entry>/get_intellitag_region(</entry>
         <entry>ws</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>qa</entry>
+        <entry>q</entry>
+        <entry>445</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -627,6 +628,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
