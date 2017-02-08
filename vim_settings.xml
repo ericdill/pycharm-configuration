@@ -244,6 +244,12 @@
         <mark key="^" line="35" column="0" />
         <mark key="." line="136" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/validate.py" timestamp="1486560040769">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test-requirements.txt" timestamp="1476982053141">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="3" column="3" />
@@ -273,12 +279,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" timestamp="1486490980721">
-        <mark key="'" line="407" column="21" />
-        <mark key="[" line="375" column="62" />
-        <mark key="]" line="375" column="62" />
-        <mark key="^" line="375" column="62" />
-        <mark key="." line="375" column="62" />
+      <file name="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" timestamp="1486561932010">
+        <mark key="'" line="259" column="20" />
+        <mark key="[" line="560" column="32" />
+        <mark key="]" line="560" column="71" />
+        <mark key="." line="560" column="71" />
+        <mark key="^" line="560" column="71" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/__init__.py" timestamp="1477419716465">
         <mark key="[" line="0" column="0" />
@@ -365,12 +371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="564" column="15" filename="$USER_HOME$/dev/conda/conda/conda/cli/common.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
-      <jump line="134" column="59" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
-      <jump line="132" column="4" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
-      <jump line="144" column="4" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
-      <jump line="7" column="16" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test_conda_mirror.py" />
       <jump line="96" column="110" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
       <jump line="98" column="32" filename="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/conda_mirror.py" />
@@ -465,58 +465,61 @@
       <jump line="274" column="0" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
       <jump line="397" column="20" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
       <jump line="407" column="21" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="266" column="14" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="234" column="0" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="578" column="7" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="568" column="0" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="567" column="0" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
+      <jump line="259" column="20" filename="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Unreleased</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Unreleased</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>_list_conda</text>
+        <text>_assert_or_remove</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0YXNrX2lkPSIlc18lc18lc19mZXRjaCIgJSAoaG9zdGluZ19zaXRlLCBvcmcsIHJlcG8pLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRoZW4gZnVja2luZyBpbnN0YWxsIGl0Cg==</text>
+        <text encoding="base64">ICAgICAgICBlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJhY2ViYWNrLmZvcm1hdF9leGNlcHRpb25fb25seSh0eXBlKGZuZmUpLCBmbmZlKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHRpb25fbWVzc2FnZSA9ICcgJy5qb2luKAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtc2cgPSAiRXJyb3IgaW4gIgo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiVmFsaWRhdGluZyBsb2NhbCBjaGFubmVsIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LSAyLgo=</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LSBnaXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL2VyaWNkaWxsL2NpIH4vc2NyaXB0cwotIC4gfi9zY3JpcHRzL2luc3RhbGwtbWluaWNvbmRhLnNoCi0gY29uZGEgaW5zdGFsbCBweXRob249JFRSQVZJU19QWVRIT05fVkVSU0lPTiBwaXAgY29uZGEtYnVpbGQKLSBjb25kYSB1cGRhdGUgLS1hbAo=</text>
+        <text encoding="base64">ICAgICAgICAjIHBhY2thZ2VzIHdlIGQndCB3YW50Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>/scripts
-- . ~/scripts/install-miniconda.sh
-- conda install python=$TRAVIS_PYTHON_VERSION pip conda-build
-- conda update --all</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAjIHJlcG9kYXRhLmpzbwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VE9UQUwK</text>
+        <text encoding="base64">ICAgICAgICAjIHdlIGRvbid0IHdhbnQgYWxyZWFkeSBkb3dubG9hZGVkIAogICAgICAgICMgcmVwb2RhdGEuanNvbiAKICAgICAgICAjIHBhY2thZ2VzIHdlIGRvbid0IHdhbnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>_list_conda</last-search>
+      <last-search>_assert_or_remove</last-search>
       <last-offset />
-      <last-pattern>_list_conda</last-pattern>
+      <last-pattern>_assert_or_remove</last-pattern>
       <last-replace>BITS</last-replace>
       <last-substitute>bits</last-substitute>
       <last-dir>1</last-dir>
@@ -524,12 +527,6 @@
     </search>
     <history>
       <history-search>
-        <entry>requires</entry>
-        <entry>table_schemas</entry>
-        <entry>get_intellitag_region(</entry>
-        <entry>relative</entry>
-        <entry>import</entry>
-        <entry>DagBag</entry>
         <entry>dagbag</entry>
         <entry>cfg</entry>
         <entry>ttypes</entry>
@@ -544,6 +541,12 @@
         <entry>_validate</entry>
         <entry>NOTE2</entry>
         <entry>_list_conda</entry>
+        <entry>def cli</entry>
+        <entry>def main</entry>
+        <entry>packages</entry>
+        <entry>to_mirror</entry>
+        <entry>possible_packages_to_mirror</entry>
+        <entry>_assert_or_remove</entry>
       </history-search>
       <history-cmd>
         <entry>set rnu</entry>
@@ -564,8 +567,8 @@
         <entry>ws</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
-        <entry>w</entry>
         <entry>qa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
