@@ -510,7 +510,7 @@
         <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -557,7 +557,6 @@
         <entry>2</entry>
         <entry>w'</entry>
         <entry>w':w</entry>
-        <entry>qa</entry>
         <entry>m .+1</entry>
         <entry>Lw</entry>
         <entry>wq</entry>
@@ -566,6 +565,7 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
