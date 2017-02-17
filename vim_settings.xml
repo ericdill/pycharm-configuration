@@ -33,10 +33,10 @@
         <mark key="^" line="65" column="72" />
         <mark key="." line="65" column="72" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/system-overview/sitecustomize.py" timestamp="1487345716735">
+      <file name="$USER_HOME$/dev/maxpoint/system-overview/sitecustomize.py" timestamp="1487346905949">
         <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="19" />
-        <mark key="." line="3" column="19" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="19" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/maxforge/tools/conda/conda-sync/update-whitelist.py" timestamp="1476883374572">
@@ -517,7 +517,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">W3J1bl0Kc291cmNlID0KICAgIAogICAgcmVwb3J0X3Rvb2wKCg==</text>
+        <text encoding="base64">cmFpc2UgUnVudGltZUVycm9yKCkK</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -529,31 +529,31 @@
         <text encoding="base64">ICAgICAgICB0YXNrX2lkPSIlc18lc18lc19mZXRjaCIgJSAoaG9zdGluZ19zaXRlLCBvcmcsIHJlcG8pLAo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">cmFpc2UgUnVudGltZUVycm9yKCkK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">W3J1bl0Kc291cmNlID0KICAgIAogICAgcmVwb3J0X3Rvb2wKCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
+      <register name="3" type="4">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgoKCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">c3lzLnBhdGguaW5zZXJ0KDAsIG9zLmdldGN3ZCgpKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CgoKCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">c3lzLnBhdGguaW5zZXJ0KDAsIG9zLmdldGN3ZCgpKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwppbXBvcnQgb3MKc3lzLnBhdGguaW5zZXJ0KDAsIG9zLmdldGN3ZCgpKQo=</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBjb3ZlcmFnZQogICAgY292ZXJhZ2UucHJvY2Vzc19zdGFydHVwKCkK</text>
+        <text encoding="base64">aW1wb3J0IHN5cwppbXBvcnQgb3MKc3lzLnBhdGguaW5zZXJ0KDAsIG9zLmdldGN3ZCgpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
