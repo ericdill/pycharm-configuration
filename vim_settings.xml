@@ -153,13 +153,6 @@
         <mark key="^" line="5" column="108" />
         <mark key="." line="5" column="110" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" timestamp="1487348119779">
-        <mark key="'" line="332" column="21" />
-        <mark key="[" line="106" column="57" />
-        <mark key="]" line="107" column="56" />
-        <mark key="." line="107" column="56" />
-        <mark key="^" line="107" column="56" />
-      </file>
       <file name="$USER_HOME$/dev/maxpoint/minion-services-py/setup.template.py" timestamp="1475607375025">
         <mark key="[" line="6" column="10" />
         <mark key="]" line="6" column="20" />
@@ -213,7 +206,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/code.py" timestamp="1487341211628">
+      <file name="/code.py" timestamp="1487349373846">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" timestamp="1486563434856">
