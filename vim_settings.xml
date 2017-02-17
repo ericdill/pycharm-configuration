@@ -153,6 +153,9 @@
         <mark key="^" line="5" column="108" />
         <mark key="." line="5" column="110" />
       </file>
+      <file name="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" timestamp="1487354211314">
+        <mark key="'" line="332" column="50" />
+      </file>
       <file name="$USER_HOME$/dev/maxpoint/minion-services-py/setup.template.py" timestamp="1475607375025">
         <mark key="[" line="6" column="10" />
         <mark key="]" line="6" column="20" />
@@ -295,9 +298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="55" filename="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" />
-      <jump line="66" column="29" filename="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.py" />
-      <jump line="82" column="4" filename="$USER_HOME$/dev/python/airflow/airflow/www/views.py" />
       <jump line="483" column="19" filename="$USER_HOME$/dev/python/airflow/airflow/www/views.py" />
       <jump line="503" column="19" filename="$USER_HOME$/dev/python/airflow/airflow/www/views.py" />
       <jump line="558" column="19" filename="$USER_HOME$/dev/python/airflow/airflow/www/views.py" />
@@ -391,10 +391,13 @@
       <jump line="329" column="21" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="326" column="56" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="330" column="35" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="334" column="28" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="357" column="8" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="331" column="21" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/tests/test_job.py" />
+      <jump line="334" column="16" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
+      <jump line="343" column="39" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
+      <jump line="292" column="38" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
+      <jump line="332" column="50" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -437,7 +440,7 @@
         <text encoding="base64">KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>209</text>
       </register>
     </registers>
     <search>
@@ -451,7 +454,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_validate*(</entry>
         <entry>_validate(</entry>
         <entry>_validate_packakges</entry>
         <entry>_validate_packages</entry>
@@ -470,12 +472,10 @@
         <entry>threads</entry>
         <entry>num_threads</entry>
         <entry>receivers</entry>
+        <entry>end_ts</entry>
         <entry>send_email_report</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/conda_platform/CONDA_PLATFORM/g</entry>
-        <entry>%s/bits/BITS</entry>
-        <entry>&quot;w</entry>
         <entry>m .-2</entry>
         <entry>we</entry>
         <entry>2</entry>
@@ -493,6 +493,9 @@
         <entry>95</entry>
         <entry>e sitecustomize.py</entry>
         <entry>w</entry>
+        <entry>163</entry>
+        <entry>194</entry>
+        <entry>209</entry>
       </history-cmd>
       <history-expr />
       <history-input />
