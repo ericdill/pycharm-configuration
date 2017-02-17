@@ -153,8 +153,11 @@
         <mark key="^" line="5" column="108" />
         <mark key="." line="5" column="110" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" timestamp="1487354211314">
-        <mark key="'" line="332" column="50" />
+      <file name="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" timestamp="1487357252261">
+        <mark key="[" line="294" column="0" />
+        <mark key="]" line="294" column="0" />
+        <mark key="^" line="393" column="0" />
+        <mark key="." line="294" column="0" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/minion-services-py/setup.template.py" timestamp="1475607375025">
         <mark key="[" line="6" column="10" />
@@ -298,10 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="483" column="19" filename="$USER_HOME$/dev/python/airflow/airflow/www/views.py" />
-      <jump line="503" column="19" filename="$USER_HOME$/dev/python/airflow/airflow/www/views.py" />
-      <jump line="558" column="19" filename="$USER_HOME$/dev/python/airflow/airflow/www/views.py" />
-      <jump line="578" column="14" filename="$USER_HOME$/dev/python/airflow/airflow/www/views.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/maxpoint/mp-utils/mp_utils/api/geo_maps.py" />
       <jump line="263" column="78" filename="$USER_HOME$/dev/maxpoint/mp-utils/mp_utils/api/geo_maps.py" />
       <jump line="279" column="64" filename="$USER_HOME$/dev/maxpoint/mp-utils/mp_utils/api/geo_maps.py" />
@@ -398,64 +397,66 @@
       <jump line="343" column="39" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="292" column="38" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="332" column="50" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
+      <jump line="287" column="56" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
+      <jump line="402" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
+      <jump line="374" column="16" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
+      <jump line="389" column="28" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG5vdGVib29rcnVubmVyCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiB0aHJlYWRzID4gMToKICAgICAgICAgICAgc2VsZi5qb2JfcmVwb3J0ID0gX3J1bl9jb25jdXJyZW50KHNlbGYub3V0cHV0X2Rpciwgc2VsZi5zeW1saW5rX2RpciwgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnByZXByb2Nlc3NvcnMpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>resources</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHI=</text>
       </register>
       <register name="/" type="4">
-        <text>send_email_report</text>
+        <text>self\.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0YXNrX2lkPSIlc18lc18lc19mZXRjaCIgJSAoaG9zdGluZ19zaXRlLCBvcmcsIHJlcG8pLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG5vdGVib29rcnVubmVyCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiB0aHJlYWRzID4gMToKICAgICAgICAgICAgc2VsZi5qb2JfcmVwb3J0ID0gX3J1bl9jb25jdXJyZW50KHNlbGYub3V0cHV0X2Rpciwgc2VsZi5zeW1saW5rX2RpciwgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnByZXByb2Nlc3NvcnMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIFNldCB1cCBub3RlYm9vayBzb3VyY2UgYW5kIGRlc3RpbmF0aW9uCiAgICAgICAgZGVmYXVsdHMgPSB7J291dHB1dF9kaXInOiBvdXRwdXRfZGlyLAogICAgICAgICAgICAgICAgICAgICdzeW1saW5rX2Rpcic6IHN5bWxpbmtfZGlyLAogICAgICAgICAgICAgICAgICAgICdwcmVwcm9jZXNzb3JzJzogcHJlcHJvY2Vzc29ycywKICAgICAgICAgICAgICAgICAgICAnZXhlY19wcmVwcm9jZXNzb3InOiBleGVjX3ByZXByb2Nlc3Nvcn0KCiAgICAgICAgcnVucyA9IFtkaWN0KG5vdGVib29rX2ZpbGVuYW1lPW5iLCAqKmRlZmF1bHRzKQogICAgICAgICAgICAgICAgZm9yIG5iIGluIG5vdGVib29rX2ZpbGVuYW1lc10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXh0dXJlKHNjb3BlPSJtb2R1bGUiKQpkZWYgbm90ZWJvb2tzKHJlc291cmNlcyk6CiAgICByZXR1cm4gW29zLnBhdGguam9pbihyZXNvdXJjZXMsIGQpIGZvciBkIGluIG9zLmxpc3RkaXIocmVzb3VyY2VzKV0KCg==</text>
+        <text encoding="base64">ICAgICAgICBqb2JfcmVwb3J0ID0ge30K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIGNvbmN1cnJlbnQuZnV0dXJlcy5Qcm9jZXNzUG9vbEV4ZWN1dG9yKG1heF93b3JrZXJzPXRocmVhZHMpIGFzIGV4ZWN1dG9yOgogICAgICAgICAgICAjIFNldCB1cCBub3RlYm9vayBzb3VyY2UgYW5kIGRlc3RpbmF0aW9uCiAgICAgICAgICAgIGRlZmF1bHRzID0geydvdXRwdXRfZGlyJzogc2VsZi5vdXRwdXRfZGlyLAogICAgICAgICAgICAgICAgICAgICAgICAnc3ltbGlua19kaXInOiBzZWxmLnN5bWxpbmtfZGlyLAogICAgICAgICAgICAgICAgICAgICAgICAncHJlcHJvY2Vzc29ycyc6IHNlbGYucHJlcHJvY2Vzc29ycywKICAgICAgICAgICAgICAgICAgICAgICAgJ2V4ZWNfcHJlcHJvY2Vzc29yJzogc2VsZi5leGVjX3ByZXByb2Nlc3Nvcn0KCiAgICAgICAgICAgIHJ1bnMgPSBbZGljdChub3RlYm9va19maWxlbmFtZT1uYiwgKipkZWZhdWx0cykKICAgICAgICAgICAgICAgICAgICBmb3IgbmIgaW4gc2VsZi5ub3RlYm9va19maWxlbmFtZXNdCiAgICAgICAgICAgICMgTm90ZSB0aGF0IHdlIGFyZSBub3Qgc2V0dGluZyBhIHRpbWVvdXQgb24gdGhlIGV4ZWN1dG9yLiBXZSBhcmUgcmVseWluZyBvbiBuYmNvbnZlcnQKICAgICAgICAgICAgIyB0byBkZWFsIHdpdGggdGltZW91dHMsIGJ1dCB0aGF0IGlzIG9uIGEgcGVyLWNlbGwgYmFzaXMuICBJZiB3ZSAqZG8qIGhpdCB0aGUgZWRnZSBjYXNlCiAgICAgICAgICAgICMgd2hlcmUgbmJjb252ZXJ0IGlzIG5vdCBoYW5kbGluZyB0aGlzIHByb3Blcmx5IHRoZW4gd2UgY2FuIGFkZHJlc3MgdGhlIHRpbWVvdXQgZHVyYXRpb24KICAgICAgICAgICAgIyBmb3IgdGhlIHJ1bm5pbmcgb2YgdGhlIG5vdGVib29rIGF0IHRoYXQgcG9pbnQuCiAgICAgICAgICAgICMgTk9URTI6IFRoaXMgaXMgYmFzaWNhbGx5IGNvcHkvcGFzdGUgZnJvbSB0aGUgVGhyZWFkUG9vbEV4ZWN1dG9yIGV4YW1wbGUKICAgICAgICAgICAgZnV0dXJlX3RvX25ibmFtZSA9IHtleGVjdXRvci5zdWJtaXQocnVuX25iLCAqKnIpOiBuYiBmb3IgKHIsIG5iKSBpbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHppcChydW5zLCBzZWxmLm5vdGVib29rX2ZpbGVuYW1lcyl9CiAgICAgICAgICAgIGZvciBmdXR1cmUgaW4gY29uY3VycmVudC5mdXR1cmVzLmFzX2NvbXBsZXRlZChmdXR1cmVfdG9fbmJuYW1lKToKICAgICAgICAgICAgICAgIG5vdGVib29rX2ZpbGVuYW1lID0gZnV0dXJlX3RvX25ibmFtZVtmdXR1cmVdCiAgICAgICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAgICAgcmVzdWx0ID0gZnV0dXJlLnJlc3VsdCgpCiAgICAgICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGV4OgogICAgICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmVycm9yKAogICAgICAgICAgICAgICAgICAgICAgICAiRXhjZXB0aW9uIHdoZW4gcHJvY2Vzc2luZyBub3RlYm9vaywgJXMiLCBub3RlYm9va19maWxlbmFtZSkKICAgICAgICAgICAgICAgICAgICByZXN1bHQgPSBSdW5SZXN1bHQoTm9uZSwgMCwgZXgpCiAgICAgICAgICAgICAgICBmaW5hbGx5OgogICAgICAgICAgICAgICAgICAgIHNlbGYuam9iX3JlcG9ydFtub3RlYm9va19maWxlbmFtZV0gPSByZXN1bHQKICAgICAgICAgICAgICAgICAgICBzZWxmLmxvZ2dlci5pbmZvKCJSdW50aW1lIGZvciAlczogJXMiLCBub3RlYm9va19maWxlbmFtZSwgcmVzdWx0LmR1cmF0aW9uKQogICAgICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLndhcm4oIkNlbGwgZXJyb3JzIGluICVzOiAlcyIsIG5vdGVib29rX2ZpbGVuYW1lLCByZXN1bHQuZXJyb3JzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfcnVuX3NpbmdsZV9wcm9jZXNzKHN0cmVhbXNfYXJndiwgbm90ZWJvb2tzLCBzdHJlYW1zX2RpcnMpOgogICAgZXhwb3J0ZXIgPSBub3RlYm9va3J1bm5lci5Ob3RlYm9va0V4cG9ydGVyKHN0cmVhbXNfYXJndikKICAgIGRlZmF1bHRzID0geydvdXRwdXRfZGlyJzogZXhwb3J0ZXIub3V0cHV0X2RpciwKICAgICAgICAgICAgICAgICdzeW1saW5rX2Rpcic6IGV4cG9ydGVyLnN5bWxpbmtfZGlyLAogICAgICAgICAgICAgICAgJ3ByZXByb2Nlc3NvcnMnOiBleHBvcnRlci5wcmVwcm9jZXNzb3JzLAogICAgICAgICAgICAgICAgJ2V4ZWNfcHJlcHJvY2Vzc29yJzogZXhwb3J0ZXIuZXhlY19wcmVwcm9jZXNzb3J9CiAgICBleHBvcnRlci5ub3RlYm9va19maWxlbmFtZXMgPSBub3RlYm9va3MKICAgIHJ1bnMgPSBbZGljdChub3RlYm9va19maWxlbmFtZT1uYiwgKipkZWZhdWx0cykKICAgICAgICAgICAgZm9yIG5iIGluIGV4cG9ydGVyLm5vdGVib29rX2ZpbGVuYW1lc10KICAgIHJlc3VsdCA9IHt9CiAgICBmb3IgbmIgaW4gZXhwb3J0ZXIubm90ZWJvb2tfZmlsZW5hbWVzOgogICAgICAgIHRyeToKICAgICAgICAgICAgcmVzdWx0W25iXSA9IG5vdGVib29rcnVubmVyLnJ1bl9uYihub3RlYm9va19maWxlbmFtZT1uYiwgKipkZWZhdWx0cykKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGV4OgogICAgICAgICAgICByZXN1bHRbbmJdID0gbm90ZWJvb2tydW5uZXIuUnVuUmVzdWx0KE5vbmUsIDAsIGV4KQoKICAgIGFzc2VydCBsZW4ocmVzdWx0KSA9PSAzCg==</text>
+        <text encoding="base64">aW1wb3J0IG5vdGVib29rcnVubmVyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlcyA9IG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3Jlc291cmNlcycpCg==</text>
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlKHNjb3BlPSJtb2R1bGUiKQpkZWYgbm90ZWJvb2tzKHJlc291cmNlcyk6CiAgICByZXR1cm4gW29zLnBhdGguam9pbihyZXNvdXJjZXMsIGQpIGZvciBkIGluIG9zLmxpc3RkaXIocmVzb3VyY2VzKV0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>209</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>send_email_report</last-search>
+      <last-search>self\.</last-search>
       <last-offset />
-      <last-pattern>send_email_report</last-pattern>
-      <last-replace>BITS</last-replace>
-      <last-substitute>bits</last-substitute>
+      <last-pattern>self\.</last-pattern>
+      <last-replace />
+      <last-substitute>self\.</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>_validate(</entry>
-        <entry>_validate_packakges</entry>
         <entry>_validate_packages</entry>
         <entry>validate_local_channel</entry>
         <entry>count_cell_errosr</entry>
@@ -474,28 +475,30 @@
         <entry>receivers</entry>
         <entry>end_ts</entry>
         <entry>send_email_report</entry>
+        <entry>:s</entry>
+        <entry>self\.</entry>
       </history-search>
       <history-cmd>
-        <entry>m .-2</entry>
-        <entry>we</entry>
-        <entry>2</entry>
         <entry>w'</entry>
         <entry>w':w</entry>
         <entry>m .+1</entry>
         <entry>Lw</entry>
         <entry>wq</entry>
         <entry>/get_intellitag_region(</entry>
-        <entry>ws</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>qa</entry>
         <entry>q</entry>
         <entry>445</entry>
         <entry>95</entry>
         <entry>e sitecustomize.py</entry>
-        <entry>w</entry>
         <entry>163</entry>
         <entry>194</entry>
         <entry>209</entry>
+        <entry encoding="base64">JzwsJz4lcy9zZWxmXC4vL2c=</entry>
+        <entry>s/self\.//g</entry>
+        <entry encoding="base64">JzwsJz5zL3NlbGZcLi8vZw==</entry>
+        <entry>ws</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
