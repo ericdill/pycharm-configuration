@@ -143,12 +143,12 @@
         <mark key="^" line="5" column="108" />
         <mark key="." line="5" column="110" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" timestamp="1487369730024">
+      <file name="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" timestamp="1487369933981">
         <mark key="'" line="92" column="31" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
-        <mark key="^" line="70" column="49" />
+        <mark key="[" line="251" column="25" />
+        <mark key="]" line="251" column="29" />
+        <mark key="." line="251" column="29" />
+        <mark key="^" line="251" column="29" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/minion-services-py/setup.template.py" timestamp="1475607375025">
         <mark key="[" line="6" column="10" />
@@ -384,11 +384,11 @@
       <jump line="92" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBSZXZpc2l0IHRoaXMgc2luY2Ugd2UgYXJlIG9uIHB5MzUgbm93Cg==</text>
+      <register name="&quot;" type="4">
+        <text>bool(self.stream_args.get(&quot;allow-errors&quot;, True)))</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>bool(self.stream_args.get(&quot;allow-errors&quot;, True)))</text>
       </register>
       <register name="/" type="4">
         <text>kw</text>
