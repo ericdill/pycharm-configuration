@@ -81,11 +81,12 @@
         <mark key="^" line="5" column="108" />
         <mark key="." line="5" column="110" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" timestamp="1487603155711">
-        <mark key="'" line="131" column="4" />
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
+      <file name="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" timestamp="1487606325585">
+        <mark key="'" line="68" column="0" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+        <mark key="^" line="104" column="15" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/minion-services-py/setup.template.py" timestamp="1475607375025">
         <mark key="[" line="6" column="10" />
@@ -281,10 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="419" column="28" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="209" column="23" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="18" column="31" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="228" column="4" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="250" column="59" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="268" column="13" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
@@ -338,7 +335,6 @@
       <jump line="113" column="28" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="117" column="24" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="144" column="36" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="273" column="8" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="295" column="13" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="354" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="302" column="70" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
@@ -379,57 +375,62 @@
       <jump line="43" column="44" filename="$USER_HOME$/miniconda/envs/system-overview/lib/python3.5/site-packages/nbconvert/writers/files.py" />
       <jump line="52" column="61" filename="$USER_HOME$/miniconda/envs/system-overview/lib/python3.5/site-packages/nbconvert/writers/files.py" />
       <jump line="92" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="125" column="8" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="131" column="4" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
+      <jump line="125" column="31" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
+      <jump line="284" column="14" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
+      <jump line="123" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
+      <jump line="248" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
+      <jump line="273" column="28" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>bool(self.stream_args.get(&quot;allow-errors&quot;, True)))</text>
+        <text>copy</text>
       </register>
       <register name="/" type="4">
-        <text>update_symlinks</text>
+        <text>roll</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICAjIEludGVudGlvbmFsbHkgYnJvYWQgZXhjZXB0aW9uIGFnYWluLiBXZSB3YW50IHRvIHNlZSB3aGF0IGhhcHBlbmVkLCBidXQgd2UgZG9uJ3Qgd2FudAogICAgICAgICAgICAjIHRvIGtpbGwgZXhlY3V0aW9uCiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJGaWxlICVzIGNhbm5vdCBiZSB3cml0dGVuIiwgZmlsZW5hbWUsIGV4Y19pbmZvPVRydWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBSZXZpc2l0IHRoaXMgc2luY2Ugd2UgYXJlIG9uIHB5MzUgbm93Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcy5tYWtlZGlycyhjdXJyZW50X2RpciwgZXhpc3Rfb2s9VHJ1ZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgICMgSW50ZW50aW9uYWxseSBicm9hZCBleGNlcHRpb24gYWdhaW4uIFdlIHdhbnQgdG8gc2VlIHdoYXQgaGFwcGVuZWQsIGJ1dCB3ZSBkb24ndCB3YW50CiAgICAgICAgICAgICMgdG8ga2lsbCBleGVjdXRpb24KICAgICAgICAgICAgbG9nZ2VyLmluZm8oIkZpbGUgJXMgY2Fubm90IGJlIHdyaXR0ZW4iLCBmaWxlbmFtZSwgZXhjX2luZm89VHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJvbGxpbmdfb3V0cHV0X2RpciA9IHJvbGxpbmdfb3V0cHV0X2Rpcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgIHJvbGxpbmdfb3V0cHV0X2RpciA6IHN0cgogICAgICAgIERpcmVjdG9yeSB0byBzeW1saW5rIGZpbGVzIGZyb20gb3V0cHV0X2Rpcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgICMgSW50ZW50aW9uYWxseSBicm9hZCBleGNlcHRpb24gYWdhaW4uIFdlIHdhbnQgdG8gc2VlIHdoYXQgaGFwcGVuZWQsIGJ1dCB3ZSBkb24ndCB3YW50CiAgICAgICAgICAgICMgdG8ga2lsbCBleGVjdXRpb24KICAgICAgICAgICAgbG9nZ2VyLmluZm8oIkZpbGUgJXMgY2Fubm90IGJlIHdyaXR0ZW4iLCBmaWxlbmFtZSwgZXhjX2luZm89VHJ1ZSkKCg==</text>
+        <text encoding="base64">ICAgIHJvbGxpbmdfb3V0cHV0X2Rpcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICByb2xsaW5nX291dHB1dF9kaXIgPSBqb2luKHNlbGYuYmFzZV9vdXRwdXRfZGlyZWN0b3J5LCAnY3VycmVudCcpCiAgICAgICAgaWYgb3MucGF0aC5leGlzdHMocm9sbGluZ19vdXRwdXRfZGlyKToKICAgICAgICAgICAgc2VsZi5sb2dnZXIuaW5mbygiUmVtb3ZpbmcgZXhpc3RpbmcgZGlyZWN0b3J5IikKICAgICAgICAgICAgc2h1dGlsLnJtdHJlZShyb2xsaW5nX291dHB1dF9kaXIpCiAgICAgICAgb3MubWFrZWRpcnMocm9sbGluZ19vdXRwdXRfZGlyLCBleGlzdF9vaz1UcnVlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3JvbGxpbmdfb3V0cHV0X2Rpcic6IHJvbGxpbmdfb3V0cHV0X2RpciwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIE1ha2Ugc3VyZSBuZXcgZmlsZXMgYXJlIHJlZ2lzdGVyZWQgaW4gdGhlICJjdXJyZW50IiBkaXJlY3RvcnkgdGhhdCBpcyBqdXN0IGEgcm9sbGluZwogICAgICAgICMgdXBkYXRlZCBkaXJlY3Rvcnkgb2YgdGhlIG1vc3QgcmVjZW50bHkgcnVuIHN0cmVhbXMgam9iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaHV0aWwuY29weShqb2luKHNlbGYub3V0cHV0X2Rpciwgc2VsZi5ub3RlYm9va19maWxlbmFtZSwgIi4qIiksIHNlbGYucm9sbGluZ19vdXRwdXRfZGlyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>update_symlinks</last-search>
+      <last-search>roll</last-search>
       <last-offset />
-      <last-pattern>update_symlinks</last-pattern>
+      <last-pattern>roll</last-pattern>
       <last-replace>splitext</last-replace>
       <last-substitute>os\.path\.splitext</last-substitute>
       <last-dir>1</last-dir>
@@ -437,9 +438,6 @@
     </search>
     <history>
       <history-search>
-        <entry>self.symlinkdir</entry>
-        <entry>self.symlink_dir</entry>
-        <entry>self.symlink</entry>
         <entry>self.output_dir</entry>
         <entry>self.ensure_output</entry>
         <entry>ensure_output</entry>
@@ -453,14 +451,15 @@
         <entry>os.path</entry>
         <entry>os\.path\.splitext</entry>
         <entry>output_dir</entry>
-        <entry>NotebookRun</entry>
         <entry>return</entry>
         <entry>kw</entry>
         <entry>update_symlinks</entry>
+        <entry>NotebookRun</entry>
+        <entry>symlink</entry>
+        <entry>rolling</entry>
+        <entry>roll</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
-        <entry>445</entry>
         <entry>95</entry>
         <entry>e sitecustomize.py</entry>
         <entry>163</entry>
@@ -478,6 +477,8 @@
         <entry>%s/os\.path\.splitext/splitext/g</entry>
         <entry>58</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>q</entry>
+        <entry>sh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
