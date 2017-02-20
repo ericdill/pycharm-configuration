@@ -81,12 +81,12 @@
         <mark key="^" line="5" column="108" />
         <mark key="." line="5" column="110" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" timestamp="1487607163991">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="93" column="12" />
-        <mark key="]" line="93" column="13" />
-        <mark key="." line="93" column="13" />
-        <mark key="^" line="93" column="13" />
+      <file name="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" timestamp="1487608089377">
+        <mark key="'" line="13" column="15" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+        <mark key="^" line="105" column="85" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/minion-services-py/setup.template.py" timestamp="1475607375025">
         <mark key="[" line="6" column="10" />
@@ -282,7 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="228" column="4" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="250" column="59" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="268" column="13" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="290" column="20" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
@@ -320,7 +319,6 @@
       <jump line="162" column="20" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="163" column="38" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="251" column="29" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="108" column="12" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="109" column="28" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="205" column="16" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="112" column="40" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
@@ -382,13 +380,15 @@
       <jump line="248" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="273" column="28" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="68" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
+      <jump line="108" column="35" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
+      <jump line="13" column="15" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAnb3V0cHV0cyc6IFtdLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>copy</text>
+        <text>fmt</text>
       </register>
       <register name="/" type="4">
         <text>roll</text>
@@ -397,31 +397,31 @@
         <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICAjIEludGVudGlvbmFsbHkgYnJvYWQgZXhjZXB0aW9uIGFnYWluLiBXZSB3YW50IHRvIHNlZSB3aGF0IGhhcHBlbmVkLCBidXQgd2UgZG9uJ3Qgd2FudAogICAgICAgICAgICAjIHRvIGtpbGwgZXhlY3V0aW9uCiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJGaWxlICVzIGNhbm5vdCBiZSB3cml0dGVuIiwgZmlsZW5hbWUsIGV4Y19pbmZvPVRydWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAnb3V0cHV0cyc6IFtdLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5tYWtlZGlycyhjdXJyZW50X2RpciwgZXhpc3Rfb2s9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAnZXhlY3V0aW9uX2NvdW50JzogMCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJvbGxpbmdfb3V0cHV0X2RpciA9IHJvbGxpbmdfb3V0cHV0X2Rpcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBpbnNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJvbGxpbmdfb3V0cHV0X2RpciA6IHN0cgogICAgICAgIERpcmVjdG9yeSB0byBzeW1saW5rIGZpbGVzIGZyb20gb3V0cHV0X2Rpcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJvbGxpbmdfb3V0cHV0X2Rpcgo=</text>
+        <text encoding="base64">ICAgICAgICBvcy5tYWtlZGlycyhjdXJyZW50X2RpciwgZXhpc3Rfb2s9VHJ1ZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByb2xsaW5nX291dHB1dF9kaXIgPSBqb2luKHNlbGYuYmFzZV9vdXRwdXRfZGlyZWN0b3J5LCAnY3VycmVudCcpCiAgICAgICAgaWYgb3MucGF0aC5leGlzdHMocm9sbGluZ19vdXRwdXRfZGlyKToKICAgICAgICAgICAgc2VsZi5sb2dnZXIuaW5mbygiUmVtb3ZpbmcgZXhpc3RpbmcgZGlyZWN0b3J5IikKICAgICAgICAgICAgc2h1dGlsLnJtdHJlZShyb2xsaW5nX291dHB1dF9kaXIpCiAgICAgICAgb3MubWFrZWRpcnMocm9sbGluZ19vdXRwdXRfZGlyLCBleGlzdF9vaz1UcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJvbGxpbmdfb3V0cHV0X2RpciA9IHJvbGxpbmdfb3V0cHV0X2Rpcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3JvbGxpbmdfb3V0cHV0X2Rpcic6IHJvbGxpbmdfb3V0cHV0X2RpciwK</text>
+        <text encoding="base64">ICAgIHJvbGxpbmdfb3V0cHV0X2RpciA6IHN0cgogICAgICAgIERpcmVjdG9yeSB0byBzeW1saW5rIGZpbGVzIGZyb20gb3V0cHV0X2Rpcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIE1ha2Ugc3VyZSBuZXcgZmlsZXMgYXJlIHJlZ2lzdGVyZWQgaW4gdGhlICJjdXJyZW50IiBkaXJlY3RvcnkgdGhhdCBpcyBqdXN0IGEgcm9sbGluZwogICAgICAgICMgdXBkYXRlZCBkaXJlY3Rvcnkgb2YgdGhlIG1vc3QgcmVjZW50bHkgcnVuIHN0cmVhbXMgam9iCg==</text>
+        <text encoding="base64">ICAgIHJvbGxpbmdfb3V0cHV0X2Rpcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzaHV0aWwuY29weShqb2luKHNlbGYub3V0cHV0X2Rpciwgc2VsZi5ub3RlYm9va19maWxlbmFtZSwgIi4qIiksIHNlbGYucm9sbGluZ19vdXRwdXRfZGlyKQo=</text>
+        <text encoding="base64">ICAgICAgICByb2xsaW5nX291dHB1dF9kaXIgPSBqb2luKHNlbGYuYmFzZV9vdXRwdXRfZGlyZWN0b3J5LCAnY3VycmVudCcpCiAgICAgICAgaWYgb3MucGF0aC5leGlzdHMocm9sbGluZ19vdXRwdXRfZGlyKToKICAgICAgICAgICAgc2VsZi5sb2dnZXIuaW5mbygiUmVtb3ZpbmcgZXhpc3RpbmcgZGlyZWN0b3J5IikKICAgICAgICAgICAgc2h1dGlsLnJtdHJlZShyb2xsaW5nX291dHB1dF9kaXIpCiAgICAgICAgb3MubWFrZWRpcnMocm9sbGluZ19vdXRwdXRfZGlyLCBleGlzdF9vaz1UcnVlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
