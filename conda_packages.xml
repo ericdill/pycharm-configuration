@@ -629,7 +629,7 @@
         <entry key="fmipp" value="1.2" />
         <entry key="folium" value="0.2.1" />
         <entry key="fontconfig" value="2.12.1" />
-        <entry key="foot-traffic-insights" value="1.1.6dev5" />
+        <entry key="foot-traffic-insights" value="1.1.6dev7" />
         <entry key="forestci" value="0.1" />
         <entry key="fortran-magic" value="0.7" />
         <entry key="fplll" value="5.0.3" />
@@ -1065,6 +1065,7 @@
         <entry key="minion-services-adverify" value="0.2.3" />
         <entry key="minion-services-alert" value="0.1.28" />
         <entry key="minion-services-audience" value="1.1.1" />
+        <entry key="minion-services-broker" value="0.4.0" />
         <entry key="minion-services-catalyst" value="0.2_SNAPSHOT" />
         <entry key="minion-services-config" value="1.9.11" />
         <entry key="minion-services-data" value="0.2.15" />
@@ -8119,6 +8120,8 @@
               <option value="1.1.6dev2" />
               <option value="1.1.6dev3" />
               <option value="1.1.6dev5" />
+              <option value="1.1.6dev6" />
+              <option value="1.1.6dev7" />
             </list>
           </value>
         </entry>
@@ -11955,6 +11958,13 @@
             <list>
               <option value="1.1SNAPSHOT" />
               <option value="1.1.1" />
+            </list>
+          </value>
+        </entry>
+        <entry key="minion-services-broker">
+          <value>
+            <list>
+              <option value="0.4.0" />
             </list>
           </value>
         </entry>
@@ -21993,6 +22003,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1487339860222" />
+    <option name="LAST_TIME_CHECKED" value="1487602961250" />
   </component>
 </application>
