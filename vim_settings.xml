@@ -96,7 +96,6 @@
         <mark key="." line="49" column="5" />
         <mark key="^" line="49" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/system-overview/README.md" timestamp="1487619923674" />
       <file name="$USER_HOME$/miniconda/envs/system-overview/lib/python3.5/site-packages/mp_utils/scheduler/skeleton.py" timestamp="1487361169785">
         <mark key="[" line="40" column="51" />
         <mark key="]" line="40" column="2" />
@@ -144,8 +143,8 @@
         <mark key="^" line="5" column="108" />
         <mark key="." line="5" column="110" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" timestamp="1487608089377">
-        <mark key="'" line="13" column="15" />
+      <file name="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" timestamp="1487689224667">
+        <mark key="'" line="349" column="0" />
         <mark key="[" line="105" column="0" />
         <mark key="]" line="105" column="0" />
         <mark key="." line="105" column="0" />
@@ -163,12 +162,11 @@
         <mark key="." line="4" column="46" />
         <mark key="^" line="4" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" timestamp="1487623038156">
-        <mark key="'" line="142" column="10" />
-        <mark key="[" line="143" column="29" />
-        <mark key="]" line="143" column="26" />
-        <mark key="." line="143" column="26" />
-        <mark key="^" line="143" column="26" />
+      <file name="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" timestamp="1487624644309">
+        <mark key="'" line="193" column="3" />
+        <mark key="[" line="219" column="0" />
+        <mark key="]" line="219" column="0" />
+        <mark key="." line="219" column="0" />
       </file>
       <file name="$USER_HOME$/miniconda/lib/python3.6/site-packages/delegator.py" timestamp="1487622634494">
         <mark key="'" line="45" column="43" />
@@ -288,32 +286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="343" column="39" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="292" column="38" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="332" column="50" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="287" column="56" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="402" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="374" column="16" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="389" column="28" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="310" column="47" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="303" column="35" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="361" column="21" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="364" column="22" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="392" column="23" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="83" column="19" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="84" column="27" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="146" column="38" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="151" column="23" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="162" column="20" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="163" column="38" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="251" column="29" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="109" column="28" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="205" column="16" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="112" column="40" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="353" column="10" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="356" column="8" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="150" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="360" column="8" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="73" column="8" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="274" column="8" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="359" column="24" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
@@ -388,55 +360,81 @@
       <jump line="171" column="4" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
       <jump line="11" column="7" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
       <jump line="142" column="10" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
+      <jump line="147" column="6" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
+      <jump line="21" column="54" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
+      <jump line="148" column="30" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
+      <jump line="289" column="4" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
+      <jump line="275" column="8" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
+      <jump line="150" column="4" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
+      <jump line="149" column="44" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
+      <jump line="151" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
+      <jump line="199" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
+      <jump line="290" column="4" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
+      <jump line="287" column="14" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
+      <jump line="286" column="9" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
+      <jump line="279" column="9" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
+      <jump line="249" column="7" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
+      <jump line="276" column="56" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
+      <jump line="229" column="4" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
+      <jump line="239" column="9" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
+      <jump line="240" column="28" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
+      <jump line="243" column="24" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
+      <jump line="193" column="3" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
+      <jump line="105" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
+      <jump line="349" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgICAgIGJ1dHRvbl9zdHlsZT0nJyAjICdzdWNjZXNzJywgJ2luZm8nLCAnd2FybmluZycsICdkYW5nZXInIG9yICcnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>constructor</text>
       </register>
       <register name="/" type="4">
-        <text>delegator</text>
+        <text>kernel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGh0bWwgPSBmbm1hdGNoLmZpbHRlcihwYXRoLmxpc3RkaXIsICIqLmh0bWwiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICkgKyAiICIuam9pbihhcmdzKQogICAgc2hfY29tbWFuZCA9IFsKICAgICAgICAnJXMvYmluL2NvbmRhJyAlIGNvbmRhX2VudiwKICAgICAgICBjb25kYV9jb21tYW5kLAogICAgICAgICctcCcsCiAgICAgICAgY29uZGFfZW52LAogICAgICAgICctLWpzb24nLAogICAgXSArIGFyZ3MK</text>
+        <text encoding="base64">ICAgICMgICAgIGJ1dHRvbl9zdHlsZT0nJyAjICdzdWNjZXNzJywgJ2luZm8nLCAnd2FybmluZycsICdkYW5nZXInIG9yICcnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGRkCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">O3dpZGdldHNrCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CgoK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRpc3BsYXlfbmFtZSA9IHdpZGdldHMuVGV4dCgpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICMgICAgIGljb249J2NoZWNrJwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAga2VybmVsLCAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">c3BlYyA9IG5hbWVkdHVwbGUoJ3NwZWMnLCBbJ3VybCcsICdwYWNrYWdlJywgJ3ZlcnNpb24nLCAnYnVpbGQnXSkK</text>
+        <text encoding="base64">ICAgIGtlcm5lbCA9IHdpZGdldHMuQ2hlY2tib3goCiAgICAgICAgdmFsdWU9VHJ1ZSwKICAgICAgICBkZXNjcmlwdGlvbj0ibWFrZSBrZXJuZWwiLAogICAgICAgIGRpc2FibGVkPUZhbHNlKQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbXBmaWxlCg==</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGZubWF0Y2gK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>delegator</last-search>
+      <last-search>kernel</last-search>
       <last-offset />
-      <last-pattern>delegator</last-pattern>
+      <last-pattern>kernel</last-pattern>
       <last-replace>splitext</last-replace>
       <last-substitute>os\.path\.splitext</last-substitute>
       <last-dir>1</last-dir>
@@ -444,9 +442,6 @@
     </search>
     <history>
       <history-search>
-        <entry>json</entry>
-        <entry>temporary</entry>
-        <entry>os\.path\.join</entry>
         <entry>os\.path\.basename</entry>
         <entry>os\.path\.dirname</entry>
         <entry>os\.path\.abspath</entry>
@@ -464,6 +459,9 @@
         <entry>subprocess</entry>
         <entry>delegetor</entry>
         <entry>delegator</entry>
+        <entry>create_kernel</entry>
+        <entry>make_kernel</entry>
+        <entry>kernel</entry>
       </history-search>
       <history-cmd>
         <entry>95</entry>
