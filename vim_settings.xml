@@ -73,6 +73,9 @@
         <mark key="." line="22" column="51" />
         <mark key="^" line="22" column="51" />
       </file>
+      <file name="$USER_HOME$/miniconda/envs/system-overview/lib/python3.5/site-packages/nbconvert/exporters/exporter.py" timestamp="1487697538761">
+        <mark key="'" line="254" column="28" />
+      </file>
       <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/env/meta.yaml" timestamp="1477422220423">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="28" column="68" />
@@ -84,6 +87,11 @@
         <mark key="]" line="6" column="23" />
         <mark key="." line="6" column="23" />
         <mark key="^" line="6" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/maxpoint/system-overview/tests/conftest.py" timestamp="1487698730002">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/github/conda-mirror/README.md" timestamp="1486489400139">
         <mark key="[" line="172" column="0" />
@@ -109,6 +117,12 @@
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/maxpoint/system-overview/tests/test_notebookrunner.py" timestamp="1487698741618">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/miniconda/envs/system-overview/lib/python3.5/site-packages/nbconvert/writers/files.py" timestamp="1487362016621">
         <mark key="'" line="52" column="61" />
       </file>
@@ -125,6 +139,9 @@
         <mark key="[" line="12" column="30" />
         <mark key="]" line="12" column="31" />
         <mark key="." line="12" column="31" />
+      </file>
+      <file name="$USER_HOME$/miniconda/envs/system-overview/lib/python3.5/site-packages/nbconvert/exporters/templateexporter.py" timestamp="1487697461723">
+        <mark key="'" line="233" column="10" />
       </file>
       <file name="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/depends-on-compiles-against-numpy/meta.yaml" timestamp="1475263139993">
         <mark key="[" line="2" column="10" />
@@ -144,12 +161,12 @@
         <mark key="^" line="5" column="108" />
         <mark key="." line="5" column="110" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" timestamp="1487696146473">
-        <mark key="'" line="192" column="0" />
-        <mark key="[" line="165" column="74" />
-        <mark key="]" line="165" column="77" />
-        <mark key="^" line="165" column="77" />
-        <mark key="." line="165" column="77" />
+      <file name="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" timestamp="1487698459623">
+        <mark key="'" line="194" column="0" />
+        <mark key="[" line="116" column="37" />
+        <mark key="]" line="116" column="36" />
+        <mark key="^" line="116" column="36" />
+        <mark key="." line="116" column="36" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/minion-services-py/setup.template.py" timestamp="1475607375025">
         <mark key="[" line="6" column="10" />
@@ -248,12 +265,12 @@
         <mark key="^" line="7" column="50" />
         <mark key="." line="7" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/system-overview/tests/test_job.py" timestamp="1487696390006">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="31" column="33" />
-        <mark key="]" line="31" column="32" />
-        <mark key="^" line="31" column="32" />
-        <mark key="." line="31" column="32" />
+      <file name="$USER_HOME$/dev/maxpoint/system-overview/tests/test_job.py" timestamp="1487698694081">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="15" column="39" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/docs/authors.rst" timestamp="1477421673455">
         <mark key="[" line="0" column="20" />
@@ -294,21 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="217" column="23" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="89" column="15" filename="$USER_HOME$/miniconda/envs/system-overview/lib/python3.5/site-packages/nbconvert/preprocessors/execute.py" />
-      <jump line="205" column="33" filename="$USER_HOME$/miniconda/envs/system-overview/lib/python3.5/site-packages/nbconvert/preprocessors/execute.py" />
-      <jump line="102" column="4" filename="$USER_HOME$/miniconda/envs/system-overview/lib/python3.5/site-packages/nbconvert/preprocessors/execute.py" />
-      <jump line="193" column="56" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="209" column="27" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="300" column="65" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="285" column="59" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="269" column="21" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="199" column="13" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="164" column="4" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="312" column="4" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="319" column="28" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="162" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="221" column="22" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="262" column="16" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="170" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="195" column="11" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
@@ -394,55 +396,70 @@
       <jump line="154" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="192" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="6" column="8" filename="$USER_HOME$/dev/maxpoint/system-overview/job.py" />
+      <jump line="122" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
+      <jump line="84" column="6" filename="$USER_HOME$/miniconda/envs/system-overview/lib/python3.5/site-packages/nbconvert/exporters/templateexporter.py" />
+      <jump line="88" column="41" filename="$USER_HOME$/miniconda/envs/system-overview/lib/python3.5/site-packages/nbconvert/exporters/templateexporter.py" />
+      <jump line="89" column="4" filename="$USER_HOME$/miniconda/envs/system-overview/lib/python3.5/site-packages/nbconvert/exporters/templateexporter.py" />
+      <jump line="233" column="10" filename="$USER_HOME$/miniconda/envs/system-overview/lib/python3.5/site-packages/nbconvert/exporters/templateexporter.py" />
+      <jump line="215" column="19" filename="$USER_HOME$/miniconda/envs/system-overview/lib/python3.5/site-packages/nbconvert/exporters/exporter.py" />
+      <jump line="191" column="8" filename="$USER_HOME$/miniconda/envs/system-overview/lib/python3.5/site-packages/nbconvert/exporters/exporter.py" />
+      <jump line="255" column="17" filename="$USER_HOME$/miniconda/envs/system-overview/lib/python3.5/site-packages/nbconvert/exporters/exporter.py" />
+      <jump line="251" column="17" filename="$USER_HOME$/miniconda/envs/system-overview/lib/python3.5/site-packages/nbconvert/exporters/exporter.py" />
+      <jump line="234" column="17" filename="$USER_HOME$/miniconda/envs/system-overview/lib/python3.5/site-packages/nbconvert/exporters/exporter.py" />
+      <jump line="254" column="28" filename="$USER_HOME$/miniconda/envs/system-overview/lib/python3.5/site-packages/nbconvert/exporters/exporter.py" />
+      <jump line="117" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
+      <jump line="135" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
+      <jump line="194" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/tests/test_job.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>'resources')</text>
       </register>
       <register name="/" type="4">
-        <text>safe_replace</text>
+        <text>self.preprocessors</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBXaGVuIGEgY2VsbCB0YWtlcyB0byBsb25nIHRvIHJ1biBzZW5kIGludGVycnVwdCBleGVjdXRpb24gYW5kIGNhcnJ5IG9uLgogICAgICAgICAgICBpbnRlcnJ1cHRfb25fdGltZW91dD1ib29sKHN0cmVhbV9hcmdzLmdldCgiaW50ZXJydXB0LW9uLWNlbGwtdGltZW91dCIsIFRydWUpKSwK</text>
+        <text encoding="base64">ICAgIG91dHB1dCwgcmVzb3VyY2VzID0gbmJjb252ZXJ0LmV4cG9ydGVycy5IVE1MRXhwb3J0ZXIoCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBEZWZhdWx0cyB0byB0aGUgdmFsdWUgb2YgdGhlIG1vZHVsZS1sZXZlbCBnbG9iYWwgREVGQVVMVF9USFJFQURTCiAgICAiIiIK</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIF9zYWZlX3JlcGxhY2Uoc3JjLCBkZXN0LCBsb2dnZXIpOgo=</text>
+        <text encoding="base64">ICAgIHJlc291cmNlcyA9IG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3Jlc291cmNlcycpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgpkZWYgX3NhZmVfcmVwbGFjZShzcmMsIGRlc3QsIGxvZ2dlcik6CiAgICB0cnk6CiAgICAgICAgIyByZW1vdmUgZXZlcnl0aGluZyB0aGF0IGV4aXN0cyBpbiB0aGlzIGRpcmVjdG9yeQogICAgICAgIGlmIG9zLnBhdGguZXhpc3RzKGRlc3QpOgogICAgICAgICAgICBsb2dnZXIuZGVidWcoIlJlbW92aW5nIGRpcmVjdG9yeTogJXMiLCBkZXN0KQogICAgICAgICAgICBzaHV0aWwucm10cmVlKGRlc3QpCiAgICAgICAgbG9nZ2VyLmRlYnVnKCJDb3B5aW5nIG5ldyBmaWxlcyB0bzogJXMiLCBkZXN0KQogICAgICAgICMgQ29weSBhbGwgb3V0cHV0IHRvIGEgZm9sZGVyIGNhbGxlZCAiY3VycmVudCIKICAgICAgICBzaHV0aWwuY29weXRyZWUoc3JjLCBkZXN0KQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCJGYWlsZWQgdG8gcmVwbGFjZSBkaXJlY3RvcnkgYXQ6ICVzIiwgZGVzdCkKCgo=</text>
+        <text encoding="base64">QHB5dGVzdC5tYXJrLnBhcmFtZXRyaXplKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmRlZiBfc2FmZV9yZXBsYWNlKHNyYywgZGVzdCwgbG9nZ2VyKToKICAgIHRyeToKICAgICAgICAjIHJlbW92ZSBldmVyeXRoaW5nIHRoYXQgZXhpc3RzIGluIHRoaXMgZGlyZWN0b3J5CiAgICAgICAgaWYgb3MucGF0aC5leGlzdHMoZGVzdCk6CiAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiUmVtb3ZpbmcgZGlyZWN0b3J5OiAlcyIsIGRlc3QpCiAgICAgICAgICAgIHNodXRpbC5ybXRyZWUoZGVzdCkKICAgICAgICBsb2dnZXIuZGVidWcoIkNvcHlpbmcgbmV3IGZpbGVzIHRvOiAlcyIsIGRlc3QpCiAgICAgICAgIyBDb3B5IGFsbCBvdXRwdXQgdG8gYSBmb2xkZXIgY2FsbGVkICJjdXJyZW50IgogICAgICAgIHNodXRpbC5jb3B5dHJlZShzcmMsIGRlc3QpCiAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgIGxvZ2dlci5leGNlcHRpb24oIkZhaWxlZCB0byByZXBsYWNlIGRpcmVjdG9yeSBhdDogJXMiLCBkZXN0KQoK</text>
+        <text encoding="base64">ICAgICMgQ29udmVydAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIG91dHB1dCwgcmVzb3VyY2VzID0gZXhwb3J0ZXIuZnJvbV9ub3RlYm9va19ub2RlKG5iKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbmIgaW4gbm90ZWJvb2tfZmlsZW5hbWVzOgo=</text>
+        <text encoding="base64">ICAgIGV4cG9ydGVyLnJlZ2lzdGVyX3ByZXByb2Nlc3NvcihDb2RlSGlkaW5nUHJlcHJvY2Vzc29yLCBUcnVlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleGVjdXRvci5zdWJtaXQoZnV0dXJlX3RvX25ibmFtZSkK</text>
+        <text encoding="base64">ICAgIHdyaXRlciA9IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBQCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIFNlbmQgdGhlIGpvYiByZXBvcnQgYnkgZW1haWwK</text>
+        <text encoding="base64">ICAgICAgICBEZWZhdWx0cyB0byB0aGUgdmFsdWUgb2YgdGhlIG1vZHVsZS1sZXZlbCBnbG9iYWwgREVGQVVMVF9USFJFQURTCiAgICAiIiIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>safe_replace</last-search>
+      <last-search>self.preprocessors</last-search>
       <last-offset />
-      <last-pattern>safe_replace</last-pattern>
+      <last-pattern>self.preprocessors</last-pattern>
       <last-replace>splitext</last-replace>
       <last-substitute>os\.path\.splitext</last-substitute>
       <last-dir>1</last-dir>
@@ -450,9 +467,6 @@
     </search>
     <history>
       <history-search>
-        <entry>symlink</entry>
-        <entry>job_report</entry>
-        <entry>self.job</entry>
         <entry>&quot;&quot;&quot;</entry>
         <entry>self.logger</entry>
         <entry>self.</entry>
@@ -470,6 +484,9 @@
         <entry>stream_args</entry>
         <entry>execution</entry>
         <entry>safe_replace</entry>
+        <entry>preproc</entry>
+        <entry>register</entry>
+        <entry>self.preprocessors</entry>
       </history-search>
       <history-cmd>
         <entry>95</entry>
