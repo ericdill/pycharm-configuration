@@ -6,12 +6,12 @@
       <file name="/a.dummy" timestamp="1485464331541">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/system-overview/job.py" timestamp="1487693898833">
-        <mark key="'" line="6" column="8" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="23" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/dev/maxpoint/system-overview/job.py" timestamp="1487694767664">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="106" column="55" />
+        <mark key="]" line="106" column="55" />
+        <mark key="^" line="106" column="55" />
+        <mark key="." line="106" column="55" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/MANIFEST.in" timestamp="1477423153509">
         <mark key="[" line="11" column="44" />
@@ -144,12 +144,12 @@
         <mark key="^" line="5" column="108" />
         <mark key="." line="5" column="110" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" timestamp="1487693920020">
-        <mark key="'" line="298" column="0" />
-        <mark key="[" line="186" column="50" />
-        <mark key="]" line="187" column="7" />
-        <mark key="." line="187" column="7" />
-        <mark key="^" line="187" column="7" />
+      <file name="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" timestamp="1487694606156">
+        <mark key="'" line="9" column="20" />
+        <mark key="[" line="128" column="68" />
+        <mark key="]" line="128" column="68" />
+        <mark key="^" line="128" column="68" />
+        <mark key="." line="128" column="68" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/minion-services-py/setup.template.py" timestamp="1475607375025">
         <mark key="[" line="6" column="10" />
@@ -267,6 +267,7 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/miniconda/envs/system-overview/lib/python3.5/site-packages/nbformat/__init__.py" timestamp="1487694469004" />
       <file name="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/compiles-against-numpy/meta.yaml" timestamp="1475262954519">
         <mark key="[" line="1" column="18" />
         <mark key="]" line="1" column="18" />
@@ -293,19 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="289" column="4" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
-      <jump line="275" column="8" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
-      <jump line="150" column="4" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
-      <jump line="149" column="44" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
-      <jump line="151" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
-      <jump line="199" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
-      <jump line="290" column="4" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
-      <jump line="287" column="14" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
-      <jump line="286" column="9" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
-      <jump line="279" column="9" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
       <jump line="249" column="7" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
       <jump line="276" column="56" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
       <jump line="229" column="4" filename="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" />
@@ -337,9 +325,6 @@
       <jump line="221" column="22" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="262" column="16" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="170" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="190" column="32" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="191" column="8" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="192" column="37" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="195" column="11" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="198" column="78" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="203" column="13" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
@@ -393,16 +378,32 @@
       <jump line="230" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="299" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="18" column="8" filename="$USER_HOME$/dev/maxpoint/system-overview/job.py" />
+      <jump line="178" column="8" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
+      <jump line="337" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
+      <jump line="138" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
+      <jump line="183" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
+      <jump line="45" column="38" filename="$USER_HOME$/dev/maxpoint/system-overview/job.py" />
+      <jump line="59" column="26" filename="$USER_HOME$/dev/maxpoint/system-overview/job.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
+      <jump line="192" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
+      <jump line="99" column="18" filename="$USER_HOME$/dev/maxpoint/system-overview/job.py" />
+      <jump line="190" column="21" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
+      <jump line="191" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
+      <jump line="9" column="20" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
+      <jump line="23" column="12" filename="$USER_HOME$/dev/maxpoint/system-overview/job.py" />
+      <jump line="169" column="35" filename="$USER_HOME$/dev/maxpoint/system-overview/job.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/job.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>m.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>m.</text>
+        <text>abspath(self.stream_args.get('notebooks-dir'))</text>
       </register>
       <register name="/" type="4">
-        <text>notebook_name</text>
+        <text>join</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGh0bWwgPSBmbm1hdGNoLmZpbHRlcihwYXRoLmxpc3RkaXIsICIqLmh0bWwiKQo=</text>
@@ -411,37 +412,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm5vdGVib29rX2ZpbGVuYW1lcyA9IGdsb2IuZ2xvYihqb2luKHNlbGYubm90ZWJvb2tzX2RpciwgJyouaXB5bmInKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBsb2dnZXIuaW5mbygnTm90ZWJvb2tzIHRvIHJ1bjogJXMnLCBtLm5vdGVib29rX2ZpbGVuYW1lcykKICAgIGxvZ2dlci5pbmZvKCdPdXRwdXQgZGlyZWN0b3J5OiAlcycsIG0uYmFzZV9vdXRwdXRfZGlyZWN0b3J5KQoK</text>
+        <text encoding="base64">ICAgIGR1cmF0aW9uID0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGluaXRfbG9nZ2VyKCkK</text>
+        <text encoding="base64">ICAgIGR1cmF0aW9uID0gZGF0ZXRpbWUubm93KCkgLSBzdGFydF90aW1lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcKZnJvbSBvcy5wYXRoIGltcG9ydCBqb2luLCBhYnNwYXRoCg==</text>
+        <text encoding="base64">ICAgIHN0YXJ0X3RpbWUgPSBkYXRldGltZS5ub3coKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBub3RlYm9va3J1bm5lciAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCBzaHV0aWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIGluaXRfbG9nZ2VyKCk6CiAgICAiIiJDbGVhciBsb2dnZXIgY29uZmlnIGZyb20gZGVwZW5kZW5jaWVzIGFuZCBzZXQgdGhlIG9uZSB3ZSB3YW50LiIiIgogICAgIyBTbGljZSB0aGUgaGFuZGxlcnMgbGlzdCB0byBtYWtlIGEgY29weSBzbyB0aGF0IHdlIGNhbiBtb2RpZnkKICAgICMgdGhlIG9yaWdpbmFsIGluIHRoZSBsb29wIGJvZHkKICAgIGZvciBoYW5kbGVyIGluIGxvZ2dpbmcucm9vdC5oYW5kbGVyc1s6XToKICAgICAgICBsb2dnaW5nLnJvb3QucmVtb3ZlSGFuZGxlcihoYW5kbGVyKQoKICAgIGxvZ2dpbmcuYmFzaWNDb25maWcoZm9ybWF0PSclKGFzY3RpbWUpcyA6IFslKGxldmVsbmFtZSlzXSAlKG5hbWUpcyA6ICUobW9kdWxlKXMuJShmdW5jTmFtZSlzOiUobGluZW5vKWQgOiAlKG1lc3NhZ2UpcycsIGxldmVsPWxvZ2dpbmcuSU5GTykK</text>
+        <text encoding="base64">CmRlZiBzZW5kX2VtYWlsX3JlcG9ydChyZWNlaXZlcnMsIGVuZF90cywgc3RyZWFtX2lkLCBzdHJlYW1fbmFtZSwgam9iX3JlcG9ydCk6CiAgICAiIiJTZW5kIGFuIGVtYWlsIHJlcG9ydCBhYm91dCBub3RlYm9vayBleGVjdXRpb24gZmFpbHVyZXMgdG8gdGhlCiAgICBjb25maWd1cmVkIHJlY2lwaWVudHMuCgogICAgUGFyYW1ldGVycwogICAgLS0tLS0tLS0tLQogICAgcmVjZWl2ZXJzOiBsaXN0IG9mIHN0cgogICAgICAgIFJlY2lwaWVudCBlbWFpbCBhZGRyZXNzZXMKICAgIGVuZF90czogcGFuZGFzLlRpbWVzdGFtcAogICAgICAgIEVuZCB0aW1lIG9mIHRoZSBzdHJlYW0gd2luZG93CiAgICBzdHJlYW1faWQgOiBpbnQKICAgIHN0cmVhbV9uYW1lIDogc3RyCiAgICBqb2JfcmVwb3J0IDogZGljdAogICAgICAgIGtleWVkIG9uIGZpbGVuYW1lIHdpdGggUnVuUmVzdWx0IGFzIHRoZSB2YWx1ZQogICAgIiIiCiAgICBkdCA9IGVuZF90cy5zdHJmdGltZSgnJVktJW0tJWRUJUglTScpCiAgICBzdWJqZWN0ID0gJ1J1bnRpbWUgcmVwb3J0IGZvciB7bmFtZX0gKHtpZH0pIEAge2R0fVxuJy5mb3JtYXQoCiAgICAgICAgbmFtZT1zdHJlYW1fbmFtZSwgaWQ9c3RyZWFtX2lkLCBkdD1kdCkKICAgIG1zZyA9IHN1YmplY3QKICAgIGZvciBmaWxlbmFtZSwgcmVzdWx0IGluIGpvYl9yZXBvcnQuaXRlbXMoKToKICAgICAgICBtc2cgKz0gYmFzZW5hbWUoZmlsZW5hbWUpICsgIlxuIgogICAgICAgIGlmIHJlc3VsdC5leGNlcHRpb24gaXMgTm9uZToKICAgICAgICAgICAgIyBOb3RlYm9vayByYW4gdG8gY29tcGxldGlvbgogICAgICAgICAgICBtc2cgKz0gJ1x0RXJyb3JzOiB7fVxuJy5mb3JtYXQocmVzdWx0LmVycm9ycykKICAgICAgICAgICAgbXNnICs9ICdcdFJ1bnRpbWU6IHt9XG4nLmZvcm1hdChyZXN1bHQuZHVyYXRpb24pCiAgICAgICAgZWxzZToKICAgICAgICAgICAgIyBOb3RlYm9vayBmYWlsZWQgYmVmb3JlIGNvbXBsZXRpb24gd2l0aCBhIGZhdGFsIGV4Y2VwdGlvbgogICAgICAgICAgICBtc2cgKz0gJ1x0RXhjZXB0aW9uOiB7fVxuJy5mb3JtYXQocmVzdWx0LmV4Y2VwdGlvbikKCiAgICBlbWFpbF9tc2cobWVzc2FnZV9zdHJpbmc9bXNnLCBmcm9tX2VtYWlsPSdTeXN0ZW1PdmVydmlldycsIHRvX2VtYWlsPXJlY2VpdmVycywKICAgICAgICAgICAgICBzdWJqZWN0PXN1YmplY3QpCgoKZGVmIF9zYWZlX3JlcGxhY2Uoc3JjLCBkZXN0LCBsb2dnZXIpOgogICAgdHJ5OgogICAgICAgICMgcmVtb3ZlIGV2ZXJ5dGhpbmcgdGhhdCBleGlzdHMgaW4gdGhpcyBkaXJlY3RvcnkKICAgICAgICBpZiBvcy5wYXRoLmV4aXN0cyhkZXN0KToKICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJSZW1vdmluZyBkaXJlY3Rvcnk6ICVzIiwgZGVzdCkKICAgICAgICAgICAgc2h1dGlsLnJtdHJlZShkZXN0KQogICAgICAgIGxvZ2dlci5kZWJ1ZygiQ29weWluZyBuZXcgZmlsZXMgdG86ICVzIiwgZGVzdCkKICAgICAgICAjIENvcHkgYWxsIG91dHB1dCB0byBhIGZvbGRlciBjYWxsZWQgImN1cnJlbnQiCiAgICAgICAgc2h1dGlsLmNvcHl0cmVlKHNyYywgZGVzdCkKICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgbG9nZ2VyLmV4Y2VwdGlvbigiRmFpbGVkIHRvIHJlcGxhY2UgZGlyZWN0b3J5IGF0OiAlcyIsIGRlc3QpCgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fbmFtZV9fKQo=</text>
+        <text encoding="base64">CkRFRkFVTFRfVEhSRUFEUyA9IDgK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>notebook_name</last-search>
+      <last-search>join</last-search>
       <last-offset />
-      <last-pattern>notebook_name</last-pattern>
+      <last-pattern>join</last-pattern>
       <last-replace>splitext</last-replace>
       <last-substitute>os\.path\.splitext</last-substitute>
       <last-dir>1</last-dir>
@@ -449,7 +450,6 @@
     </search>
     <history>
       <history-search>
-        <entry>executor</entry>
         <entry>notify_emails</entry>
         <entry>preproc_args</entry>
         <entry>extra_ar</entry>
@@ -469,6 +469,7 @@
         <entry>notebook_filename</entry>
         <entry>notebook_ame</entry>
         <entry>notebook_name</entry>
+        <entry>join</entry>
       </history-search>
       <history-cmd>
         <entry>95</entry>
@@ -487,9 +488,9 @@
         <entry>%s/os\.path\.splitext/splitext/g</entry>
         <entry>58</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>q</entry>
         <entry>sh</entry>
         <entry>W</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
