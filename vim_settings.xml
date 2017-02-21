@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/maxpoint/mas-loco/report_tool/models/__init__.py" timestamp="1487704744292" />
       <file name="/a.dummy" timestamp="1485464331541">
         <mark key="[" line="0" column="0" />
       </file>
@@ -14,80 +15,9 @@
         <mark key="^" line="35" column="53" />
         <mark key="." line="35" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/MANIFEST.in" timestamp="1477423153509">
-        <mark key="[" line="11" column="44" />
-        <mark key="]" line="11" column="48" />
-        <mark key="^" line="11" column="48" />
-        <mark key="." line="11" column="48" />
-      </file>
-      <file name="$USER_HOME$/dev/maxpoint/minion-services-py/jenkins-build.sh" timestamp="1476727848962">
-        <mark key="[" line="65" column="68" />
-        <mark key="]" line="65" column="72" />
-        <mark key="^" line="65" column="72" />
-        <mark key="." line="65" column="72" />
-      </file>
-      <file name="$USER_HOME$/dev/maxpoint/system-overview/sitecustomize.py" timestamp="1487346905949">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="19" />
-      </file>
-      <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/docs/history.rst" timestamp="1477421740443">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="0" column="19" />
-        <mark key="^" line="0" column="19" />
-      </file>
-      <file name="$USER_HOME$/dev/maxpoint/system-overview/.flake8" timestamp="1487341617176">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="18" />
-        <mark key="^" line="1" column="18" />
-        <mark key="." line="1" column="18" />
-      </file>
-      <file name="$USER_HOME$/dev/conda/buildmatrix/tests/test_build_sorting.py" timestamp="1475264655122">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="11" column="3" />
-        <mark key="^" line="11" column="3" />
-        <mark key="." line="11" column="3" />
-      </file>
-      <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/setup.py" timestamp="1477423003491">
-        <mark key="[" line="34" column="53" />
-        <mark key="]" line="34" column="53" />
-        <mark key="." line="34" column="53" />
-        <mark key="^" line="10" column="22" />
-      </file>
-      <file name="$USER_HOME$/dev/maxpoint/github/conda-mirror/CHANGELOG.md" timestamp="1486492688623">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="8" />
-        <mark key="^" line="2" column="8" />
-        <mark key="." line="2" column="8" />
-      </file>
-      <file name="$USER_HOME$/dev/maxpoint/system-overview/.coveragerc" timestamp="1487345843951">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/maxpoint/maxforge/ci/install-miniconda.sh" timestamp="1476119544261">
-        <mark key="[" line="22" column="51" />
-        <mark key="]" line="22" column="51" />
-        <mark key="." line="22" column="51" />
-        <mark key="^" line="22" column="51" />
-      </file>
+      <file name="$USER_HOME$/dev/maxpoint/mas-loco/mas_loco/common/config/location_pseudoservice.py" timestamp="1487704299862" />
       <file name="$USER_HOME$/miniconda/envs/system-overview/lib/python3.5/site-packages/nbconvert/exporters/exporter.py" timestamp="1487697538761">
         <mark key="'" line="254" column="28" />
-      </file>
-      <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/env/meta.yaml" timestamp="1477422220423">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="28" column="68" />
-        <mark key="^" line="28" column="68" />
-        <mark key="." line="28" column="68" />
-      </file>
-      <file name="$USER_HOME$/dev/maxpoint/github/conda-mirror/example-conf.yaml" timestamp="1486488871018">
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="6" column="23" />
-        <mark key="." line="6" column="23" />
-        <mark key="^" line="6" column="23" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/system-overview/tests/conftest.py" timestamp="1487698730002">
         <mark key="[" line="4" column="0" />
@@ -99,24 +29,18 @@
         <mark key="]" line="172" column="0" />
         <mark key="." line="172" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/airflow/CONTRIBUTING.md" timestamp="1485457913182">
-        <mark key="[" line="49" column="2" />
-        <mark key="]" line="49" column="5" />
-        <mark key="." line="49" column="5" />
-        <mark key="^" line="49" column="5" />
+      <file name="$USER_HOME$/dev/maxpoint/mas-loco/test/report-tool/tests/test_report.py" timestamp="1487705250023">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/system-overview/README.md" timestamp="1487702177524" />
+      <file name="$USER_HOME$/dev/maxpoint/mas-loco/report_tool/tests/test_report.py" timestamp="1487704245902">
+        <mark key="'" line="511" column="4" />
+      </file>
       <file name="$USER_HOME$/miniconda/envs/system-overview/lib/python3.5/site-packages/mp_utils/scheduler/skeleton.py" timestamp="1487691382064">
         <mark key="[" line="40" column="51" />
         <mark key="]" line="40" column="2" />
         <mark key="." line="40" column="2" />
         <mark key="^" line="40" column="2" />
-      </file>
-      <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/docs/readme.rst" timestamp="1477421750533">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="0" column="19" />
-        <mark key="^" line="0" column="19" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/system-overview/tests/test_notebookrunner.py" timestamp="1487699623172">
         <mark key="'" line="19" column="0" />
@@ -128,12 +52,6 @@
       <file name="$USER_HOME$/miniconda/envs/system-overview/lib/python3.5/site-packages/nbconvert/writers/files.py" timestamp="1487362016621">
         <mark key="'" line="52" column="61" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/maxforge/tools/conda/sync-upstream.py" timestamp="1476727986949">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1485460989138">
         <mark key="[" line="0" column="0" />
       </file>
@@ -142,42 +60,17 @@
         <mark key="]" line="12" column="31" />
         <mark key="." line="12" column="31" />
       </file>
+      <file name="$USER_HOME$/dev/maxpoint/mas-loco/report_tool/models/common.py" timestamp="1487704484019">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
+      </file>
       <file name="$USER_HOME$/miniconda/envs/system-overview/lib/python3.5/site-packages/nbconvert/exporters/templateexporter.py" timestamp="1487697461723">
         <mark key="'" line="233" column="10" />
-      </file>
-      <file name="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/depends-on-compiles-against-numpy/meta.yaml" timestamp="1475263139993">
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="2" column="11" />
-        <mark key="^" line="2" column="11" />
-        <mark key="." line="2" column="11" />
-      </file>
-      <file name="$USER_HOME$/dev/maxpoint/maxforge/tools/conda/conda-sync/conda-sync.py" timestamp="1476733166108">
-        <mark key="[" line="19" column="9" />
-        <mark key="]" line="31" column="10" />
-        <mark key="^" line="31" column="10" />
-        <mark key="." line="31" column="10" />
-      </file>
-      <file name="$USER_HOME$/dev/maxpoint/minion-services-py/test-jenkins-trigger.sh" timestamp="1476123221264">
-        <mark key="[" line="5" column="110" />
-        <mark key="]" line="5" column="110" />
-        <mark key="^" line="5" column="108" />
-        <mark key="." line="5" column="110" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" timestamp="1487701976381">
         <mark key="'" line="38" column="8" />
         <mark key="^" line="116" column="36" />
-      </file>
-      <file name="$USER_HOME$/dev/maxpoint/minion-services-py/setup.template.py" timestamp="1475607375025">
-        <mark key="[" line="6" column="10" />
-        <mark key="]" line="6" column="20" />
-        <mark key="." line="6" column="20" />
-        <mark key="^" line="6" column="20" />
-      </file>
-      <file name="$USER_HOME$/dev/maxpoint/maxforge/ci/install-miniconda2.sh" timestamp="1476115285644">
-        <mark key="[" line="3" column="21" />
-        <mark key="]" line="4" column="46" />
-        <mark key="." line="4" column="46" />
-        <mark key="^" line="4" column="46" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/maxforge/maxforge-python/maxforge/constructor.py" timestamp="1487624644309">
         <mark key="'" line="193" column="3" />
@@ -188,41 +81,11 @@
       <file name="$USER_HOME$/miniconda/lib/python3.6/site-packages/delegator.py" timestamp="1487622634494">
         <mark key="'" line="45" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/validate.py" timestamp="1486560040769">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test-requirements.txt" timestamp="1476982053141">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="3" column="3" />
-        <mark key="^" line="3" column="3" />
-        <mark key="." line="3" column="3" />
-      </file>
-      <file name="$USER_HOME$/dev/maxpoint/mp-airflow/dags/notebooks.sh" timestamp="1485444803498">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/miniconda/envs/system-overview/lib/python3.5/site-packages/nbconvert/preprocessors/execute.py" timestamp="1487690233858">
         <mark key="'" line="102" column="4" />
         <mark key="[" line="89" column="15" />
         <mark key="]" line="89" column="15" />
         <mark key="." line="89" column="15" />
-      </file>
-      <file name="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/run_tests" timestamp="1477319367527">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="13" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="2" column="13" />
-      </file>
-      <file name="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test/recipes/b/meta.yaml" timestamp="1476981751650">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="11" />
-        <mark key="." line="2" column="11" />
-        <mark key="^" line="2" column="11" />
       </file>
       <file name="$USER_HOME$/dev/maxpoint/github/conda-mirror/.travis.yml" timestamp="1486489631219">
         <mark key="[" line="3" column="0" />
@@ -232,38 +95,6 @@
       <file name="/code.py" timestamp="1487349373846">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/github/conda-mirror/conda_mirror/conda_mirror.py" timestamp="1486563434856">
-        <mark key="'" line="132" column="4" />
-        <mark key="[" line="252" column="0" />
-        <mark key="m" line="367" column="8" />
-        <mark key="]" line="252" column="0" />
-        <mark key="^" line="163" column="32" />
-        <mark key="." line="252" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/__init__.py" timestamp="1477419716465">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="34" />
-        <mark key="^" line="0" column="34" />
-        <mark key="." line="0" column="34" />
-      </file>
-      <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/docs/contributing.rst" timestamp="1477421681424">
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="19" />
-      </file>
-      <file name="$USER_HOME$/dev/maxpoint/maxforge/tools/conda/conda-sync/whitelisted-packages.yaml" timestamp="1476732977308">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="1" column="9" />
-        <mark key="." line="1" column="9" />
-        <mark key="^" line="1" column="9" />
-      </file>
-      <file name="$USER_HOME$/dev/conda/buildmatrix/tests/conftest.py" timestamp="1475264684986">
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="7" column="50" />
-        <mark key="^" line="7" column="50" />
-        <mark key="." line="7" column="50" />
-      </file>
       <file name="$USER_HOME$/dev/maxpoint/system-overview/tests/test_job.py" timestamp="1487701946330">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="0" column="10" />
@@ -271,62 +102,9 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/docs/authors.rst" timestamp="1477421673455">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="0" column="20" />
-        <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="20" />
-      </file>
-      <file name="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/test/recipes/a/meta.yaml" timestamp="1476981728256">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="12" />
-        <mark key="^" line="2" column="12" />
-        <mark key="." line="2" column="12" />
-      </file>
       <file name="$USER_HOME$/miniconda/envs/system-overview/lib/python3.5/site-packages/nbformat/__init__.py" timestamp="1487694469004" />
-      <file name="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/compiles-against-numpy/meta.yaml" timestamp="1475262954519">
-        <mark key="[" line="1" column="18" />
-        <mark key="]" line="1" column="18" />
-        <mark key="^" line="1" column="18" />
-        <mark key="." line="1" column="18" />
-      </file>
-      <file name="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/tox.ini" timestamp="1476988375738">
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="9" column="28" />
-        <mark key="^" line="9" column="28" />
-        <mark key="." line="9" column="28" />
-      </file>
-      <file name="$USER_HOME$/dev/maxpoint/maxforge/conda-mirror/README.md" timestamp="1477323433542">
-        <mark key="[" line="37" column="11" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/needs-numpy-at-compilation/meta.yaml" timestamp="1475263056426">
-        <mark key="[" line="1" column="10" />
-        <mark key="]" line="1" column="18" />
-        <mark key="." line="1" column="18" />
-        <mark key="^" line="1" column="18" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="267" column="20" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="272" column="16" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="276" column="20" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="282" column="12" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="78" column="8" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="99" column="12" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="89" column="8" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="88" column="12" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="87" column="11" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="86" column="30" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="72" column="27" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="235" column="69" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="225" column="29" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="212" column="80" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="234" column="22" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
-      <jump line="184" column="0" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="188" column="47" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="197" column="4" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="291" column="33" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
@@ -410,55 +188,72 @@
       <jump line="38" column="8" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="188" column="12" filename="$USER_HOME$/dev/maxpoint/system-overview/job.py" />
       <jump line="192" column="4" filename="$USER_HOME$/dev/maxpoint/system-overview/job.py" />
+      <jump line="511" column="4" filename="$USER_HOME$/dev/maxpoint/mas-loco/report_tool/tests/test_report.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/dev/maxpoint/mas-loco/report_tool/models/panels.py" />
+      <jump line="158" column="0" filename="$USER_HOME$/dev/maxpoint/mas-loco/report_tool/models/panels.py" />
+      <jump line="329" column="0" filename="$USER_HOME$/dev/maxpoint/mas-loco/report_tool/models/panels.py" />
+      <jump line="371" column="0" filename="$USER_HOME$/dev/maxpoint/mas-loco/report_tool/models/panels.py" />
+      <jump line="633" column="0" filename="$USER_HOME$/dev/maxpoint/mas-loco/report_tool/models/panels.py" />
+      <jump line="675" column="0" filename="$USER_HOME$/dev/maxpoint/mas-loco/report_tool/models/panels.py" />
+      <jump line="801" column="0" filename="$USER_HOME$/dev/maxpoint/mas-loco/report_tool/models/panels.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/maxpoint/mas-loco/report_tool/models/banners.py" />
+      <jump line="17" column="4" filename="$USER_HOME$/dev/maxpoint/mas-loco/report_tool/models/banners.py" />
+      <jump line="222" column="0" filename="$USER_HOME$/dev/maxpoint/mas-loco/report_tool/models/banners.py" />
+      <jump line="219" column="0" filename="$USER_HOME$/dev/maxpoint/mas-loco/report_tool/models/banners.py" />
+      <jump line="92" column="0" filename="$USER_HOME$/dev/maxpoint/mas-loco/report_tool/models/banners.py" />
+      <jump line="169" column="13" filename="$USER_HOME$/dev/maxpoint/mas-loco/report_tool/models/banners.py" />
+      <jump line="170" column="23" filename="$USER_HOME$/dev/maxpoint/mas-loco/report_tool/models/banners.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/dev/maxpoint/mas-loco/report_tool/models/banners.py" />
+      <jump line="999" column="0" filename="$USER_HOME$/dev/maxpoint/mas-loco/report_tool/models/panels.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QHB5dGVzdC5tYXJrLnBhcmFtZXRyaXplKCJub3RlYm9vayIsIFtiYWRfbm90ZWJvb2tzKCldKQo=</text>
-      </register>
-      <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlweW5iJyld</text>
-      </register>
-      <register name="/" type="4">
-        <text>self.preprocessors</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">CkBweXRlc3QuZml4dHVyZQpkZWYgZ29vZF9ub3RlYm9va3MocmVzb3VyY2VzKToKICAgIHJldHVybiBbb3MucGF0aC5qb2luKHJlc291cmNlcywgJ3Rlc3RfcGFuZGFzX3Bsb3QsaXB5bmInKV0KCg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">QHB5dGVzdC5tYXJrLnBhcmFtZXRyaXplKCJub3RlYm9vayIsIFtiYWRfbm90ZWJvb2tzKCldKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">QHB5dGVzdC5yYWlzZXMoUnVudGltZUVycm9yKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="-" type="4">
+        <text>s</text>
+      </register>
+      <register name="/" type="4">
+        <text>synthetic</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ZGVmIC95bnRoZXRpY19jb29yZGluYXRlcyhjZW50ZXI9Tm9uZSk6Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRlZiBfZ2V0X3N5bnRoZXRpY19kYXRhKHNlbGYpOgogICAgICAgIGNlbnRlciwgeCwgeSA9IHN5bnRoZXRpY19jb29yZGluYXRlcygpCiAgICAgICAgZGYgPSBwZC5EYXRhRnJhbWUoeydsYXRpdHVkZSc6IHgsICdsb25naXR1ZGUnOiB5fSkKICAgICAgICByZXR1cm4gZGYK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZGVmIHN5bnRoZXRpY19jb29yZGluYXRlcyhjZW50ZXI9Tm9uZSk6CiAgICAiIiIKICAgIGdlbmVyYXRlIGEgMi1EIG5vcm1hbCBkaXN0cmlidXRpb24KCiAgICBQYXJhbWV0ZXJzCiAgICAtLS0tLS0tLS0tCiAgICBjZW50ZXIgOiB0dXBsZSwgb3B0aW9uYWwKICAgICAgICAoeCx5KSB0dXBsZSB0aGF0IHJlcHJlc2VudHMgdGhlIGxvY2F0aW9uIG9mIGEgc3RvcmUKCiAgICBSZXR1cm5zCiAgICAtLS0tLS0tCiAgICBjb29yZF9saXN0IDogbGlzdAogICAgICAgIExpc3Qgb2YgImxhdCwgbG9uZyIgc3RyaW5ncyBmb3IgdGhlIHN0b3JlIGxvY2F0aW9ucwoKICAgICIiIgogICAgbnVtX3BvaW50cyA9IDUKICAgIGNvdiA9IFtbMCwgLjFdLCBbLjEsIDBdXQogICAgaWYgY2VudGVyIGlzIE5vbmU6CiAgICAgICAgY2VudGVyID0gKDM1Ljg2MzE1NCwgLTc4LjgzMzQ5MikKICAgIHgsIHkgPSBucC5yYW5kb20ubXVsdGl2YXJpYXRlX25vcm1hbChjZW50ZXIsIGNvdiwgbnVtX3BvaW50cykuVAoKICAgIHJldHVybiBjZW50ZXIsIHgsIHkKCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbb3MucGF0aC5qb2luKHJlc291cmNlcywgbmIpIGZvciBuYiBpbiBmbm1hdGNoLmZpbHRlcihvcy5saXN0ZGlyKHJlc291cmNlcyksICIqLmlweW5iIildCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciBuYiBpbiBiYWRfbm90ZWJvb2tzOgo=</text>
+        <text encoding="base64">ICAgIGRlZiBfZ2V0X3N5bnRoZXRpY19kYXRhKHNlbGYpOgogICAgICAgIGR6X2xpc3QgPSBwZC5TZXJpZXMoLTEwKQogICAgICAgIGNlbnRlciwgeCwgeSA9IHN5bnRoZXRpY19jb29yZGluYXRlcygpCiAgICAgICAgbmFtZSA9ICdNYXhwb2ludCcKICAgICAgICBzdG9yZXNfY2VudHJvaWRzID0gcGQuRGF0YUZyYW1lKHsnbGF0aXR1ZGUnOiB4LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdsb25naXR1ZGUnOiB5LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdzdG9yZV9uYW1lJzogW25hbWVdICogbGVuKHgpfSkKICAgICAgICByZXR1cm4gZHpfbGlzdCwgc3RvcmVzX2NlbnRyb2lkcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIGNvb3JkX2xpc3QKCiAgICBkZWYgX2dldF9zeW50aGV0aWNfZGF0YShzZWxmKToKICAgICAgICBjZW50ZXIsIHgsIHkgPSBzeW50aGV0aWNfY29vcmRpbmF0ZXMoKQogICAgICAgIGRmID0gcGQuRGF0YUZyYW1lKHsnbGF0aXR1ZGUnOiB4LCAnbG9uZ2l0dWRlJzogeX0pCiAgICAgICAgcmV0dXJuIGRmCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4ZWNfcHJlcHJvYyA9Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfZ2V0X3N5bnRoZXRpY19kYXRhKHNlbGYpOgogICAgICAgIGNlbnRlciwgeCwgeSA9IHN5bnRoZXRpY19jb29yZGluYXRlcygpCiAgICAgICAgZGYgPSBwZC5EYXRhRnJhbWUoeydsYXRpdHVkZSc6IHgsICdsb25naXR1ZGUnOiB5fSkKICAgICAgICByZXR1cm4gZGYK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>self.preprocessors</last-search>
+      <last-search>synthetic</last-search>
       <last-offset />
-      <last-pattern>self.preprocessors</last-pattern>
+      <last-pattern>synthetic</last-pattern>
       <last-replace>splitext</last-replace>
       <last-substitute>os\.path\.splitext</last-substitute>
       <last-dir>1</last-dir>
@@ -466,7 +261,6 @@
     </search>
     <history>
       <history-search>
-        <entry>&quot;&quot;&quot;</entry>
         <entry>self.logger</entry>
         <entry>self.</entry>
         <entry>start_ts</entry>
@@ -486,10 +280,9 @@
         <entry>preproc</entry>
         <entry>register</entry>
         <entry>self.preprocessors</entry>
+        <entry>synthetic</entry>
       </history-search>
       <history-cmd>
-        <entry>e sitecustomize.py</entry>
-        <entry>163</entry>
         <entry>194</entry>
         <entry>209</entry>
         <entry encoding="base64">JzwsJz4lcy9zZWxmXC4vL2c=</entry>
@@ -507,6 +300,8 @@
         <entry>W</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>512</entry>
+        <entry>424</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
