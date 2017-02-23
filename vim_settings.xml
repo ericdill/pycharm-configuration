@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/maxpoint/mas-loco/report_tool/models/__init__.py" timestamp="1487704744292" />
       <file name="/a.dummy" timestamp="1487707149106">
         <mark key="[" line="0" column="0" />
       </file>
@@ -51,7 +50,6 @@
         <mark key="^" line="11" column="3" />
         <mark key="." line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/mas-loco/mas_loco/common/config/location_pseudoservice.py" timestamp="1487704299862" />
       <file name="$USER_HOME$/dev/maxpoint/maxpoint-trafficlift-service/maxpoint-trafficlift-service-server/foot_traffic_insights/setup.py" timestamp="1477423003491">
         <mark key="[" line="34" column="53" />
         <mark key="]" line="34" column="53" />
@@ -119,10 +117,10 @@
         <mark key="^" line="2" column="1" />
         <mark key="." line="2" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/maxpoint/system-overview/README.md" timestamp="1487702177524" />
       <file name="$USER_HOME$/dev/maxpoint/mas-loco/report_tool/tests/test_report.py" timestamp="1487704245902">
         <mark key="'" line="511" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/maxpoint/streams-client/main/streams_client/interpreters/pyspark.py" timestamp="1487876098508" />
       <file name="$USER_HOME$/dev/maxpoint/mas-loco/run_tests.py" timestamp="1487708379573">
         <mark key="[" line="18" column="21" />
         <mark key="]" line="20" column="16" />
@@ -240,6 +238,9 @@
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="11" />
       </file>
+      <file name="$USER_HOME$/dev/maxpoint/streams-client/main/streams_client/interpreters/base.py" timestamp="1487875738715">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/maxpoint/github/conda-mirror/.travis.yml" timestamp="1486489631219">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -291,7 +292,6 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/miniconda/envs/system-overview/lib/python3.5/site-packages/nbformat/__init__.py" timestamp="1487694469004" />
       <file name="$USER_HOME$/dev/conda/buildmatrix/tests/example-recipes/compiles-against-numpy/meta.yaml" timestamp="1475262954519">
         <mark key="[" line="1" column="18" />
         <mark key="]" line="1" column="18" />
@@ -318,7 +318,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="47" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="197" column="4" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="291" column="33" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
       <jump line="189" column="36" filename="$USER_HOME$/dev/maxpoint/system-overview/notebookrunner.py" />
@@ -418,6 +417,7 @@
       <jump line="170" column="23" filename="$USER_HOME$/dev/maxpoint/mas-loco/report_tool/models/banners.py" />
       <jump line="12" column="0" filename="$USER_HOME$/dev/maxpoint/mas-loco/report_tool/models/banners.py" />
       <jump line="999" column="0" filename="$USER_HOME$/dev/maxpoint/mas-loco/report_tool/models/panels.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/maxpoint/streams-client/main/streams_client/interpreters/base.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -427,7 +427,7 @@
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>synthetic</text>
+        <text>conda</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJlcG9ydF90b29sLyoK</text>
@@ -464,9 +464,9 @@
       </register>
     </registers>
     <search>
-      <last-search>synthetic</last-search>
+      <last-search>conda</last-search>
       <last-offset />
-      <last-pattern>synthetic</last-pattern>
+      <last-pattern>conda</last-pattern>
       <last-replace>splitext</last-replace>
       <last-substitute>os\.path\.splitext</last-substitute>
       <last-dir>1</last-dir>
@@ -474,8 +474,6 @@
     </search>
     <history>
       <history-search>
-        <entry>self.logger</entry>
-        <entry>self.</entry>
         <entry>start_ts</entry>
         <entry>end_ts</entry>
         <entry>stream_options</entry>
@@ -494,6 +492,8 @@
         <entry>register</entry>
         <entry>self.preprocessors</entry>
         <entry>synthetic</entry>
+        <entry>Launcher</entry>
+        <entry>conda</entry>
       </history-search>
       <history-cmd>
         <entry>194</entry>
