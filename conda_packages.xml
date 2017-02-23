@@ -27,7 +27,7 @@
         <entry key="anaconda-navigator" value="1.4.3" />
         <entry key="anaconda-verify" value="1.3.3" />
         <entry key="analysis" value="2016_01" />
-        <entry key="analysis-preview" value="41.0" />
+        <entry key="analysis-preview" value="42.0" />
         <entry key="analytics" value="1" />
         <entry key="aniso8601" value="1.1.0" />
         <entry key="ansi2html" value="1.1.1" />
@@ -1076,7 +1076,7 @@
         <entry key="minion-services-loco" value="1.1_SNAPSHOT" />
         <entry key="minion-services-measurement" value="0.3SNAPTSHOT" />
         <entry key="minion-services-minion" value="1.2.3" />
-        <entry key="minion-services-minion_framework" value="1.2.9" />
+        <entry key="minion-services-minion_framework" value="1.2.10" />
         <entry key="minion-services-placements" value="2.3.1" />
         <entry key="minion-services-poi" value="1.0.10" />
         <entry key="minion-services-publisher" value="0.5.1" />
@@ -2526,6 +2526,7 @@
               <option value="39.0" />
               <option value="39.1" />
               <option value="41.0" />
+              <option value="42.0" />
             </list>
           </value>
         </entry>
@@ -12083,6 +12084,7 @@
               <option value="1.2.7" />
               <option value="1.2.8" />
               <option value="1.2.9" />
+              <option value="1.2.10" />
             </list>
           </value>
         </entry>
@@ -12183,6 +12185,8 @@
               <option value="1.1.4" />
               <option value="1.0.17" />
               <option value="1.0.18" />
+              <option value="1.0.19" />
+              <option value="1.0.20" />
             </list>
           </value>
         </entry>
@@ -22014,6 +22018,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1487703095143" />
+    <option name="LAST_TIME_CHECKED" value="1487886402936" />
   </component>
 </application>
